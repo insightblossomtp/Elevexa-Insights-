@@ -1,0 +1,1001 @@
+order id,order date,customer segment,gender,product category,product subcategory,units sold,product name,unit price,discount %,shipping mode,city,state,country,payment mode,customer id,status
+1,2023-03-23,Corporate,Female,Photography,Smartphone Accessories,10,Smartphone Tripod with Bluetooth Remote,29.99,4.08,Standard,Las Carreras,,Bolivia,UPI,CUS0536,Returned
+2,2022-05-19,Corporate,Male,Food - Condiments,Dressing,13,Balsamic Fig Dressing,3.79,6.62,Express,Trới,,Vietnam,Debit Card,CUS0739,Completed
+3,2022-12-08,Corporate,Female,Food - Snacks,Healthy Snacks,21,Granola Bars,4.99,29.68,Standard,Tartu,,Estonia,Debit Card,CUS0034,Returned
+4,2024-11-10,Enterprise,Female,Outdoor,Outdoor Accessories,2,Hiking Water Bottle with Filter,29.99,4.38,Standard,Huabu,,China,COD,CUS0213,Completed
+5,2023-09-01,Small Business,Genderfluid,Health,Fitness & Nutrition,13,Smart Scale,59.99,5.88,Standard,Puerto Natales,,Chile,COD,CUS0174,Completed
+6,2024-03-10,Small Business,Female,Food - Snacks,Dips and Spreads,10,Hummus Trio Pack,5.49,20.96,Express,Paramaribo,,Suriname,Credit Card,CUS0589,Completed
+7,2022-07-25,Enterprise,Male,Food - Prepared Foods,Vegetable Sides,27,Maple Glazed Carrots,3.29,14.16,Same Day,Calaba,,Philippines,Debit Card,CUS0478,Completed
+8,2024-06-20,Corporate,Female,Food - Canned Goods,Soups & Broths,12,Tomato Basil Soup,3.49,4.56,Standard,Manturovo,,Russia,Wallet,CUS0984,Canceled
+9,2025-03-11,Corporate,Female,Food - Seafood,Canned Seafood,8,Canned Sardines,3.29,12.74,Express,Mabai,,China,Credit Card,CUS0518,Completed
+10,2023-06-26,Enterprise,Female,Food - Canned Goods,Soups & Broths,29,Tuscan Bean Soup,2.49,13.36,Standard,Bulupayung,,Indonesia,Credit Card,CUS0042,Returned
+11,2024-06-01,Corporate,Female,Pets,Pet Waste Management,11,Dog Waste Bag Dispenser,6.99,9.84,Standard,Selat,,Indonesia,EMI,CUS0650   CUS0651,Completed
+12,2022-05-03,Enterprise,Male,Kitchen,Small Appliances,7,Electric Egg Cooker,29.99,3.72,Standard,Gradishtë,,Albania,Wallet,CUS0627,Returned
+13,2022-11-18,Consumer,Polygender,Accessories,Mobile Accessories,16,Wireless Earbuds Case,12.99,6.45,Standard,Diancun,,China,Debit Card,CUS0132,Completed
+14,2025-05-04,Small Business,Agender,Kitchen,Blenders & Juicers,4,Portable Blender,30.0,6.89,Standard,Pukou,,China,COD,CUS0644,Completed
+15,2025-08-12,Enterprise,Female,Electronics,Home Entertainment Equipment,25,Streaming Device,49.99,8.42,Same Day,Nine,Braga,Portugal,EMI,CUS0469,Completed
+16,2022-05-24,Consumer,Male,Clothing,T-shirts,24,Graphic Tee,19.99,19.43,Standard,Göteborg,Västra Götaland,Sweden,Debit Card,CUS0750   CUS0751,Completed
+17,2023-02-03,Consumer,Male,Accessories,Tech Accessories,6,Bluetooth Tracker,19.99,14.22,Standard,Šabac,,Serbia,Debit Card,CUS0243,Completed
+18,2023-12-30,Small Business,Male,Kitchen,Kitchen Gadgets,25,Bamboo Cutting Board Set,34.99,1.13,Same Day,San Felipe,,Peru,Wallet,CUS0397,Canceled
+19,2025-04-13,Enterprise,Female,Food - Snacks,Healthy Snacks,23,Energy Protein Bars,2.29,25.92,Express,Yokosuka,,Japan,UPI,CUS0111,Completed
+20,2023-01-16,Small Business,Male,Home,Eco-Friendly Home Products,5,Biodegradable Trash Bags,12.99,9.82,Standard,Xiluodu,,China,EMI,CUS0055,Completed
+21,2022-07-25,Enterprise,Male,Audio,Sleep Aids,4,Bluetooth Sleep Headphones,29.99,4.61,Same Day,Xuhui,,China,COD,CUS0234,Completed
+22,2025-07-22,Small Business,Male,Food - Frozen Food,Frozen Meals,22,Vegetable Fried Rice Mix,3.99,6.35,Same Day,Takari,,Indonesia,Debit Card,CUS0467,Canceled
+23,2023-06-11,Enterprise,Female,Home,Decorative Wall Art & Accessories,30,Canvas Wall Art,39.99,13.22,Standard,Drayton Valley,Alberta,Canada,Credit Card,CUS0915,Canceled
+24,2022-06-07,Corporate,Male,Kitchen,Small Appliances,29,Electric Kettle,39.99,4.89,Express,Xiaolong,,China,Wallet,CUS0777,Canceled
+25,2023-07-09,Small Business,Female,Kitchen,Blenders & Juicers,29,Hand Mixer,29.99,21.58,Express,Independencia,Guerrero,Mexico,Debit Card,CUS0639,Canceled
+26,2024-11-13,Enterprise,Male,Food - Bakery,Breads,9,Hot Dog Buns,2.49,22.4,Express,Dabola,,Guinea,Wallet,CUS0520   CUS0521,Canceled
+27,2022-04-22,Corporate,Female,Fitness,Cardio Equipment,1,Fitness Jump Rope,15.99,28.79,Same Day,Saint-Quentin-en-Yvelines,Île-de-France,France,EMI,CUS0843,Completed
+28,2022-01-03,Small Business,Female,Garden,Garden Tools,6,Garden Tool Set,34.99,14.24,Same Day,Gampang,,Indonesia,Credit Card,CUS0145,Completed
+29,2022-10-24,Small Business,Female,Outdoor,Camping Equipment,25,Insulated Cooler,39.99,26.73,Express,Anjirmuara,,Indonesia,COD,CUS0324,Completed
+30,2022-10-18,Corporate,Male,Electronics,Computer Accessories,17,Portable Bluetooth Keyboard,39.99,20.75,Same Day,Raydah,,Yemen,COD,CUS0384,Completed
+31,2023-08-13,Enterprise,Female,Food - Sauces,Condiments,26,Sriracha Honey Glaze,3.59,28.0,Express,Jiangkou,,China,Credit Card,CUS0666,Returned
+32,2023-05-30,Consumer,Male,Pets,Travel Accessories,30,Pet Safety Belt for Car,14.99,18.18,Express,Rassvet,,Russia,UPI,CUS0122,Returned
+33,2024-10-18,Enterprise,Female,Fitness,Yoga Equipment,10,Yoga Mat Carrier,12.99,27.77,Same Day,Jojoima,,Sierra Leone,EMI,CUS0110,Completed
+34,2022-09-29,Corporate,Female,Garden,Planters,21,Self-Watering Planter,24.99,10.37,Express,El Playón,,Colombia,Debit Card,CUS0837,Returned
+35,2024-10-27,Small Business,Female,Photography,Digital Cameras,17,Instant Camera,89.99,1.49,Same Day,New Agutaya,,Philippines,Credit Card,CUS0673,Completed
+36,2024-01-18,Small Business,Female,Garden,Garden Tools,27,Gardening Kneeler and Seat,39.99,23.03,Express,Joševa,,Serbia,EMI,CUS0458,Completed
+37,2024-11-08,Corporate,Female,Food - Bakery,Gluten-Free Treats,25,Almond Flour Cookies,4.99,27.76,Express,Cincinnati,Ohio,United States,Credit Card,CUS0629,Completed
+38,2023-05-31,Corporate,Female,Food - Produce,Fruits,11,Avocados,1.5,9.17,Standard,Xiaohenglong,,China,Credit Card,CUS0409,Completed
+39,2022-07-22,Small Business,Female,Kitchen,Drinkware,18,Self-Stirring Mug,19.99,6.44,Same Day,San Lucas Tolimán,,Guatemala,EMI,CUS0662,Returned
+40,2022-12-16,Small Business,Bigender,Bathroom,Shower Fixtures,2,Thermostatic Shower Valve Kit,39.99,11.64,Same Day,Metulla,,Israel,Wallet,CUS0060,Completed
+41,2022-10-06,Small Business,Female,Food - Snacks,Savory Snacks,23,Savory Rice Cakes,2.5,2.9,Standard,Allen,,Argentina,UPI,CUS0418,Completed
+42,2023-02-15,Small Business,Female,Kitchen,Cutlery,18,Stainless Steel Cutlery Set,29.99,12.65,Same Day,Mizdah,,Libya,Wallet,CUS0820   CUS0821,Completed
+43,2025-05-30,Consumer,Male,Food - Baking,Sweeteners,18,Organic Brown Sugar,2.49,25.56,Express,Sho’rchi,,Uzbekistan,Debit Card,CUS0156,Completed
+44,2024-09-08,Enterprise,Female,Garden,Planters,3,Self-Watering Planters,49.99,27.6,Express,Cam Ranh,,Vietnam,UPI,CUS0174,Completed
+45,2022-07-02,Consumer,Male,Toys,Puzzles,22,Wooden Puzzle Game,14.99,3.9,Same Day,Al Mushannaf,,Syria,Debit Card,CUS0114,Completed
+46,2024-09-28,Corporate,Female,Food - Condiments,Hot Sauces,14,Sriracha Chili Sauce,2.79,10.91,Standard,Berlin,Berlin,Germany,COD,CUS0360 CUS0361,Canceled
+47,2024-10-06,Small Business,Male,Food - Condiments,Dressing,8,Ranch Dressing,2.59,3.26,Same Day,Kristianstad,Skåne,Sweden,EMI,CUS0568,Completed
+48,2025-06-21,Corporate,Male,Food - Frozen Food,Frozen Fruits,4,Mixed Berry Smoothie Pack,5.99,14.61,Same Day,Brochów,,Poland,COD,CUS0852,Completed
+49,2022-06-05,Small Business,Male,Art Supplies,Drawing Supplies,3,Sketchbook,14.99,17.64,Express,Nashville,Tennessee,United States,COD,CUS0164,Completed
+50,2025-05-14,Consumer,Female,Food - Soups,Vegetarian Soups,4,Leek and Potato Soup,3.29,10.66,Express,Konstancin-Jeziorna,,Poland,COD,CUS0847,Returned
+51,2023-11-08,Small Business,Male,Food - Beverages,Health Drinks,13,Chocolate Mint Protein Shake,3.99,15.66,Same Day,Hedian,,China,COD,CUS0947,Canceled
+52,2024-07-15,Enterprise,Female,Toys,Educational Toys,17,Children's Educational Puzzle,19.99,2.37,Same Day,Krajan Karangsari,,Indonesia,Wallet,CUS0151,Completed
+53,2024-07-16,Enterprise,Agender,Kitchen,Baking Accessories,11,Silicone Baking Mat Set,24.99,13.35,Express,Karanganyar,,Indonesia,Wallet,CUS0946,Returned
+54,2025-07-20,Corporate,Female,Smart Home,Home Automation,19,Smart Thermostat,149.99,27.98,Express,Riverton,,New Zealand,Wallet,CUS0314,Returned
+55,2023-06-08,Small Business,Bigender,Food - Baking,Flours & Meals,23,Organic Almond Flour,6.99,23.39,Same Day,Sinilian First,,Philippines,EMI,CUS0759,Completed
+56,2024-10-25,Enterprise,Male,Food - Canned Goods,Soups & Broths,11,Homestyle Chicken Noodle Soup,2.99,5.02,Express,Papilawe,,Indonesia,Wallet,CUS0949,Completed
+57,2024-03-13,Small Business,Female,Kitchen,Cooking Tools & Utensils,23,Digital Food Thermometer,19.99,7.62,Same Day,Isoka,,Zambia,Wallet,CUS0337,Completed
+58,2025-06-06,Consumer,Female,Food - Bakery,Breads,7,Whole Wheat Bread,2.49,8.04,Standard,Austin,Texas,United States,Debit Card,CUS0676,Completed
+59,2022-11-16,Consumer,Female,Food - Condiments,Pesto,13,Sun-Dried Tomato Pesto,4.49,15.83,Express,Danilov,,Russia,Wallet,CUS0409,Returned
+60,2024-07-14,Small Business,Female,Food - Sauces,Plant-Based Sauces,7,Vegan Alfredo Sauce,4.99,7.06,Express,Dhī as Sufāl,,Yemen,Credit Card,CUS0729,Completed
+61,2025-08-26,Small Business,Male,Clothing - Outerwear,Coats,25,Belted Trench Coat,89.99,4.31,Same Day,Kongoussi,,Burkina Faso,Debit Card,CUS0140,Completed
+62,2023-01-01,Enterprise,Male,Food - Oils & Vinegars,Oils,30,Coconut Oil,6.49,16.89,Standard,Burauen,,Philippines,COD,CUS0439,Canceled
+63,2025-07-05,Corporate,Female,Food - Baked Goods,Desserts,8,Brownie Bites,4.99,20.09,Same Day,Shanhou,,China,Credit Card,CUS0844,Completed
+64,2024-06-02,Corporate,Female,Food - Condiments,Salsas & Dips,7,Salsa,3.49,19.98,Express,Zhirnovsk,,Russia,Credit Card,CUS0676,Canceled
+65,2024-02-16,Enterprise,Male,Kitchen,Drinkware,25,Travel Mug with Leak-Proof Lid,24.99,18.93,Standard,Höfn,,Iceland,UPI,CUS0296,Completed
+66,2023-01-10,Corporate,Male,Food - Beverages,Herbal Tea,26,Herbal Tea Variety Pack,4.99,28.95,Standard,Monteiro,,Brazil,Wallet,CUS0918,Completed
+67,2023-10-26,Consumer,Genderqueer,Food - Produce,Vegetables,9,Cabbage,1.29,13.36,Standard,Palmital,,Brazil,Debit Card,CUS0339,Canceled
+68,2022-07-29,Consumer,Genderqueer,Food - Snacks,Savory Snacks,17,Savory Snack Mix,4.49,14.19,Same Day,Norak,,Tajikistan,UPI,CUS0888,Returned
+69,2023-05-22,Consumer,Male,Kitchen,Coffee Equipment,16,Tea Set with Infuser,34.99,26.61,Same Day,Nakhon Luang,,Thailand,Wallet,CUS0196,Canceled
+70,2022-06-20,Enterprise,Female,Kitchen,Small Appliances,29,Electric Fondue Pot,39.99,5.21,Same Day,Huangbu,,China,Wallet,CUS0484,Completed
+71,2022-07-02,Corporate,Male,Clothing - Tops,Sweaters,30,Warm Wool Sweater,59.99,4.52,Same Day,Loyola,,Philippines,UPI,CUS0429,Completed
+72,2024-05-14,Small Business,Male,Pets,Pet Safety Gear,19,Dog Car Seat Cover,39.99,20.07,Same Day,Łęki,,Poland,Wallet,CUS0167,Completed
+73,2022-09-14,Small Business,Female,Food - Dairy,Dairy Spreads,8,Caramelized Onion Dip,3.99,14.27,Express,Chafé,Viana do Castelo,Portugal,UPI,CUS0945,Canceled
+74,2024-04-08,Enterprise,Male,Health,Fitness & Nutrition,25,Vegan Protein Powder,34.99,27.46,Same Day,Mantalongon,,Philippines,UPI,CUS0529,Completed
+75,2025-04-23,Small Business,Bigender,Food - Snacks,Nuts and Trail Mix,9,Dark Chocolate Covered Almonds,7.19,1.58,Same Day,Ayabe,,Japan,COD,CUS0713,Completed
+76,2023-03-29,Enterprise,Female,Food - Breakfast,Instant Breakfast,23,Cranberry Orange Oatmeal,2.49,27.07,Standard,Homa Bay,,Kenya,Debit Card,CUS0352,Returned
+77,2022-09-10,Small Business,Female,Food - Condiments,Nut Butters,4,Tahini,5.49,10.1,Same Day,Pallisa,,Uganda,EMI,CUS0362,Completed
+78,2022-02-17,Small Business,Male,Travel,Luggage and Bags,20,Overnight Duffle Bag,34.99,1.39,Express,Khlong Yai,,Thailand,COD,CUS0278,Returned
+79,2024-09-21,Corporate,Female,Kitchen,Cookware,12,Ceramic Non-Stick Frying Pan,39.99,8.8,Standard,Tahoua,,Niger,Debit Card,CUS0402,Completed
+80,2024-06-15,Small Business,Female,Food - Salads,Bean Salads,19,Chipotle Black Bean Salad,3.29,28.17,Express,Novoaleksandrovsk,,Russia,UPI,CUS0003,Completed
+81,2024-12-07,Enterprise,Male,Food - Condiments,Salsas,9,Mango Salsa,3.49,23.65,Standard,Haiyangsuo,,China,COD,CUS0394,Completed
+82,2022-07-17,Small Business,Female,Food - Prepared Foods,Salads,23,Beet Salad,3.99,25.39,Express,Chambly,Québec,Canada,Debit Card,CUS0847,Canceled
+83,2025-01-20,Small Business,Male,Kitchen,Small Appliances,8,Electric Butter Churn,49.99,13.24,Standard,Huddinge,Stockholm,Sweden,Wallet,CUS0428,Canceled
+84,2022-09-27,Consumer,Female,Toys,Creative Toys,29,Children's Art Set,34.99,11.85,Same Day,Xiaofayi,,China,UPI,CUS0747,Canceled
+85,2023-01-07,Consumer,Female,Food - Canned Goods,Canned Fruits,21,Peach Slices (canned),2.49,27.75,Same Day,Tokombere,,Nigeria,UPI,CUS0478,Completed
+86,2024-01-25,Corporate,Male,Food - Produce,Fresh Cut Vegetables,30,Sliced Cucumbers,1.29,17.46,Standard,Fond du Sac,,Mauritius,Debit Card,CUS0313,Completed
+87,2025-02-25,Small Business,Male,Food - Beverages,Herbal Tea,13,Hibiscus Tea Bags,3.79,8.73,Same Day,Phu Khiao,,Thailand,COD,CUS0326,Completed
+88,2022-08-01,Corporate,Polygender,Food - Beverages,Tea,30,Peach Green Tea,3.49,20.13,Standard,Fenoarivo Atsinanana,,Madagascar,Wallet,CUS0884,Returned
+89,2023-03-14,Enterprise,Female,Bathroom,Shower Accessories,30,High-Pressure Handheld Shower Head,39.99,7.7,Same Day,Salamnunggal,,Indonesia,Debit Card,CUS0935,Completed
+90,2023-10-01,Enterprise,Bigender,Food - Baking,Mixes,10,Chocolate Fudge Brownie Mix,2.99,16.53,Same Day,Shuangpu,,China,Debit Card,CUS0373,Completed
+91,2022-11-17,Consumer,Female,Office,Laptop Accessories,18,Adjustable Laptop Stand,29.99,17.1,Standard,Karangbayat,,Indonesia,Wallet,CUS0808,Completed
+92,2025-06-27,Small Business,Male,Food - Seafood,Prepared Seafood,23,Teriyaki Salmon Fillets,9.99,11.47,Express,Kulary,,Russia,UPI,CUS0257,Completed
+93,2023-11-29,Corporate,Male,Food - Snacks,Chips and Crisps,18,Kettle Chip Variety Pack,3.99,4.69,Express,Okiot,,Philippines,Wallet,CUS0306,Completed
+94,2022-02-13,Corporate,Female,Food - Bakery,Muffins,12,Banana Nut Muffins,4.49,26.46,Express,Bouzov,,Czech Republic,UPI,CUS0335,Completed
+95,2022-02-12,Small Business,Female,Kitchen,Cookware,1,Ceramic Non-Stick Frying Pan,39.99,17.07,Express,Fencheng,,China,UPI,CUS0008,Returned
+96,2024-12-10,Enterprise,Male,Food - Dips,Spicy Dips,26,Buffalo Chicken Dip,5.99,5.89,Same Day,Černelavci,,Slovenia,UPI,CUS0209,Canceled
+97,2023-05-31,Small Business,Female,Food - Soups,Specialty Soups,19,Spicy Thai Coconut Soup,3.99,3.34,Express,Laotai,,China,Wallet,CUS0527,Completed
+98,2025-01-06,Enterprise,Bigender,Office,Lighting,30,LED Desk Lamp with USB Charging Port,29.99,23.93,Same Day,Fengniancun,,China,UPI,CUS0857,Completed
+99,2022-10-18,Consumer,Female,Food - Condiments,Sauces,6,BBQ Sauce,3.49,27.94,Express,Ketara,,Indonesia,EMI,CUS0619,Completed
+100,2025-03-01,Small Business,Female,Accessories,Bags,5,Backpack,49.99,14.62,Same Day,Gorzyce,,Poland,Credit Card,CUS0322,Returned
+101,2025-06-19,Small Business,Male,Audio,Wireless Audio Accessories,12,Bluetooth Headphones,79.99,17.47,Same Day,Songjiang,,China,EMI,CUS0918,Completed
+102,2025-03-27,Enterprise,Male,Toys,Miniature Sports Games,14,Mini Air Hockey Table,39.99,23.71,Same Day,Mambulo,,Philippines,Debit Card,CUS0659,Completed
+103,2024-10-14,Enterprise,Female,Food - Meat,Marinated Poultry,19,Lemon Dill Chicken Skewers,9.99,1.8,Standard,Krajan Satu,,Indonesia,UPI,CUS0021,Canceled
+104,2022-11-11,Small Business,Male,Food - Produce,Fruits,14,Organic Green Apples,1.49,24.68,Same Day,Santa Rosa,Nuevo Leon,Mexico,Debit Card,CUS0377,Returned
+105,2025-07-22,Enterprise,Female,Food - Dairy,Cheese,12,Feta Cheese,4.99,20.86,Same Day,Kuala Lumpur,Kuala Lumpur,Malaysia,Debit Card,CUS0134,Canceled
+106,2023-09-04,Enterprise,Male,Pets,Pet Accessories,24,Pet Leash,15.99,24.46,Standard,Sitabamba,,Peru,Debit Card,CUS0022,Completed
+107,2022-10-29,Corporate,Male,Food - Snacks,Dips and Spreads,29,Spinach Artichoke Dip,4.99,11.65,Same Day,Yangsha,,China,UPI,CUS0428,Completed
+108,2023-04-16,Corporate,Male,Food - Meal Kits,Vegetarian Meal Kits,23,Pasta Primavera Kit,7.49,24.49,Express,Kungshamn,Västra Götaland,Sweden,Credit Card,CUS0404,Completed
+109,2025-01-27,Enterprise,Female,Food - Pasta,Specialty Pasta,15,Sweet Potato Noodles,3.79,4.12,Standard,Maevatanana,,Madagascar,Credit Card,CUS0188,Returned
+110,2024-09-17,Consumer,Male,Home Appliances,Dishwashers,20,Compact Dishwasher,299.99,27.87,Same Day,Pakapasan Ilir,,Indonesia,Credit Card,CUS0525,Canceled
+111,2024-05-21,Enterprise,Female,Food - Prepared Meals,Instant Meals,14,Ramen Noodle Soup Cups,1.29,8.26,Standard,Zhuyeping,,China,COD,CUS0346,Completed
+112,2023-07-14,Corporate,Female,Food - Dairy,Cheese,14,Shredded Cheese,4.29,19.03,Express,Cimonyong,,Indonesia,COD,CUS0214,Returned
+113,2022-04-08,Enterprise,Male,Food - Snacks,Healthy Snacks,3,Rainbow Veggie Chips,3.29,1.4,Same Day,Kabalo,,Democratic Republic of the Congo,UPI,CUS0896,Completed
+114,2023-09-13,Corporate,Non-binary,Home,Decorative Wall Art & Accessories,24,Ceramic Planter Set,39.99,29.64,Standard,Dongshan,,China,Credit Card,CUS0415,Returned
+115,2022-01-03,Small Business,Female,Home,Home Organization,29,Wire Shelving Unit,69.99,2.06,Same Day,Dolulolong,,Indonesia,COD,CUS0815,Canceled
+116,2022-03-26,Corporate,Female,Food - Meat,Marinated Poultry,5,Lemon Dill Chicken Skewers,9.99,11.94,Express,Liuliping,,China,Credit Card,CUS0953,Completed
+117,2022-06-25,Small Business,Male,Home,Home Organization,7,Collapsible Storage Crates,18.99,7.56,Standard,Datar,,Indonesia,UPI,CUS0777,Completed
+118,2025-06-08,Consumer,Female,Food - Snacks,Savory Snacks,19,Pepper Jack Cheese Sticks,2.49,6.15,Same Day,Conduaga,,Philippines,COD,CUS0548,Completed
+119,2025-08-11,Small Business,Male,Food - Canned Goods,Canned Legumes,29,Chickpeas,1.29,12.51,Standard,Xiangzhou,,China,Debit Card,CUS0319,Completed
+120,2024-06-06,Enterprise,Female,Kitchen,Cookware,1,Non-Stick Grill Pan,39.99,10.74,Express,Brest,Bretagne,France,Credit Card,CUS0884,Completed
+121,2025-04-05,Corporate,Male,Pets,Dog Accessories,20,Portable Dog Water Bottle,18.99,13.87,Standard,Rustam jo Goth,,Pakistan,Debit Card,CUS0113,Completed
+122,2025-06-19,Enterprise,Female,Furniture,Office Furniture,13,Home Office Chair,199.99,21.15,Same Day,Seixas,Coimbra,Portugal,Credit Card,CUS0700   CUS0701,Completed
+123,2025-02-06,Corporate,Male,Clothing - Dresses,Dresses,5,Pleated Midi Dress,79.99,20.96,Same Day,Huayuanli,,China,COD,CUS0893,Completed
+124,2022-10-22,Small Business,Female,Food - Soups,Vegetarian Soups,8,Butternut Squash Soup,3.49,24.85,Same Day,Guadalupe Victoria,Veracruz Llave,Mexico,EMI,CUS0535,Completed
+125,2025-05-17,Corporate,Male,Clothing - Accessories,Scarves,1,Patterned Knit Scarf,25.99,1.56,Same Day,Simenqian,,China,EMI,CUS0235,Completed
+126,2025-04-19,Small Business,Female,Food - Beverages,Drink Mixes,13,Raspberry Lemonade Mix,3.99,2.53,Express,Höfn,,Iceland,Credit Card,CUS0540   CUS0541,Completed
+127,2022-12-17,Enterprise,Male,Food - Frozen Desserts,Gourmet Ice Cream,15,Pistachio Ice Cream,4.99,4.13,Express,Wulijie,,China,Credit Card,CUS0228,Completed
+128,2022-09-14,Consumer,Male,Food - Snacks,Healthy Snacks,2,Chia Seed Pudding,3.99,20.89,Standard,Ţāqchah Khānah,,Afghanistan,Debit Card,CUS0130,Canceled
+129,2024-11-17,Consumer,Female,Outdoor,Camping Equipment,15,Air Mattress,49.99,6.71,Same Day,Dadamtu,,China,EMI,CUS0973,Completed
+130,2022-08-11,Small Business,Female,Smart Home,Home Security,15,Smart Wi-Fi Camera,89.99,20.24,Same Day,Pilcaniyeu,,Argentina,Debit Card,CUS0857,Completed
+131,2024-01-24,Consumer,Male,Food - Meat,Grass-Fed Meat Products,27,Grass Fed Beef Patties,9.99,10.49,Standard,Katy,Texas,United States,UPI,CUS0465,Returned
+132,2025-08-15,Consumer,Female,Pets,Pet Accessories,24,Pet Tracking Collar,59.99,10.17,Express,Dukuhsia,,Indonesia,Credit Card,CUS0499,Completed
+133,2023-08-08,Enterprise,Male,Audio,Audio Accessories,19,Wireless Music Receiver,19.99,6.83,Same Day,Paris La Défense,Île-de-France,France,COD,CUS0006,Completed
+134,2023-10-08,Consumer,Non-binary,Home,Home Organization,2,Microfiber Cleaning Cloth Set,9.99,3.45,Same Day,Miðvágur,,Faroe Islands,UPI,CUS0866,Completed
+135,2022-05-05,Consumer,Female,Food - Condiments,Salsas,7,Fire Roasted Salsa,2.49,25.78,Standard,Waru Selatan,,Indonesia,Debit Card,CUS0088,Completed
+136,2024-07-21,Enterprise,Female,Food - Sides,Rice,5,Herb Seasoned Rice,2.99,5.97,Same Day,Rozvadov,,Ukraine,Wallet,CUS0096,Completed
+137,2022-07-02,Enterprise,Non-binary,Wearable Tech,Fitness Monitors,18,Fitness Smartwatch,99.99,8.2,Express,Penaraga,,Indonesia,Debit Card,CUS0405,Completed
+138,2024-11-22,Consumer,Female,Food - Snacks,Savory Snacks,6,Pepper Jack Cheese Sticks,2.49,28.72,Same Day,Krasnodon,,Ukraine,COD,CUS0345,Completed
+139,2024-03-18,Corporate,Male,Kitchen,Baking Accessories,1,Heat-Resistant Silicone Mat,19.99,15.29,Same Day,Bielefeld,Nordrhein-Westfalen,Germany,EMI,CUS0697,Canceled
+140,2024-03-12,Consumer,Male,Clothing,Outerwear,29,Rain Jacket,64.99,7.46,Express,Nové Město nad Metují,,Czech Republic,UPI,CUS0594,Completed
+141,2024-02-12,Consumer,Female,Food - Canned Goods,Coconut Products,1,Coconut Milk,2.49,3.29,Standard,Ḩabābah,,Yemen,EMI,CUS0040,Completed
+142,2023-05-21,Small Business,Male,Pets,Grooming Supplies,4,Pet Hair Removal Brush,14.99,29.18,Express,Västerås,Västmanland,Sweden,Wallet,CUS0167,Returned
+143,2024-03-05,Small Business,Female,Health,Oral Care & Hygiene,16,Electric Toothbrush Holder,14.99,7.76,Express,Verkhnyaya Tura,,Russia,Credit Card,CUS0814,Completed
+144,2022-06-21,Enterprise,Male,Food - Dairy,Cheese,13,Cheddar Cheese Slices,3.49,22.73,Express,Al Ḩarf,,Yemen,COD,CUS0194,Returned
+145,2022-01-08,Corporate,Male,Kitchen,Eco-Friendly Kitchen Products,7,Reusable Produce Bags Set,14.99,1.21,Express,Tierra y Libertad,Coahuila De Zaragoza,Mexico,EMI,CUS0554,Canceled
+146,2022-11-27,Small Business,Male,Kitchen,Food Storage Solutions,23,Snap-On Tupperware Set,34.99,11.46,Express,Jinhe,,China,COD,CUS0296,Canceled
+147,2022-06-18,Consumer,Female,Outdoor,Camping Equipment,8,Backpacking Tent,109.99,26.58,Standard,Ribeira,Coimbra,Portugal,Debit Card,CUS0959,Returned
+148,2023-05-29,Corporate,Female,Food - Condiments,Dressing,4,Classic Caesar Dressing,3.49,14.97,Standard,Rāiwind,,Pakistan,Credit Card,CUS0478,Completed
+149,2024-12-27,Consumer,Male,Food - Baking,Baking Ingredients,6,Organic Coconut Flakes,3.49,15.74,Standard,Kristianstad,Skåne,Sweden,EMI,CUS0405,Completed
+150,2024-10-02,Small Business,Non-binary,Kitchen,Food Storage & Organization,12,Snack Container Set,19.99,8.7,Express,Souto,Viana do Castelo,Portugal,COD,CUS0916,Returned
+151,2024-01-30,Consumer,Male,Food - Pasta,Pasta,27,Lasagna Noodles,1.89,16.49,Same Day,Bugul’ma,,Russia,Debit Card,CUS0709,Completed
+152,2023-09-19,Enterprise,Female,Food - Household,Household Supplies,27,Toilet Paper (12 rolls),8.99,8.77,Express,Pesochnoye,,Russia,COD,CUS0058,Completed
+153,2023-09-20,Corporate,Female,Automotive,Motorcycle Accessories,19,Motorcycle Phone Mount,14.99,14.45,Express,Nicosia,,Cyprus,Debit Card,CUS0140,Returned
+154,2024-03-17,Consumer,Male,Clothing - Bottoms,Bottoms,6,High-Waisted Skirt,34.99,15.36,Express,Cholpon-Ata,,Kyrgyzstan,UPI,CUS0068,Completed
+155,2023-12-29,Enterprise,Female,Travel,Travel Accessories,25,Travel Luggage Scale,14.99,2.2,Standard,San Bernardo,,Chile,Wallet,CUS0800   CUS0801,Completed
+156,2025-04-24,Enterprise,Male,Food - Meat,Processed Meats,24,Sliced Ham,5.49,25.72,Same Day,Manyava,,Ukraine,UPI,CUS0704,Completed
+157,2023-05-11,Corporate,Female,Home,Smart Home & Security,24,Wireless Security Camera,109.99,19.17,Same Day,Oceanside,California,United States,Credit Card,CUS0172,Completed
+158,2023-04-09,Small Business,Female,Food - Beverages,Sparkling Beverages,24,Lemon Lime Sparkling Water,1.99,9.96,Express,Chepes,,Argentina,UPI,CUS0588,Canceled
+159,2022-08-29,Corporate,Male,Music,Audio Equipment,3,Karaoke Microphone,39.99,11.11,Standard,Shuigou’ao,,China,Debit Card,CUS0257,Completed
+160,2024-06-03,Corporate,Female,Food - Meats,Poultry,12,Whole Roasted Chicken,9.99,21.82,Standard,El Real,,Venezuela,COD,CUS0407,Completed
+161,2023-09-18,Consumer,Female,Food - Sides,Bread & Rolls,25,Garlic Breadsticks,3.49,27.06,Express,Carrascal,Lisboa,Portugal,Wallet,CUS0315,Canceled
+162,2022-11-09,Enterprise,Male,Food - Grains,Flavored Rice Dishes,12,Cilantro Lime Rice,2.99,29.03,Same Day,Pakokku,,Myanmar,COD,CUS0095,Returned
+163,2022-07-16,Enterprise,Male,Health,Fitness & Nutrition,15,Vegan Protein Powder,34.99,11.09,Standard,Estrela,,Brazil,COD,CUS0669,Completed
+164,2023-12-22,Corporate,Female,Outdoor,Camping Equipment,26,Portable Campfire,39.99,9.43,Express,Tuochuan,,China,Debit Card,CUS0223,Canceled
+165,2023-02-21,Corporate,Male,Food - Snacks,Dips and Spreads,30,Hummus,4.29,4.48,Standard,Jatisari,,Indonesia,UPI,CUS0143,Returned
+166,2023-06-04,Corporate,Genderfluid,Food - Prepared Foods,Salads,27,Pesto Pasta Salad,4.99,9.38,Standard,Podstrana,,Croatia,Debit Card,CUS0592,Returned
+167,2025-08-24,Enterprise,Male,Home,Home Fragrance & Accessories,25,Natural Soy Candles,19.99,21.44,Express,Xamba,,China,EMI,CUS0608,Canceled
+168,2022-08-30,Small Business,Male,Outdoor,Camping Equipment,20,Outdoor Adventure Backpack,59.99,19.46,Express,Fort Lauderdale,Florida,United States,UPI,CUS0540   CUS0541,Completed
+169,2022-10-07,Consumer,Male,Wearable Tech,Smartwatches,19,Fitness Tracker Watch,79.99,27.55,Standard,Dukla,,Poland,COD,CUS0154,Canceled
+170,2023-05-30,Enterprise,Male,Food - Meat,Red Meat,5,Beef Sirloin Steak,15.99,23.71,Same Day,Anmore,British Columbia,Canada,EMI,CUS0676,Returned
+171,2023-10-06,Small Business,Female,Food - Bakery,Breads,27,Hot Dog Buns,2.49,5.65,Same Day,Karaidel’,,Russia,EMI,CUS0893,Completed
+172,2023-07-25,Small Business,Female,Health,Emergency Preparedness & First Aid,17,First Aid Kit,29.99,17.28,Same Day,Ar Rubū‘,,Yemen,Debit Card,CUS0308,Completed
+173,2022-09-11,Enterprise,Female,Food - Frozen Meals,Frozen Dinner Kits,9,Beef Stroganoff Meal Kit,12.99,22.69,Express,Rubizhne,,Ukraine,Credit Card,CUS0056,Completed
+174,2022-04-11,Consumer,Male,Food - Frozen Foods,Frozen Appetizers,23,Vegetable Spring Rolls,6.49,2.05,Same Day,Qixing,,China,Debit Card,CUS0958,Canceled
+175,2024-07-11,Enterprise,Male,Kitchen,Coffee Equipment,1,Glass Tea Pot,34.99,28.25,Standard,Hallstahammar,Västmanland,Sweden,COD,CUS0527,Returned
+176,2025-01-17,Small Business,Male,Food - Snacks,Healthy Snacks,25,Nutty Trail Mix,4.29,13.05,Express,Желино,,Macedonia,EMI,CUS0594,Returned
+177,2022-12-03,Consumer,Male,Food - Frozen Foods,Frozen Entrees,18,Frozen Burritos,8.99,16.02,Same Day,Kinalansan,,Philippines,EMI,CUS0143,Completed
+178,2023-02-21,Enterprise,Female,Fitness,Hydration Gear,24,Water Bottle,18.99,29.29,Standard,Calgary,Alberta,Canada,EMI,CUS0596,Canceled
+179,2023-11-30,Small Business,Male,Food - Salads,Noodle Salads,6,Asian Noodle Salad Kit,4.99,5.94,Same Day,Chilly-Mazarin,Île-de-France,France,UPI,CUS0253,Returned
+180,2023-05-15,Corporate,Male,Fitness,Hydration Gear,28,Smart Thermos,39.99,24.95,Standard,San Jose,Guerrero,Mexico,UPI,CUS0939,Completed
+181,2024-12-27,Enterprise,Male,Food - Frozen,Frozen Meals,29,Vegan Mac & Cheese,8.99,16.5,Express,Sukaratu,,Indonesia,Debit Card,CUS0260 CUS0261,Completed
+182,2023-01-28,Small Business,Female,Food - Bakery,Gluten-Free Baked Goods,8,Almond Flour Biscuits,6.49,8.46,Express,Longmenfan,,China,UPI,CUS0778,Completed
+183,2025-01-05,Consumer,Male,Clothing - Bottoms,Bottoms,22,A-Line Skirt,35.99,28.01,Standard,Xiqiao,,China,COD,CUS0995,Returned
+184,2023-12-13,Corporate,Male,Home,Eco-Friendly Home Products,4,Biodegradable Trash Bags,12.99,17.34,Express,Castrovirreyna,,Peru,Credit Card,CUS0031,Returned
+185,2022-02-19,Consumer,Male,Home,Bedding & Linens,14,Decorative Throw Blanket,39.99,21.16,Standard,Bedayu,,Indonesia,EMI,CUS0009,Canceled
+186,2022-05-21,Consumer,Male,Photography,Marine Photography Equipment,12,Underwater Camera,199.99,2.88,Standard,Almeria,Andalucia,Spain,UPI,CUS0717,Completed
+187,2025-06-24,Small Business,Female,Outdoor,Garden Supplies,1,Portable Leaf Blower,149.99,7.25,Same Day,Rio das Ostras,,Brazil,Credit Card,CUS0954,Completed
+188,2022-01-16,Consumer,Female,Food - Meat,Prepared Poultry,27,Smoked Paprika Chicken Thighs,6.99,16.56,Standard,Podgorenskiy,,Russia,UPI,CUS0877,Returned
+189,2023-06-27,Small Business,Male,Food - Frozen Foods,Frozen Smoothies,23,Frozen Acai Bowl,6.49,27.12,Standard,Aimin,,China,EMI,CUS0272,Canceled
+190,2025-08-06,Corporate,Female,Food - Fruits,Apples,8,Organic Honeycrisp Apples,1.99,10.95,Same Day,Jaboatão,,Brazil,Wallet,CUS0124,Completed
+191,2024-05-05,Small Business,Female,Food - Condiments,Dressing,27,Vegan Caesar Dressing,3.99,12.38,Standard,Narita,,Japan,Wallet,CUS0325,Completed
+192,2024-05-14,Small Business,Female,Audio,Karaoke Equipment,19,Home Karaoke System,129.99,10.36,Express,Velille,,Peru,Debit Card,CUS0660   CUS0661,Completed
+193,2022-03-08,Corporate,Genderfluid,Beauty,Bath & Body,5,Body Wash,12.99,18.5,Standard,Oulmes,,Morocco,Wallet,CUS0426,Completed
+194,2022-06-18,Small Business,Male,Fitness,Strength Training Equipment,20,Fitness Resistance Bands Set,34.99,24.9,Standard,Pančevo,,Serbia,Debit Card,CUS0111,Canceled
+195,2023-01-26,Enterprise,Male,Outdoor,Garden Supplies,14,Portable Leaf Blower,149.99,2.61,Express,Troyan,,Bulgaria,EMI,CUS0246,Canceled
+196,2023-09-26,Corporate,Male,Food - Canned Goods,Canned Fruits,2,Apple Pie Filling,3.49,5.63,Express,Mora,Dalarna,Sweden,UPI,CUS0335,Completed
+197,2022-11-22,Enterprise,Male,Food - Baking,Mixes,30,Samoas Cookie Mix,5.59,1.99,Same Day,Xiamao,,China,COD,CUS0639,Completed
+198,2023-04-22,Small Business,Male,Pets,Dog Accessories,19,Dog Walking Waist Pack,19.99,5.25,Same Day,Ukhta,,Russia,Credit Card,CUS0283,Completed
+199,2022-07-09,Small Business,Male,Kitchen,Cookware,2,Stainless Steel Mixing Bowls,29.99,3.88,Same Day,Uppsala,Uppsala,Sweden,UPI,CUS0898,Canceled
+200,2024-04-11,Consumer,Female,Food - Snacks,Vegetable Snacks,24,Kale Chips,3.99,10.16,Express,Puqian,,China,Credit Card,CUS0536,Completed
+201,2023-04-11,Small Business,Female,Food - Salads,Grain Salads,18,Harvest Grain Salad,5.49,1.67,Same Day,Göteborg,Västra Götaland,Sweden,Wallet,CUS0928,Canceled
+202,2024-08-24,Small Business,Male,Clothing - Outerwear,Jackets,9,Luxe Velvet Blazer,89.99,22.75,Express,Dzerzhinskiy,,Russia,Debit Card,CUS0342,Canceled
+203,2024-05-24,Enterprise,Male,Food - Breakfast,Granola/Cereal,5,Maple Pecan Granola,4.49,17.96,Express,Los Pinos,Michoacan De Ocampo,Mexico,COD,CUS0910   CUS0911,Completed
+204,2024-12-07,Enterprise,Male,Garden,Indoor Gardening Supplies,18,Mini Indoor Hydroponic Garden,59.99,13.99,Express,Habry,,Czech Republic,Credit Card,CUS0586,Completed
+205,2025-05-17,Small Business,Polygender,Music,Instruments,13,Acoustic Guitar,199.99,20.14,Express,Pecoro,,Indonesia,COD,CUS0583,Completed
+206,2023-02-08,Consumer,Female,Outdoor,Camping Equipment,18,Camping Tent,79.99,19.02,Same Day,Cuba,Beja,Portugal,Debit Card,CUS0855,Completed
+207,2023-07-01,Enterprise,Male,Food - Condiments,Salsas,8,Spicy Avocado Salsa,4.49,8.69,Express,Tolotangga,,Indonesia,COD,CUS0010,Canceled
+208,2024-03-31,Consumer,Female,Kitchen,Kitchen Accessories,2,Recipe Book Stand,22.99,26.73,Same Day,Gelin,,China,Wallet,CUS0974,Returned
+209,2024-05-05,Corporate,Male,Storage,Storage Devices,6,Memory Card,15.99,11.37,Express,Sapiranga,,Brazil,Wallet,CUS0609,Completed
+210,2022-09-04,Enterprise,Male,Food - Prepared Foods,Salads,17,Beet Salad,3.99,18.39,Express,Changgang,,China,Debit Card,CUS0648,Completed
+211,2024-06-16,Small Business,Female,Office,Laptop Accessories,21,Adjustable Laptop Stand,29.99,8.29,Standard,Paraiso,,Philippines,Debit Card,CUS0393,Canceled
+212,2025-07-26,Corporate,Male,Food - Snacks,Gourmet Snacks,29,Flavored Popcorn Mix,2.99,22.19,Express,Texíguat,,Honduras,Credit Card,CUS0188,Canceled
+213,2025-03-11,Small Business,Female,Home,Decorative Wall Art & Accessories,12,Digital Photo Frame,79.99,18.65,Express,Marechal Deodoro,,Brazil,Debit Card,CUS0045,Completed
+214,2024-06-01,Consumer,Male,Food - Frozen Meals,Frozen Pasta Dishes,13,Marinara Parmesan Baked Ziti,8.49,16.29,Same Day,Sizao,,China,Credit Card,CUS0708,Canceled
+215,2025-07-31,Corporate,Male,Food - Soups,Specialty Soups,20,Spicy Thai Coconut Soup,3.99,27.89,Express,Sugcad,,Philippines,Debit Card,CUS0337,Completed
+216,2023-03-18,Small Business,Female,Clothing - Activewear,Activewear Bras,3,Athletic Sports Bra,24.99,11.2,Express,Heshe,,China,UPI,CUS0130,Completed
+217,2024-11-29,Small Business,Male,Food - Dairy,Dairy Alternatives,25,Organic Coconut Yogurt,4.49,24.8,Express,Shajing,,China,EMI,CUS0587,Returned
+218,2025-06-12,Small Business,Female,Food - Cereal,Granola,23,Granola Clusters,4.99,17.9,Standard,Villiers,,South Africa,Debit Card,CUS0320 CUS0321,Returned
+219,2022-09-05,Small Business,Male,Kitchen,Beverage Appliances,24,Tea Infuser Bottle,19.99,28.72,Express,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,France,UPI,CUS0416,Canceled
+220,2024-06-29,Enterprise,Male,Smart Home,Smart Lighting,9,Smart Wi-Fi Light Bulbs,19.99,16.25,Standard,Portëz,,Albania,Credit Card,CUS0064,Canceled
+221,2023-04-22,Corporate,Genderqueer,Food - Soups,Vegetarian Soups,16,Black Bean Soup,3.49,15.96,Standard,Inglewood,California,United States,Credit Card,CUS0256,Completed
+222,2022-04-13,Consumer,Male,Food - Cereal,Granola,8,Granola Clusters,4.99,14.23,Express,Asquipata,,Peru,EMI,CUS0238,Completed
+223,2025-06-12,Enterprise,Male,Home,Home Decor,15,Magnetic Curtain Tiebacks,12.99,25.47,Standard,Jelat,,Indonesia,Debit Card,CUS0532,Canceled
+224,2022-05-17,Enterprise,Female,Kitchen,Cooking Accessories,29,Mini Fondue Set,34.99,25.91,Express,Nandayure,,Costa Rica,Wallet,CUS0639,Canceled
+225,2023-06-01,Enterprise,Female,Food - Beverages,Herbal Tea,5,Herbal Tea Variety Pack,4.99,26.04,Standard,Mulan,,China,Credit Card,CUS0605,Returned
+226,2023-06-21,Small Business,Female,Photography,Smartphone Accessories,23,Smartphone Tripod with Bluetooth Remote,29.99,26.75,Same Day,Toba,,Japan,UPI,CUS0642,Completed
+227,2024-09-14,Small Business,Female,Fitness,Fitness Accessories,16,Digital Stopwatch Timer,12.99,27.23,Standard,Sironko,,Uganda,Credit Card,CUS0559,Completed
+228,2022-11-19,Corporate,Female,Food - Condiments,Sauces,18,Teriyaki Stir-Fry Sauce,3.49,29.24,Standard,Banjar Tengah,,Indonesia,EMI,CUS0057,Completed
+229,2022-01-15,Corporate,Female,Pets,Grooming Supplies,3,Pet Grooming Kit,39.99,16.02,Same Day,Slatyne,,Ukraine,UPI,CUS0129,Returned
+230,2022-08-28,Corporate,Female,Food - Condiments,Dressing,3,Creamy Garlic Dressing,3.99,25.77,Standard,Drochia,,Moldova,Wallet,CUS0380 CUS0381,Returned
+231,2022-09-11,Enterprise,Female,Home Improvement,Outdoor Cleaning,18,Pressure Washer Accessories Kit,39.99,19.76,Standard,Épernay,Champagne-Ardenne,France,Debit Card,CUS0269,Completed
+232,2023-06-03,Consumer,Female,Food - Baking,Baking Ingredients,22,Baking Soda,0.99,8.45,Standard,Dzuunmod,,Mongolia,COD,CUS0364,Completed
+233,2023-08-19,Small Business,Male,Food - Condiments,Dressing,1,Avocado Lime Dressing,4.29,13.36,Same Day,San Narciso,,Philippines,Wallet,CUS0537,Returned
+234,2022-08-24,Enterprise,Polygender,Garden,Indoor Gardening Kits,26,Mini Indoor Herb Garden Kit,24.99,13.36,Same Day,Las Sabanas,,Nicaragua,UPI,CUS0316,Canceled
+235,2024-10-13,Consumer,Female,Food - Snacks,Tortilla Chips,23,Blue Corn Tortilla Chips,3.49,29.05,Express,Geser,,Indonesia,COD,CUS0602,Completed
+236,2024-03-07,Consumer,Polygender,Food - Frozen Foods,Frozen Vegetables,5,Roasted Garlic Mashed Potatoes,3.99,7.72,Standard,Za‘tarah,,Palestinian Territory,EMI,CUS0908,Completed
+237,2024-12-09,Enterprise,Male,Kitchen,Cooking Appliances,19,Multi-Layer Food Steamer,39.99,25.51,Standard,Hongxi,,China,COD,CUS0326,Canceled
+238,2022-03-20,Small Business,Male,Garden,Garden Tools,27,Garden Tool Set with Carrying Bag,39.99,23.12,Express,Naperville,Illinois,United States,EMI,CUS1000,Completed
+239,2022-08-07,Consumer,Female,Garden,Garden Supplies,14,Plant Watering Spikes,12.99,7.22,Same Day,Cilangkap,,Indonesia,UPI,CUS0036,Canceled
+240,2025-03-08,Small Business,Male,Toys,Art Supplies,19,Non-Toxic Crayons for Kids,10.99,29.5,Same Day,Suwaluh,,Indonesia,UPI,CUS0340 CUS0341,Completed
+241,2025-08-16,Consumer,Female,Food - Prepared Meals,Cuisine - Italian,20,Basil Pesto Pasta,6.49,8.38,Same Day,Ban Pong,,Thailand,Credit Card,CUS0644,Canceled
+242,2024-12-23,Corporate,Male,Clothing - Activewear,Fitness Apparel,2,Sporty Leggings,39.99,16.21,Express,Hisings Kärra,Västra Götaland,Sweden,Debit Card,CUS0615,Canceled
+243,2024-07-15,Small Business,Male,Home,Home Fragrance & Accessories,18,Electric Wax Warmer,22.99,21.06,Standard,Río Ceballos,,Argentina,UPI,CUS0635,Returned
+244,2024-01-09,Enterprise,Female,Food - Snacks,Healthy Snacks,5,Veggie Chips Variety Pack,3.79,22.89,Standard,Itabira,,Brazil,COD,CUS0342,Completed
+245,2022-08-16,Small Business,Male,Food - Dairy,Cheese,25,Ricotta Cheese,4.99,2.93,Express,Kolonnawa,,Sri Lanka,UPI,CUS0041,Canceled
+246,2023-04-13,Consumer,Female,Food - Grains,Grain Blends,26,Wild Rice & Quinoa Mix,2.99,7.71,Same Day,Infantas,Braga,Portugal,Debit Card,CUS0954,Completed
+247,2022-09-19,Corporate,Male,Food - Produce,Herbs & Spices,28,Fresh Cilantro,1.49,21.64,Same Day,Wuyang,,China,Credit Card,CUS0011,Canceled
+248,2022-06-14,Small Business,Female,Bicycles,Bicycles,10,Electric Bike,899.99,7.64,Express,Laju Kidul,,Indonesia,COD,CUS0552,Completed
+249,2024-05-09,Corporate,Male,Food - Produce,Fruits,20,Avocados,1.5,15.47,Same Day,Derbur,,China,Wallet,CUS0813,Canceled
+250,2024-11-06,Corporate,Male,Food - Produce,Pre-Packaged Produce Kits,9,Vegetable Stir-Fry Kit,6.99,17.29,Standard,Vila Nova da Baronia,Beja,Portugal,COD,CUS0755,Completed
+251,2025-01-30,Small Business,Male,Food - Condiments,Marinades and Sauces,9,Tandoori Chicken Marinade,2.49,16.04,Standard,Oslo,Oslo,Norway,UPI,CUS0975,Completed
+252,2024-06-23,Consumer,Female,Food - Confectionery,Cookies & Biscuits,3,Ginger Snaps,2.79,3.68,Standard,Baddomalhi,,Pakistan,UPI,CUS0985,Returned
+253,2023-04-25,Enterprise,Female,Health,Oral Care & Hygiene,14,Bamboo Toothbrush Holder,14.99,12.97,Standard,Motrico,,Philippines,COD,CUS0480 CUS0481,Returned
+254,2024-03-30,Consumer,Male,Food - Frozen,Frozen Meals,14,Coconut Rice,2.29,3.21,Standard,São Domingos,Porto,Portugal,COD,CUS0322,Completed
+255,2023-06-24,Small Business,Female,Food - Snacks,Nut-Based Snacks,14,Almond Butter Cookies,4.49,15.29,Same Day,Dianya,,China,Wallet,CUS0342,Completed
+256,2023-11-07,Consumer,Male,Food - Dips,Vegetable Dips,7,Roasted Red Pepper Hummus,3.49,3.36,Express,Huanoquite,,Peru,UPI,CUS0868,Canceled
+257,2022-12-08,Consumer,Female,Food - Canned Goods,Canned Vegetables,21,Diced Tomatoes (canned),1.49,20.28,Standard,Baozi,,China,Credit Card,CUS0630   CUS0631,Completed
+258,2023-03-12,Corporate,Male,Food - Prepared Foods,Frozen Meals,11,Herbed Mushroom Risotto,5.49,26.7,Express,Cardona,,Philippines,UPI,CUS0362,Returned
+259,2024-07-25,Corporate,Male,Food - Snacks,Savory Snacks,21,Cinnamon Sugar Popcorn,2.89,4.15,Express,Puspajaya,,Indonesia,UPI,CUS0498,Completed
+260,2022-12-04,Corporate,Female,Food - Pasta,Pasta,1,Pasta (Fusilli),1.79,22.38,Standard,Lela,,Indonesia,UPI,CUS0028,Completed
+261,2024-04-24,Small Business,Male,Food - Canned Goods,Soups & Broths,1,Classic Chicken Noodle Soup,3.49,23.47,Same Day,Karangkeng,,Indonesia,UPI,CUS0499,Completed
+262,2023-07-10,Enterprise,Female,Photography,Camera Accessories,20,Smartphone Camera Lens Kit,19.99,13.13,Express,Kokhanava,,Belarus,UPI,CUS0403,Completed
+263,2023-11-30,Consumer,Male,Office,Printers & Scanners,13,Wireless Printer,99.99,16.86,Same Day,Paris 12,Île-de-France,France,UPI,CUS0973,Completed
+264,2022-09-14,Small Business,Bigender,Garden,Gardening Tools,30,Children's Garden Tool Set,22.99,26.66,Same Day,Khōshī,,Afghanistan,Debit Card,CUS0414,Completed
+265,2024-11-04,Consumer,Female,Kitchen,Sustainable Tableware,21,Eco-Friendly Disposable Plates,22.99,11.4,Express,Loum,,Cameroon,EMI,CUS0705,Completed
+266,2024-04-13,Small Business,Female,Sports,Team Sports,12,Basketball,29.99,28.2,Standard,Dmanisi,,Georgia,UPI,CUS0629,Returned
+267,2025-06-09,Corporate,Female,Kitchen,Cookware,1,Collapsible Colander,14.99,23.62,Same Day,Agbannawag,,Philippines,Wallet,CUS0092,Completed
+268,2022-02-24,Consumer,Male,Food - Sauces,Ethnic Sauces,22,Coconut Curry Sauce,3.89,8.28,Express,Batangafo,,Central African Republic,Credit Card,CUS0610   CUS0611,Completed
+269,2023-03-11,Consumer,Genderqueer,Accessories,Laptop Accessories,7,Ultra-Thin Laptop Sleeve,19.99,10.77,Standard,Perechyn,,Ukraine,Debit Card,CUS0734,Returned
+270,2022-09-03,Small Business,Female,Kitchen,Food Storage Solutions,28,Reusable Food Storage Bags,19.99,29.05,Same Day,Bagay,,Philippines,Debit Card,CUS0303,Completed
+271,2022-02-17,Consumer,Female,Fitness,Strength Training Equipment,20,Fitness Resistance Bands Set,34.99,8.25,Express,Na Chaluai,,Thailand,EMI,CUS0409,Completed
+272,2023-12-13,Small Business,Male,Food - Supplements,Supplements,25,Elderberry Syrup,11.99,3.94,Same Day,Amberd,,Armenia,EMI,CUS0299,Completed
+273,2022-10-04,Enterprise,Male,Fitness,Strength Training Equipment,29,Bodyweight Resistance Bands,22.99,14.74,Same Day,Kuloy,,Russia,Debit Card,CUS0668,Completed
+274,2025-01-02,Corporate,Male,Food - Oils,Oils,25,Organic Coconut Oil,8.99,1.3,Same Day,San Pedro,,Costa Rica,EMI,CUS0677,Canceled
+275,2023-05-24,Corporate,Male,Fitness,Hydration Gear,22,Sports Water Bottle with Infuser,19.99,17.47,Express,Bator,,Indonesia,Debit Card,CUS0985,Completed
+276,2024-08-06,Small Business,Male,Home,Home Organization,3,Wall-Mounted Organizer,34.99,25.59,Express,Hobart,Tasmania,Australia,Debit Card,CUS0021,Completed
+277,2023-12-11,Consumer,Male,Food - Condiments,Salsas & Dips,13,Pineapple Salsa,4.29,4.21,Same Day,Non Suwan,,Thailand,Credit Card,CUS0273,Completed
+278,2022-09-10,Enterprise,Female,Food - Beverages,Herbal Tea,22,Hibiscus Herbal Tea,3.29,27.24,Standard,Ash Shaddādah,,Syria,EMI,CUS0075,Canceled
+279,2024-01-25,Corporate,Male,Food - Deli,Dips/Spreads,21,Balsamic Salad Dressing,2.99,24.13,Standard,Xingfeng,,China,EMI,CUS0012,Canceled
+280,2024-05-16,Corporate,Male,Outdoor,Outdoor Accessories,13,Magnetic Screen Door,24.99,29.32,Standard,Gujrāt,,Pakistan,Debit Card,CUS0233,Canceled
+281,2024-04-17,Small Business,Female,Food - Baking,Mixes,29,Almond Flour Bread Mix,4.89,15.91,Same Day,Tsyurupyns’k,,Ukraine,Wallet,CUS0912,Canceled
+282,2025-07-07,Corporate,Female,Garden,Garden Tools,30,Heavy Duty Gardening Tool Set,49.99,17.34,Standard,Xiaomei,,China,EMI,CUS0353,Canceled
+283,2024-05-22,Corporate,Polygender,Accessories,Bags,4,Cotton Tote Bag Set,29.99,20.58,Express,Rimus,,Philippines,Wallet,CUS0232,Returned
+284,2023-02-01,Small Business,Female,Outdoor,Camping Equipment,6,Folding Table,59.99,15.35,Standard,Tuncheng,,China,Wallet,CUS0635,Completed
+285,2023-09-29,Corporate,Male,Kitchen,Baking Accessories,17,Measuring Cups Set,19.99,28.23,Standard,Värnamo,Jönköping,Sweden,Credit Card,CUS0200,Returned
+286,2023-09-10,Small Business,Female,Accessories,Mobile Accessories,25,Phone Case,14.99,19.95,Express,Fiais da Beira,Coimbra,Portugal,Debit Card,CUS0156,Completed
+287,2024-07-02,Consumer,Genderqueer,Food - Snacks,Savory Snacks,25,Pretzel Bites,4.99,13.16,Same Day,Talok,,Indonesia,Debit Card,CUS0657,Completed
+288,2022-06-10,Consumer,Female,Food - Frozen Foods,Frozen Smoothies,19,Frozen Acai Bowl,6.49,20.91,Express,Jayanca,,Peru,Wallet,CUS0625,Completed
+289,2023-02-01,Corporate,Male,Food - Bakery,Breads,22,Artisan Flatbreads,2.99,9.51,Same Day,Valašská Bystřice,,Czech Republic,COD,CUS0191,Completed
+290,2022-08-23,Enterprise,Male,Food - Snacks,Savory Snacks,17,Puffed Rice Cake,2.49,9.45,Standard,Shebalino,,Russia,Debit Card,CUS0356,Completed
+291,2024-10-31,Small Business,Female,Food - Snacks,Chocolate Snacks,10,Dark Chocolate Covered Pretzels,3.99,7.84,Express,Kharbathā Banī Ḩārith,,Palestinian Territory,COD,CUS0568,Completed
+292,2025-07-01,Enterprise,Male,Health,Oral Care & Hygiene,1,Electric Toothbrush,49.95,26.73,Same Day,Jintang,,China,UPI,CUS0194,Returned
+293,2023-12-20,Consumer,Male,Food - Condiments,Fruit Spreads,25,Strawberry Rhubarb Jam,4.29,27.45,Standard,Paris 05,Île-de-France,France,COD,CUS0750   CUS0751,Canceled
+294,2023-01-06,Consumer,Female,Bicycles,Accessories,9,Bike Helmet,34.99,22.79,Standard,Dumbéa,,New Caledonia,UPI,CUS0278,Canceled
+295,2024-06-30,Consumer,Male,Home,Home Appliances,14,USB Desk Fan,14.99,11.16,Express,Hang Dong,,Thailand,COD,CUS0131,Completed
+296,2023-05-13,Small Business,Male,Clothing - Footwear,Athletic Footwear,29,Trainers with Mesh Inserts,69.99,3.49,Standard,Ash Shiḩr,,Yemen,UPI,CUS0978,Completed
+297,2025-08-22,Enterprise,Genderqueer,Food - Meat,Poultry,23,Oven-Baked Chicken Tenders,6.99,26.86,Same Day,Uga,,Nigeria,Credit Card,CUS0061,Canceled
+298,2025-02-23,Enterprise,Genderqueer,Food - Pasta,Specialty Pasta,28,Red Lentil Pasta,3.99,9.41,Same Day,Hvozdná,,Czech Republic,UPI,CUS0959,Completed
+299,2025-08-18,Consumer,Male,Food - Prepared Meals,Casseroles,25,Beef Enchilada Casserole,8.99,9.75,Standard,Kawasaki,,Japan,Credit Card,CUS0369,Completed
+300,2024-12-20,Consumer,Male,Food - Grains,Specialty Rice,21,Sushi Rice,3.99,29.38,Standard,Nyahururu,,Kenya,EMI,CUS0523,Completed
+301,2024-08-14,Consumer,Female,Home Improvement,Outdoor Cleaning,28,Pressure Washer Accessories Kit,39.99,27.14,Express,Santulhão,Bragança,Portugal,UPI,CUS0719,Completed
+302,2024-06-16,Small Business,Genderfluid,Food - Snacks,Nuts and Trail Mix,10,Cinnamon Spiced Almonds,5.99,11.95,Standard,Zaklików,,Poland,UPI,CUS0338,Completed
+303,2023-03-17,Corporate,Female,Pets,Grooming Supplies,23,Portable Pet Bathing Tool,29.99,29.0,Express,Nyamanari,,Gambia,Debit Card,CUS0276,Canceled
+304,2022-07-24,Corporate,Female,Food - Seafood,Canned Seafood,29,Canned Sardines,3.29,28.68,Standard,Urechcha,,Belarus,Wallet,CUS0524,Completed
+305,2022-01-15,Corporate,Male,Food - Condiments,Dips & Spreads,28,Avocado Oil Mayo,5.29,13.12,Same Day,Ujmisht,,Albania,COD,CUS0948,Completed
+306,2024-03-24,Small Business,Male,Clothing - Activewear,Sports Apparel,2,Athletic Compression Tights,39.99,14.65,Standard,Wolomoni,,Indonesia,Credit Card,CUS0535,Completed
+307,2022-11-04,Consumer,Female,Outdoor,Cycling Accessories,6,Bicycle Repair Kit,14.99,3.49,Express,Le Kremlin-Bicêtre,Île-de-France,France,Credit Card,CUS0939,Returned
+308,2024-08-23,Consumer,Male,Pets,Dog Accessories,29,Adjustable Dog Harness,24.99,15.57,Standard,Santa Rosa,,Peru,Credit Card,CUS0909,Completed
+309,2023-04-19,Small Business,Male,Food - Beverages,Sparkling Beverages,19,Cucumber Lime Sparkling Water,1.49,16.09,Same Day,Adelaide Mail Centre,South Australia,Australia,Credit Card,CUS0635,Completed
+310,2022-05-22,Corporate,Male,Kitchen,Small Appliances,3,Pasta Maker,39.0,1.79,Standard,São Domingos do Maranhão,,Brazil,EMI,CUS0408,Completed
+311,2022-08-01,Small Business,Female,Food - Prepared Foods,Vegetable Sides,13,Maple Glazed Carrots,3.29,25.92,Standard,Huangdao,,China,EMI,CUS0957,Canceled
+312,2024-02-14,Consumer,Male,Food - Frozen,Frozen Vegetables,4,Frozen Mixed Vegetables,1.99,17.95,Standard,Pasirtujuhpuluh,,Indonesia,UPI,CUS0317,Completed
+313,2022-11-29,Corporate,Male,Food - Snacks,Nuts and Trail Mix,6,Nut Mix,5.99,14.36,Standard,Springfield,Massachusetts,United States,COD,CUS0426,Canceled
+314,2022-11-17,Consumer,Male,Pets,Training Supplies,11,Pet Training Clicker,5.99,7.01,Same Day,Melun,Île-de-France,France,COD,CUS0668,Canceled
+315,2022-03-02,Small Business,Female,Food - Meat,Processed Meats,24,Turkey Bacon,3.99,6.8,Express,Baleber,,Indonesia,UPI,CUS0252,Completed
+316,2024-07-07,Consumer,Female,Food - Beverages,Herbal Tea,12,Honey Lemon Tea,3.29,13.4,Standard,Caraga,,Philippines,EMI,CUS0219,Completed
+317,2022-12-03,Small Business,Genderfluid,Food - Spreads,Nut Butters,21,Natural Peanut Butter,4.29,13.43,Express,Bazha,,China,COD,CUS0598,Completed
+318,2022-10-10,Enterprise,Female,Accessories,Jewelry Storage,13,Travel Jewelry Case,24.99,12.22,Same Day,Saint John,New Brunswick,Canada,Wallet,CUS0527,Completed
+319,2022-11-12,Consumer,Female,Food - Canned Goods,Canned Fruits,20,Apple Pie Filling,3.49,21.99,Express,Montbéliard,Franche-Comté,France,Debit Card,CUS0423,Completed
+320,2022-10-17,Enterprise,Male,Food - Nuts,Flavored Nuts,7,Maple Cinnamon Almonds,4.29,10.63,Standard,Upton,England,United Kingdom,EMI,CUS0506,Canceled
+321,2024-01-31,Corporate,Male,Pets,Grooming Supplies,9,Portable Pet Bathing Tool,29.99,17.14,Same Day,Talangbetutu,,Indonesia,UPI,CUS0048,Completed
+322,2023-09-28,Enterprise,Male,Toys,Pretend Play Toys,9,Wooden Children's Play Kitchen,129.99,17.2,Standard,Quirinópolis,,Brazil,UPI,CUS0542,Completed
+323,2022-02-03,Small Business,Female,Food - Snacks,Nuts and Seeds,4,Pecan Nuts,6.49,16.23,Standard,Kampot,,Cambodia,EMI,CUS0061,Canceled
+324,2024-12-24,Corporate,Polygender,Art Supplies,Digital Art Supplies,16,Digital Drawing Tablet,79.99,14.76,Standard,Szubin,,Poland,COD,CUS0610   CUS0611,Completed
+325,2022-08-13,Enterprise,Male,Food - Canned Soups,Soups,23,Homestyle Beef Stew,7.99,2.8,Standard,Sagud-Bahley,,Philippines,COD,CUS0602,Canceled
+326,2023-10-04,Small Business,Female,Food - Snacks,Savory Snacks,1,Savory Rice Cakes,2.5,13.01,Standard,Houston,Texas,United States,Wallet,CUS0884,Completed
+327,2023-06-25,Small Business,Genderqueer,Food - Bakery,Gluten-Free Baked Goods,22,Almond Flour Biscuits,6.49,13.2,Standard,Qizili,,China,Debit Card,CUS0402,Canceled
+328,2025-01-05,Corporate,Female,Food - Grains,Legumes,27,Lentils,2.99,13.38,Standard,Zaslawye,,Belarus,COD,CUS0964,Completed
+329,2025-03-10,Consumer,Male,Food - Sides,Bread & Rolls,22,Garlic Breadsticks,3.49,29.17,Express,Cergy-Pontoise,Île-de-France,France,COD,CUS0778,Returned
+330,2024-04-30,Corporate,Male,Food - Breakfast,Pancake and Waffle Mixes,5,Pumpkin Spice Pancake Mix,3.49,11.26,Standard,Newcastle,,Saint Kitts and Nevis,Wallet,CUS0396,Canceled
+331,2024-12-30,Enterprise,Male,Kitchen,Blenders & Juicers,6,High-Speed Blender,99.99,14.71,Standard,Haoyi,,China,UPI,CUS0783,Canceled
+332,2025-04-23,Corporate,Female,Food - Frozen Food,Frozen Meals,2,Teriyaki Chicken Wings,10.99,2.69,Express,Lidköping,Västra Götaland,Sweden,UPI,CUS0880   CUS0881,Completed
+333,2025-07-10,Enterprise,Female,Toys,Building Toys,25,Foam Building Blocks for Kids,22.99,9.23,Standard,Józefów,,Poland,Debit Card,CUS0877,Completed
+334,2025-05-16,Enterprise,Female,Food - Snacks,Healthy Snacks,7,Organic Cereal Bars,4.29,19.07,Standard,Fresnes,Île-de-France,France,EMI,CUS0178,Canceled
+335,2024-01-09,Consumer,Female,Food - Breakfast,Granola & Muesli,16,Apple Cinnamon Granola,4.49,14.52,Standard,Ulety,,Russia,Debit Card,CUS0720   CUS0721,Completed
+336,2022-09-20,Corporate,Male,Clothing - Footwear,Women's Footwear,18,Slingback Sandals,29.99,2.03,Same Day,Dalongdong,,China,EMI,CUS0254,Returned
+337,2022-10-26,Corporate,Male,Apps,Productivity,2,Digital Bullet Journal,24.99,1.15,Standard,Písečná,,Czech Republic,Wallet,CUS0639,Returned
+338,2024-06-26,Consumer,Female,Toys,Musical Toys,19,Children's Musical Instrument Set,39.99,13.21,Standard,Quimilí,,Argentina,EMI,CUS0672,Completed
+339,2022-05-06,Enterprise,Male,Outdoor,Camping Equipment,27,Multi-Tool,39.99,3.06,Same Day,Przytyk,,Poland,Wallet,CUS0854,Completed
+340,2025-01-22,Consumer,Male,Food - Grocery,Legumes,11,Organic Green Lentils,3.99,11.37,Same Day,Acacías,,Colombia,EMI,CUS0495,Completed
+341,2023-06-22,Small Business,Female,Health,Sleep & Relaxation,16,Self-Massaging Pillow,49.99,17.66,Express,Prizren,,Kosovo,EMI,CUS0500,Completed
+342,2024-11-30,Small Business,Female,Pets,Cat Care,6,Self-Cleaning Cat Litter Box,199.99,3.83,Standard,Krasnaye,,Belarus,Debit Card,CUS0430 CUS0431,Canceled
+343,2025-02-16,Small Business,Female,Food - Beverages,Herbal Tea,9,Herbal Tea Variety Pack,4.99,28.46,Express,Duotian,,China,UPI,CUS0969,Completed
+344,2022-03-06,Small Business,Male,Clothing - Footwear,Women's Dress Shoes,20,Classic Pumps,64.99,10.31,Express,Ramon’,,Russia,Credit Card,CUS0559,Completed
+345,2022-07-25,Small Business,Polygender,Fitness,Hydration Gear,11,Glass Water Bottle,25.99,17.94,Same Day,Pastores,,Guatemala,Credit Card,CUS1000,Completed
+346,2025-07-31,Enterprise,Female,Pets,Pet Accessories,18,Pet Leash,15.99,3.57,Express,Antas,Braga,Portugal,Credit Card,CUS0674,Completed
+347,2023-07-31,Enterprise,Female,Food - Pasta,Specialty Pasta,13,Lentil Pasta,4.99,20.7,Standard,Chicago,Illinois,United States,COD,CUS0412,Returned
+348,2022-12-04,Small Business,Male,Pets,Travel Accessories,25,Pet Travel Backpack Carrier,49.99,15.26,Same Day,Jiucaizhuang,,China,Wallet,CUS0648,Canceled
+349,2023-10-25,Small Business,Male,Food - Snacks,Healthy Snacks,29,Oven-Baked Potato Chips,2.79,10.26,Same Day,Río Ceballos,,Argentina,UPI,CUS0795,Completed
+350,2022-10-14,Consumer,Female,Food - Spices,Rubs and Seasonings,26,Steak Seasoning Rub,2.49,18.7,Express,Xigou,,China,COD,CUS0857,Completed
+351,2022-07-07,Corporate,Male,Food - Fresh Produce,Vegetables,12,Organic Baby Carrots,2.99,14.39,Express,Karátoulas,,Greece,EMI,CUS0949,Completed
+352,2023-01-16,Corporate,Female,Beauty,Makeup,4,Luxury Rolling Makeup Case,99.99,8.78,Same Day,Sacanche,,Peru,EMI,CUS0112,Completed
+353,2023-05-25,Small Business,Male,Food - Prepared Meals,Kits - Sushi,7,Spicy Tuna Sushi Kit,8.99,14.72,Standard,Uchaly,,Russia,Wallet,CUS0162,Completed
+354,2022-02-10,Corporate,Male,Photography,Marine Photography Equipment,22,Underwater Camera,199.99,3.55,Express,Fusagasuga,,Colombia,Credit Card,CUS0249,Canceled
+355,2022-07-19,Corporate,Female,Sports,Snow Sports,28,Ski Goggles,49.99,7.18,Standard,Aygezard,,Armenia,Credit Card,CUS0766,Canceled
+356,2025-02-24,Corporate,Female,Food - Frozen Vegetables,Frozen Veggie Snacks,27,Buffalo Style Cauliflower Bites,5.49,2.65,Same Day,Dieppe,Haute-Normandie,France,Credit Card,CUS0156,Completed
+357,2022-07-10,Corporate,Male,Food,Beverages,27,Home Brewing Starter Kit,79.99,8.91,Express,Mörrum,Blekinge,Sweden,Credit Card,CUS0962,Canceled
+358,2024-03-12,Consumer,Bigender,Pets,Dog Accessories,22,Portable Dog Water Bottle,18.99,12.75,Same Day,Avignon,Provence-Alpes-Côte d'Azur,France,Credit Card,CUS0259,Returned
+359,2024-07-02,Consumer,Polygender,Kitchen,Baking Accessories,29,Silicone Baking Mat Set,24.99,6.08,Express,Bërxull,,Albania,Debit Card,CUS0640   CUS0641,Completed
+360,2023-07-15,Small Business,Male,Food - Beverages,Health Drinks,24,Chocolate Mint Protein Shake,3.99,5.9,Express,Usukhchay,,Russia,UPI,CUS0051,Returned
+361,2022-06-13,Corporate,Male,Food - Baking,Baking Ingredients,4,Pumpkin Pie Spice,2.99,15.07,Standard,Belfast,,South Africa,EMI,CUS0365,Canceled
+362,2022-03-04,Consumer,Female,Food - Confectionery,Cookies & Biscuits,24,Ginger Snaps,2.79,4.99,Express,Nikopol,,Bulgaria,UPI,CUS0640   CUS0641,Completed
+363,2022-10-02,Small Business,Male,Home,Home Fragrance & Accessories,21,Scent Diffuser,34.99,20.44,Same Day,Chongru,,China,Credit Card,CUS0360 CUS0361,Completed
+364,2022-03-27,Enterprise,Male,Toys,Building Toys,19,Foam Building Blocks for Kids,22.99,3.31,Express,Santa Bernardina,,Uruguay,Credit Card,CUS0272,Canceled
+365,2023-04-25,Enterprise,Female,Food - Canned Goods,Soups & Broths,12,Garden Vegetable Soup,3.29,5.85,Express,Wisznice,,Poland,Credit Card,CUS0852,Completed
+366,2022-07-03,Small Business,Female,Electronics,Mobile Accessories,15,Wireless Induction Charger,19.99,20.9,Same Day,Kasreman,,Indonesia,Credit Card,CUS0455,Completed
+367,2024-01-28,Enterprise,Female,Food - Nut Butters,Nut Butters,21,Maple Almond Butter,5.49,25.61,Standard,Daming,,China,Wallet,CUS0258,Canceled
+368,2023-06-30,Enterprise,Male,Toys,Jigsaw Puzzles,10,Puzzle,27.99,20.02,Express,Limoges,Limousin,France,UPI,CUS0515,Completed
+369,2024-02-22,Corporate,Non-binary,Garden,Indoor Gardening Supplies,23,Plant Growing Kit,22.99,6.0,Standard,Punta Cana,,Dominican Republic,COD,CUS0193,Completed
+370,2024-06-23,Enterprise,Female,Food - Cereals,Granola,7,Raisin Cinnamon Granola,3.79,2.26,Standard,Awilega,,Indonesia,UPI,CUS0434,Completed
+371,2022-09-21,Enterprise,Female,Health,Sleep & Relaxation,13,Weighted Blanket for Adults,59.99,14.6,Same Day,Bao’an,,China,EMI,CUS0762,Canceled
+372,2022-01-21,Enterprise,Female,Kitchen,Kitchen Storage & Organization,19,Magnetic Spice Jars,24.99,24.5,Same Day,Guri i Zi,,Albania,Credit Card,CUS0939,Completed
+373,2023-10-05,Small Business,Female,Fitness,Fitness Equipment,14,Fitness Balance Ball,24.99,14.52,Express,Qiuchuan,,China,Wallet,CUS0364,Completed
+374,2024-12-23,Consumer,Bigender,Office,Furniture,5,Adjustable Laptop Desk,59.99,8.21,Same Day,Volosovo,,Russia,Credit Card,CUS0519,Completed
+375,2024-12-08,Consumer,Female,Fitness,Wearable Technology,9,Fitness Tracker with Heart Rate Monitor,59.99,29.62,Express,Linköping,Östergötland,Sweden,Credit Card,CUS0892,Returned
+376,2023-02-10,Small Business,Female,Kitchen,Cooking Tools & Utensils,24,Quality Chef Apron,19.99,7.87,Express,Korostyshiv,,Ukraine,UPI,CUS0168,Completed
+377,2022-12-25,Enterprise,Female,Kitchen,Cooking Tools & Utensils,11,Digital Food Thermometer,19.99,28.98,Same Day,Klerksdorp,,South Africa,Debit Card,CUS0772,Completed
+378,2022-08-13,Enterprise,Female,Food - Snacks,Salsas and Dips,6,Black Bean Salsa,3.49,16.04,Express,Yongfeng,,China,Debit Card,CUS0718,Completed
+379,2022-02-16,Small Business,Male,Food - Canned Goods,Soups & Broths,8,Chicken Broth,2.49,3.4,Express,Mizusawa,,Japan,UPI,CUS0322,Returned
+380,2023-07-08,Corporate,Male,Pets,Grooming Supplies,28,Pet Grooming Brush,19.99,6.51,Same Day,Bouaflé,,Ivory Coast,UPI,CUS0125,Completed
+381,2024-12-28,Enterprise,Female,Food - Condiments,Asian Condiments,15,Thai Red Curry Paste,3.99,16.35,Express,Pondohan,,Indonesia,UPI,CUS0772,Completed
+382,2024-12-23,Small Business,Male,Smart Home,Home Security,20,Smart Home Security Camera,79.99,7.37,Express,Praia da Vitória,Ilha Terceira,Portugal,Debit Card,CUS0357,Completed
+383,2024-11-27,Consumer,Male,Food - Frozen Foods,Frozen Appetizers,29,Vegetable Spring Rolls,6.49,2.35,Standard,Pećigrad,,Bosnia and Herzegovina,Debit Card,CUS0647,Completed
+384,2023-05-28,Corporate,Male,Clothing - Pants,Formal Pants,6,Classic Black Trousers,54.99,27.04,Express,Lyaskelya,,Russia,COD,CUS0455,Returned
+385,2022-08-13,Consumer,Male,Footwear,Outdoor Footwear,2,Men's Waterproof Hiking Boots,89.99,9.85,Standard,Gaplek,,Indonesia,Credit Card,CUS0406,Returned
+386,2022-07-05,Consumer,Female,Fitness,Yoga Equipment,15,Yoga Blocks,29.99,8.27,Express,Socorro,,Colombia,Debit Card,CUS0234,Canceled
+387,2022-11-02,Small Business,Female,Travel,Travel Accessories,3,Compressible Packing Cubes,29.99,24.31,Standard,Pagsanahan Norte,,Philippines,UPI,CUS0705,Completed
+388,2023-05-30,Consumer,Female,Food - Breakfast,Instant Breakfast,9,Maple Oatmeal,2.99,1.45,Same Day,Dayr as Sūdān,,Palestinian Territory,EMI,CUS0006,Completed
+389,2022-09-17,Enterprise,Male,Accessories,Mobile Accessories,14,Magnetic Phone Case,19.99,22.36,Standard,Vukovije Donje,,Bosnia and Herzegovina,COD,CUS0262,Returned
+390,2025-02-07,Consumer,Male,Food - Condiments,Vinegars,16,Balsamic Vinegar,4.99,28.54,Standard,Ourinhos,,Brazil,Debit Card,CUS0970   CUS0971,Completed
+391,2023-01-07,Corporate,Male,Food - Meats,Poultry,6,Whole Roasted Chicken,9.99,21.07,Standard,Hengjing,,China,COD,CUS0144,Completed
+392,2024-07-14,Small Business,Male,Food - Produce,Vegetables,11,Organic Sweet Potatoes,1.99,13.46,Express,Landskrona,Skåne,Sweden,COD,CUS0157,Returned
+393,2023-04-25,Enterprise,Male,Food - Nut Butters,Nut Butters,13,Maple Almond Butter,5.49,17.66,Standard,Kedungkrajan,,Indonesia,Credit Card,CUS0177,Completed
+394,2024-03-26,Small Business,Female,Clothing - Tops,Sweaters,4,V-Neck Sweater,49.99,12.24,Standard,Kuz’minskiye Otverzhki,,Russia,UPI,CUS0849,Completed
+395,2022-05-01,Enterprise,Male,Food - Frozen Foods,Frozen Vegetables,9,Peas (frozen),1.89,19.53,Same Day,Hangbu,,China,EMI,CUS0048,Returned
+396,2022-12-13,Consumer,Male,Food - Soups,Vegetarian Soups,5,Carrot Ginger Soup,4.29,7.0,Standard,Pärnu,,Estonia,Debit Card,CUS0226,Canceled
+397,2022-08-24,Consumer,Female,Electronics,Networking Equipment,28,Wireless Wi-Fi Extender,49.99,10.65,Express,Meudon,Île-de-France,France,COD,CUS0192,Completed
+398,2022-08-14,Small Business,Male,Food - Oils,Oils,26,Organic Coconut Oil,8.99,21.82,Standard,Masma,,Peru,Credit Card,CUS0110,Completed
+399,2022-07-19,Small Business,Female,Art Supplies,Markers & Pens,3,Watercolor Brush Pens,19.99,28.18,Standard,Ozubulu,,Nigeria,UPI,CUS0212,Completed
+400,2023-10-23,Consumer,Female,Food - Canned Goods,Canned Fruits,6,Peach Halves (canned),2.49,16.39,Standard,Patrocinio,,Philippines,UPI,CUS0332,Returned
+401,2025-08-12,Corporate,Female,Pets,Pet Accessories,23,Pet Tracking Collar,59.99,10.17,Express,Dangbigih,,Indonesia,COD,CUS0079,Canceled
+402,2025-05-27,Corporate,Male,Fitness,Hydration Gear,6,Self-Cleaning Water Bottle,49.99,1.3,Standard,Pszczew,,Poland,EMI,CUS0958,Canceled
+403,2024-10-19,Enterprise,Male,Food - Frozen Foods,Frozen Fruit Blends,17,Berry Smoothie Mix,4.99,22.74,Standard,Candelaria,,Colombia,EMI,CUS0738,Completed
+404,2022-05-07,Small Business,Female,Food - Frozen Foods,Frozen Fruits,20,Frozen Berry Medley,5.49,10.6,Express,Nauchnyy Gorodok,,Russia,EMI,CUS0687,Canceled
+405,2022-11-18,Consumer,Male,Clothing - Shirts,Casual Shirts,18,Oversized Denim Shirt,49.99,1.74,Express,Metz,Lorraine,France,Credit Card,CUS0061,Completed
+406,2023-06-28,Small Business,Female,Accessories,Personal Care,25,Rechargeable Hand Warmer,22.99,8.03,Standard,Seara,Vila Real,Portugal,UPI,CUS0320 CUS0321,Completed
+407,2023-02-23,Small Business,Female,Kitchen,Cookware,29,Ceramic Cookware Set,179.99,13.29,Express,Laâyoune / El Aaiún,,Western Sahara,Debit Card,CUS0118,Completed
+408,2022-03-13,Small Business,Female,Food - Canned Goods,Canned Fruits,10,Pineapple Rings,2.49,22.12,Same Day,Zhendu,,China,Credit Card,CUS0660   CUS0661,Completed
+409,2025-04-29,Enterprise,Male,Food - Cereal,Granola,12,Nutty Granola Clusters,2.49,10.83,Standard,Skanör,Skåne,Sweden,UPI,CUS0405,Canceled
+410,2024-10-01,Small Business,Male,Pets,Training Supplies,22,Dog Training Clicker,5.99,23.4,Standard,Ar Rudayyif,,Tunisia,Credit Card,CUS0051,Completed
+411,2025-07-04,Corporate,Female,Gaming,Gaming Accessories,2,Wireless Gaming Mouse,39.99,20.81,Same Day,Gunjur Kuta,,Gambia,Debit Card,CUS0397,Completed
+412,2025-05-23,Small Business,Female,Food - Salads,Healthy Salads,8,Mediterranean Chickpea Salad,5.99,1.82,Express,Magallanes,,Philippines,Debit Card,CUS0659,Returned
+413,2023-03-30,Corporate,Female,Outdoor,Outdoor Accessories,1,Tabletop Fire Pit,79.99,2.99,Standard,Iława,,Poland,Debit Card,CUS0610   CUS0611,Canceled
+414,2022-10-16,Enterprise,Male,Food - Snacks,Salsas and Dips,20,Black Bean Salsa,3.49,2.52,Express,Bangil,,Indonesia,EMI,CUS0854,Returned
+415,2022-03-01,Small Business,Female,Kitchen,Baking Accessories,30,Silicone Baking Molds,15.99,20.86,Standard,Tymbark,,Poland,UPI,CUS0894,Completed
+416,2024-03-31,Enterprise,Male,Clothing - Accessories,Headwear,7,Cable Knit Beanie,19.99,16.38,Standard,Citarik,,Indonesia,COD,CUS0574,Completed
+417,2025-01-13,Enterprise,Female,Home,Lighting & Lamps,12,LED Strip Lights with Remote Control,29.99,20.68,Standard,Peristerá,,Greece,Debit Card,CUS0412,Completed
+418,2022-08-13,Corporate,Female,Crafts,Candle & Soap Making Supplies,17,DIY Candle Kit,34.99,19.49,Same Day,Vom,,Nigeria,Wallet,CUS0939,Completed
+419,2023-07-09,Small Business,Male,Food - Oils & Vinegars,Oils,8,Coconut Oil,6.49,6.04,Standard,Naschel,,Argentina,Debit Card,CUS0685,Returned
+420,2024-08-10,Consumer,Female,Food - Frozen Foods,Frozen Desserts,17,Vanilla Ice Cream,4.99,23.61,Express,Obodivka,,Ukraine,EMI,CUS0524,Completed
+421,2025-08-07,Small Business,Male,Home,Decorative Wall Art & Accessories,18,3D Night Light,19.99,28.15,Same Day,Glendale,California,United States,UPI,CUS0364,Returned
+422,2022-05-18,Small Business,Non-binary,Health,Emergency Preparedness & First Aid,7,Deluxe First Aid Kit,39.99,6.88,Express,Stari Grad,,Croatia,COD,CUS0197,Completed
+423,2022-01-17,Small Business,Female,Clothing,Loungewear,8,Luxury Bath Robe,49.99,22.85,Express,Pingqiao,,China,COD,CUS0442,Returned
+424,2025-04-01,Small Business,Male,Food - Grains,Couscous,23,Mediterranean Couscous,3.59,26.34,Same Day,Guadalupe Victoria,Chiapas,Mexico,UPI,CUS0893,Returned
+425,2022-10-14,Corporate,Male,Outdoor,Outdoor Recreation,7,Inflatable Pool Float,29.99,14.5,Express,Varennes,Québec,Canada,Credit Card,CUS0714,Completed
+426,2025-05-18,Small Business,Female,Audio,Wireless Speakers,18,Portable Speakers,69.99,13.33,Express,Mariposa,,Peru,Wallet,CUS0414,Completed
+427,2023-01-04,Corporate,Female,Automotive,Phone Accessories,5,Wireless Car Charger,24.99,27.0,Express,Dầu Tiếng,,Vietnam,Wallet,CUS0517,Canceled
+428,2023-09-10,Consumer,Male,Food - Snacks,Healthy Snacks,17,Maple Cinnamon Granola Bars,3.49,22.88,Express,Rumyantsevo,,Russia,Wallet,CUS0867,Returned
+429,2023-11-15,Corporate,Female,Home,Home Appliances,2,USB Desk Fan,14.99,15.99,Same Day,Pakis,,Indonesia,Wallet,CUS0934,Returned
+430,2024-08-17,Consumer,Male,Home,Home Organization,13,Photo Album,24.99,8.07,Same Day,Ivanishchi,,Russia,Debit Card,CUS0658,Completed
+431,2025-04-23,Enterprise,Male,Food - Condiments,Dressing,13,Poppy Seed Dressing,3.49,24.6,Same Day,Bang Phlat,,Thailand,Debit Card,CUS0484,Canceled
+432,2022-11-23,Small Business,Female,Home,Lighting & Lamps,6,LED Strip Lights Kit,29.99,6.09,Standard,Barţa‘ah ash Sharqīyah,,Palestinian Territory,UPI,CUS0339,Completed
+433,2024-05-19,Enterprise,Male,Accessories,Wine Accessories,14,Insulated Wine Tote,24.99,7.84,Same Day,Pingshan,,China,Wallet,CUS0117,Completed
+434,2024-03-28,Small Business,Male,Health,Nutrition & Fitness,28,Home Delivery Food Journal,14.99,8.97,Same Day,Pôrto Barra do Ivinheima,,Brazil,COD,CUS0610   CUS0611,Completed
+435,2022-05-03,Enterprise,Female,Food - Condiments,Marinades and Sauces,3,Vegetarian Stir Fry Sauce,2.49,17.2,Same Day,Lingsar,,Indonesia,Credit Card,CUS0145,Returned
+436,2022-11-16,Consumer,Female,Food - Bakery,Breads,19,Caraway Rye Bread,4.79,1.48,Express,Čáslav,,Czech Republic,COD,CUS0263,Completed
+437,2022-06-17,Corporate,Male,Food - Frozen Foods,Frozen Fruit Blends,24,Berry Smoothie Mix,4.99,8.92,Standard,Guatraché,,Argentina,COD,CUS0435,Returned
+438,2025-06-18,Corporate,Male,Health,Oral Care & Hygiene,8,Rechargeable Electric Toothbrush,49.99,3.1,Express,San Quintin,,Philippines,UPI,CUS0200,Completed
+439,2022-09-22,Consumer,Male,Food - Snacks,Chocolate Snacks,5,Dark Chocolate Bars,2.99,16.75,Same Day,Bafoulabé,,Mali,UPI,CUS0043,Completed
+440,2025-04-23,Enterprise,Male,Food - Canned Goods,Soups & Broths,11,Vegetable Broth,2.29,19.78,Express,Camargo,,Bolivia,Wallet,CUS0545,Completed
+441,2023-09-24,Consumer,Male,Food - Soups,Instant Soups,8,Miso Soup Mix,3.29,28.47,Express,Buarcos,Coimbra,Portugal,Wallet,CUS0863,Completed
+442,2024-06-02,Small Business,Male,Food - Vegetables,Vegetable Dishes,16,Grilled Vegetable Medley,4.49,28.36,Same Day,Itaocara,,Brazil,UPI,CUS0478,Canceled
+443,2023-08-15,Corporate,Male,Accessories,Jewelry Storage,18,Travel Jewelry Case,24.99,7.72,Standard,Sylvan Lake,Alberta,Canada,EMI,CUS0749,Completed
+444,2025-08-04,Consumer,Male,Food - Baking,Flours & Meals,19,Almond Flour,5.99,4.76,Express,Miřetice,,Czech Republic,UPI,CUS0883,Completed
+445,2022-02-11,Enterprise,Female,Accessories,Weather Accessories,3,Compact Umbrella,12.99,10.21,Express,Tuanjie,,China,COD,CUS0767,Canceled
+446,2023-12-31,Enterprise,Male,Kitchen,Drinkware,21,Stainless Steel Travel Mug,19.99,8.13,Express,Komorów,,Poland,Wallet,CUS0101,Returned
+447,2023-12-22,Corporate,Female,Food - Bakery,Cookies,1,Cranberry Almond Cookies,4.29,25.25,Express,Leping,,China,Debit Card,CUS0774,Completed
+448,2023-06-08,Consumer,Male,Food - Grains,Italian Cuisine,15,Italian Pasta,2.29,16.11,Standard,Loum,,Cameroon,UPI,CUS0512,Returned
+449,2024-11-24,Small Business,Female,Food - Vegetables,Salads,1,Cabbage Slaw Mix,2.29,11.98,Standard,Point Pedro,,Sri Lanka,COD,CUS0735,Canceled
+450,2022-10-12,Corporate,Female,Toys,Jigsaw Puzzles,28,Puzzle,27.99,12.82,Same Day,Martil,,Morocco,COD,CUS0033,Completed
+451,2023-02-05,Corporate,Male,Outdoor,Camping Equipment,8,Air Mattress,49.99,3.97,Express,Venezia,Veneto,Italy,Credit Card,CUS0977,Completed
+452,2024-03-22,Consumer,Agender,Food - Dairy,Dairy Alternatives,26,Organic Coconut Yogurt,4.49,19.06,Same Day,Grand Rapids,Michigan,United States,Wallet,CUS0925,Completed
+453,2024-09-30,Consumer,Male,Food - Dips,Fruit Dips,26,Peach Salsa,3.29,20.25,Same Day,Manorom,,Thailand,Credit Card,CUS0562,Completed
+454,2023-02-13,Small Business,Female,Kitchen,Kitchen Accessories,27,Recipe Book Stand,22.99,14.14,Same Day,Bitung,,Indonesia,Credit Card,CUS0036,Completed
+455,2023-08-28,Corporate,Female,Outdoor,Camping Equipment,28,Backpacking Tent,109.99,6.52,Standard,Pasirmadang,,Indonesia,Credit Card,CUS0587,Completed
+456,2024-05-31,Consumer,Female,Pets,Pet Accessories,5,Pet Leash,15.99,8.16,Standard,Zhongcheng,,China,UPI,CUS0216,Completed
+457,2024-09-07,Consumer,Bigender,Kitchen,Small Appliances,28,Microwave Popcorn Maker,19.99,25.78,Express,Kongwan,,China,Debit Card,CUS0101,Completed
+458,2022-02-24,Small Business,Female,Office,Laptop Accessories,22,Adjustable Laptop Stand,29.99,21.11,Express,Progreso,,Uruguay,UPI,CUS0647,Canceled
+459,2025-02-12,Corporate,Male,Food - Dairy,Cheese,21,Smoked Gouda Cheese,5.49,12.82,Standard,Chepes,,Argentina,Credit Card,CUS0878,Completed
+460,2022-04-10,Corporate,Female,Outdoor,Cycling Accessories,30,Lockable Bicycle Chain,19.99,20.18,Same Day,Koina,,Gambia,EMI,CUS0859,Canceled
+461,2025-07-27,Corporate,Female,Kitchen,Cutlery,26,Professional Chef Knife,89.99,6.63,Standard,Vredendal,,South Africa,COD,CUS0694,Returned
+462,2022-01-20,Corporate,Male,Accessories,Jewelry Storage,29,Handcrafted Wooden Jewelry Box,39.99,22.23,Standard,Banjar Petak,,Indonesia,Credit Card,CUS0154,Completed
+463,2024-07-29,Corporate,Male,Food - Beverages, smoothies,22,Peanut Butter Banana Smoothie,3.99,6.03,Standard,Bohumín,,Czech Republic,COD,CUS0336,Completed
+464,2025-03-17,Small Business,Female,Health,Fitness & Nutrition,18,Plant-Based Protein Bars,19.99,9.88,Same Day,Xunzhai,,China,Credit Card,CUS0098,Completed
+465,2022-09-10,Corporate,Female,Clothing - Tops,Activewear,22,Active Racerback Tank,24.99,21.99,Same Day,Xiaoqi,,China,Debit Card,CUS0597,Completed
+466,2023-07-26,Corporate,Female,Accessories,Bags,13,Cotton Tote Bag Set,29.99,22.42,Standard,Jixing,,China,COD,CUS0485,Canceled
+467,2022-02-15,Corporate,Male,Food - Sides,Bread & Rolls,3,Garlic Breadsticks,3.49,9.0,Same Day,Sim,,Russia,Credit Card,CUS0680   CUS0681,Canceled
+468,2022-10-18,Enterprise,Male,Food - Sauces,Asian Sauces,27,Spicy Thai Chili Sauce,3.29,10.47,Standard,Sosnovka,,Russia,Credit Card,CUS0764,Canceled
+469,2022-10-01,Enterprise,Agender,Food - Condiments,Spicy Sauces,30,Chipotle Sauce,3.29,24.79,Same Day,Klukeng,,Indonesia,UPI,CUS0844,Canceled
+470,2022-10-31,Consumer,Male,Smart Home,Home Automation,16,Smart Thermostat,149.99,10.07,Same Day,Changgai,,China,Debit Card,CUS0207,Canceled
+471,2024-11-26,Corporate,Female,Food - Snacks,Sweet Snacks,11,Caramel Apple Chips,3.49,5.7,Standard,Shuibian,,China,Debit Card,CUS0105,Completed
+472,2024-03-30,Small Business,Female,Food - Dairy,Cheese,27,Sliced Cheese,4.49,7.03,Standard,Circa,,Peru,Wallet,CUS0575,Completed
+473,2022-08-21,Small Business,Female,Automotive,Automotive Tools,20,Car Diagnostic Scanner,49.99,16.01,Express,Qal‘ah-ye Na‘īm,,Afghanistan,Wallet,CUS0924,Returned
+474,2023-08-17,Corporate,Female,Food - Desserts,Baking Mixes,4,Classic Cheesecake Mix,4.99,4.33,Express,Kantemirovka,,Russia,COD,CUS0567,Completed
+475,2025-06-13,Corporate,Female,Accessories,Laptop Accessories,17,Ultra-Thin Laptop Sleeve,19.99,11.23,Same Day,Campurrejo,,Indonesia,Credit Card,CUS0549,Canceled
+476,2024-07-29,Consumer,Male,Food - Condiments,Salsas & Dips,24,Salsa,3.49,2.15,Express,Āwash,,Ethiopia,UPI,CUS0407,Completed
+477,2023-09-10,Small Business,Female,Toys,Outdoor Play Toys,9,Children's Gardening Set,19.99,13.07,Express,Ambulong,,Philippines,Wallet,CUS0459,Canceled
+478,2024-10-11,Corporate,Genderfluid,Clothing - Bottoms,Bottoms,17,Chino Shorts,34.99,2.71,Express,Ecilda Paullier,,Uruguay,Debit Card,CUS0587,Completed
+479,2024-03-27,Enterprise,Genderfluid,Food - Beverages,Juice,23,Raspberry Limeade,1.99,6.98,Standard,Cholet,Pays de la Loire,France,Wallet,CUS0053,Completed
+480,2024-07-16,Small Business,Male,Food - Snacks,Savory Snacks,6,Pepperoni Pizza Rolls,6.99,25.48,Express,Antang,,China,COD,CUS0576,Returned
+481,2024-04-07,Enterprise,Female,Fitness,Hydration Gear,1,Self-Cleaning Water Bottle,49.99,1.09,Same Day,Querecotillo,,Peru,EMI,CUS0033,Canceled
+482,2024-05-29,Consumer,Female,Fitness,Yoga Equipment,28,High-Quality Yoga Block,12.99,21.76,Express,Oibioin,,Indonesia,Wallet,CUS0605,Completed
+483,2023-02-22,Corporate,Male,Outdoor,Outdoor Accessories,2,Outdoor String Lights,24.99,8.37,Express,Chonchi,,Chile,UPI,CUS0859,Completed
+484,2022-03-26,Enterprise,Male,Clothing - Activewear,Fitness Apparel,4,Sporty Leggings,39.99,25.27,Same Day,Kafir Qala,,Afghanistan,Credit Card,CUS0774,Completed
+485,2024-08-31,Enterprise,Genderqueer,Kitchen,Cooking Appliances,18,Electric Rice Cooker,39.99,12.64,Standard,Zaraysk,,Russia,COD,CUS0360 CUS0361,Completed
+486,2023-05-19,Small Business,Female,Food - Grains,Flavored Rice Dishes,8,Cilantro Lime Rice,2.99,2.16,Express,Kharlu,,Russia,UPI,CUS0181,Completed
+487,2022-10-25,Small Business,Female,Food - Meal Kits,Mexican Cuisine Meal Kits,10,Beef Taco Skillet,8.49,22.6,Express,Bauru,,Brazil,UPI,CUS0798,Canceled
+488,2025-01-22,Small Business,Female,Automotive,Car Cleaning,5,Car Vacuum Cleaner,39.99,20.24,Express,Yeyik,,China,EMI,CUS0033,Returned
+489,2022-01-14,Corporate,Female,Home,Lighting & Lamps,1,Luminous Night Light,15.99,2.62,Same Day,Vakhtan,,Russia,COD,CUS0718,Completed
+490,2023-04-03,Enterprise,Non-binary,Electronics,Tablets for Kids,29,Kids' Educational Tablet,129.99,19.92,Express,Fāqūs,,Egypt,EMI,CUS0585,Completed
+491,2022-03-10,Small Business,Male,Food - Condiments,Pickles,18,Dill Pickle Chips,2.29,5.61,Standard,Dawe,,Indonesia,Credit Card,CUS0084,Canceled
+492,2024-07-23,Corporate,Male,Food - Pasta,Specialty Pasta,11,Sweet Potato Noodles,3.79,2.08,Same Day,Zakamensk,,Russia,UPI,CUS0392,Completed
+493,2023-08-11,Enterprise,Male,Fitness,Cardio Equipment,1,Weighted Jump Rope with Counter,14.99,11.44,Same Day,Tagawa,,Japan,COD,CUS0744,Completed
+494,2023-01-08,Small Business,Female,Clothing - Tops,T-Shirts,27,Basic V-Neck T-Shirt,19.99,24.1,Same Day,Komsomolets,,Russia,Wallet,CUS0343,Completed
+495,2023-07-01,Enterprise,Male,Fitness,Hydration Gear,13,Fruit Infuser Water Bottle,15.99,9.15,Express,Obihiro,,Japan,UPI,CUS0208,Returned
+496,2022-10-31,Small Business,Female,Electronics,Networking Equipment,29,Wireless Wi-Fi Extender,49.99,13.54,Same Day,Milano,Lombardia,Italy,Credit Card,CUS0548,Completed
+497,2022-09-19,Consumer,Female,Food - Frozen,Frozen Meals,2,Thai Basil Fried Rice,5.99,14.99,Express,Mishkino,,Russia,Credit Card,CUS0121,Canceled
+498,2022-03-20,Enterprise,Male,Food - Salads,Vegetarian Salads,24,Curried Lentil Salad,4.29,2.55,Same Day,Rydułtowy,,Poland,EMI,CUS0242,Canceled
+499,2024-11-21,Corporate,Female,Food - Pasta,Pasta,3,Pasta (Fusilli),1.79,28.16,Same Day,Papatowai,,New Zealand,EMI,CUS0414,Completed
+500,2025-02-09,Consumer,Female,Home,Bedding & Linens,4,Reversible Comforter Set,89.99,2.62,Express,Kissimmee,Florida,United States,Credit Card,CUS0879,Completed
+501,2022-07-14,Enterprise,Male,Garden,Gardening Accessories,23,Adjustable Kneeling Pad,18.99,27.72,Express,Buenaventura,,Colombia,Debit Card,CUS0978,Completed
+502,2023-02-19,Small Business,Agender,Kitchen,Cooking Tools & Utensils,15,Salt and Pepper Grinder Set,19.99,24.62,Express,Tauranga,,New Zealand,EMI,CUS0785,Completed
+503,2023-01-09,Small Business,Agender,Food - Produce,Fruits,5,Organic Apples,1.89,10.97,Same Day,Pogorzyce,,Poland,UPI,CUS0543,Completed
+504,2022-07-23,Corporate,Genderfluid,Food - Spices,Herbs and Spices,26,Organic Italian Seasoning,2.99,9.42,Express,Zinder,,Niger,EMI,CUS0928,Returned
+505,2024-05-03,Corporate,Female,Accessories,Mobile Accessories,16,Phone Screen Protector,12.99,1.22,Same Day,Farasān,,Saudi Arabia,UPI,CUS0195,Completed
+506,2025-04-28,Consumer,Female,Food - Frozen,Frozen Meals,12,Coconut Rice,2.29,14.65,Same Day,Mainit,,Philippines,EMI,CUS0866,Returned
+507,2024-12-18,Enterprise,Male,Food - Condiments,Dressing,27,Orange Ginger Vinaigrette,3.99,3.78,Standard,Xinqiaohe,,China,Credit Card,CUS0513,Completed
+508,2024-08-20,Enterprise,Male,Sports,Golf,11,Golf Putting Green,79.99,12.72,Express,Dongxin,,China,Wallet,CUS0089,Canceled
+509,2023-12-07,Corporate,Genderfluid,Food - Beverages,Juice,26,Pomegranate Juice,4.49,18.92,Standard,San Pedro Masahuat,,El Salvador,UPI,CUS0136,Completed
+510,2024-08-04,Consumer,Female,Gaming,Arcade Machines & Cabinets,4,Arcade Game Machine,299.99,9.46,Express,Itapira,,Brazil,EMI,CUS0880   CUS0881,Canceled
+511,2024-11-15,Small Business,Female,Clothing - Activewear,Leggings,19,Mesh Sports Leggings,39.99,11.45,Same Day,Otradnoye,,Russia,Wallet,CUS0334,Canceled
+512,2023-04-18,Corporate,Male,Food - Condiments,Marinades and Sauces,14,Thai Coconut Curry Sauce,3.99,13.23,Same Day,Chenji,,China,EMI,CUS0052,Returned
+513,2022-09-23,Small Business,Female,Home,Bedding & Linens,21,Bamboo Memory Foam Pillow,34.99,12.21,Express,Turmi,,Ethiopia,Credit Card,CUS0892,Completed
+514,2024-04-05,Corporate,Male,Food - Breakfast,Instant Breakfast,19,Maple Oatmeal,2.99,5.17,Express,Miras,,Albania,EMI,CUS0412,Completed
+515,2024-08-17,Small Business,Male,Electronics,Home Entertainment Equipment,1,Smartphone Projector Kit,24.99,28.29,Express,Fécamp,Haute-Normandie,France,COD,CUS0675,Completed
+516,2022-04-20,Consumer,Agender,Kitchen,Cooking Appliances,25,Electric Griddle with Lid,49.99,24.28,Same Day,Knurów,,Poland,EMI,CUS0585,Completed
+517,2025-02-19,Corporate,Male,Kitchen,Food Storage Solutions,27,Silicone Stretch Lids,14.99,26.35,Express,Ojiya,,Japan,Debit Card,CUS0566,Completed
+518,2022-07-12,Small Business,Female,Office,Office Accessories,2,Leather Notebook Cover,29.99,18.01,Standard,Ruda Maleniecka,,Poland,Debit Card,CUS0564,Completed
+519,2022-03-31,Corporate,Female,Outdoor,Camping Equipment,14,Compact Pop-Up Tent,69.99,16.29,Express,Boavista,Porto,Portugal,COD,CUS0047,Canceled
+520,2024-11-19,Consumer,Female,Food - Condiments,Salsas,22,Fire Roasted Salsa,2.49,14.99,Express,Tuanlin,,China,Credit Card,CUS0634,Completed
+521,2025-01-11,Consumer,Non-binary,Food - Snacks,Healthy Snacks,23,Rice Cakes,2.29,12.71,Same Day,Tirana,,Albania,Wallet,CUS0523,Canceled
+522,2025-03-14,Enterprise,Bigender,Clothing - Tops,Shirts,9,Plaid Flannel Shirt,29.99,9.65,Same Day,Bueng Sam Phan,,Thailand,UPI,CUS0935,Completed
+523,2022-07-15,Small Business,Female,Pets,Pet Accessories,30,Portable Pet Water Bottle,18.99,3.49,Express,Puqi,,China,Wallet,CUS0450 CUS0451,Returned
+524,2022-05-12,Enterprise,Male,Food - Baking,Baking Ingredients,4,Gluten-Free Biscuits,3.79,11.24,Same Day,Paris 17,Île-de-France,France,UPI,CUS0574,Canceled
+525,2024-03-17,Enterprise,Agender,Home,Decorative Wall Art & Accessories,12,Rustic Wooden Picture Frame,19.99,21.33,Same Day,Hrob,,Czech Republic,UPI,CUS0339,Completed
+526,2025-03-19,Corporate,Male,Food - Dairy,Cheese Spreads,25,Garlic Herb Cream Cheese,2.99,12.31,Same Day,San Antonio,,Philippines,Debit Card,CUS0760   CUS0761,Completed
+527,2023-04-25,Small Business,Polygender,Food - Meat,Processed Meats,18,Honey Mustard Chicken Breasts,8.99,16.33,Standard,Gaosheng,,China,EMI,CUS0563,Returned
+528,2022-10-19,Consumer,Female,Clothing - Outerwear,Jackets,9,Denim Jacket,69.99,4.54,Same Day,Qingchuan,,China,EMI,CUS0846,Completed
+529,2024-01-23,Corporate,Female,Food - Snacks,Healthy Snacks,4,Chocolate Chip Energy Balls,3.99,1.27,Standard,Ciudad Nueva,,Dominican Republic,Credit Card,CUS0968,Returned
+530,2024-03-28,Consumer,Genderfluid,Food - Canned Goods,Soups & Broths,26,Classic Beef Chili,7.99,10.03,Same Day,Al Miftāḩ,,Yemen,COD,CUS0185,Completed
+531,2024-12-30,Small Business,Female,Clothing - Dresses,Casual Dresses,9,Summer Tank Dress,39.99,24.01,Express,Lingzhi,,China,COD,CUS0138,Completed
+532,2023-12-02,Small Business,Female,Pets,Pet Accessories,30,Personalized Pet ID Tags,9.99,19.0,Same Day,Stara Pazova,,Serbia,EMI,CUS0255,Completed
+533,2024-06-14,Consumer,Male,Health,Safety & Protection,28,Breathable Face Mask Set,14.99,10.52,Standard,Kara-Balta,,Kyrgyzstan,COD,CUS0776,Completed
+534,2023-04-29,Corporate,Male,Food - Grains,Flavored Couscous,22,Herb Seasoned Couscous,2.49,10.7,Express,Sabaneta,,Venezuela,Credit Card,CUS0535,Canceled
+535,2025-08-26,Enterprise,Female,Home,Home Organization,8,Over-the-Door Hooks,12.99,29.87,Same Day,Kariaí,,Greece,COD,CUS0154,Completed
+536,2024-02-06,Small Business,Male,Toys,Building Toys,20,Kids' Building Blocks,19.99,22.27,Express,Berlin,Berlin,Germany,Wallet,CUS0636,Canceled
+537,2023-12-17,Enterprise,Male,Kitchen,Cookware,18,Non-Stick Grill Pan,39.99,7.4,Express,Folques,Coimbra,Portugal,Wallet,CUS0349,Returned
+538,2025-03-17,Enterprise,Male,Food - Condiments,Dessert Toppings,1,Caramel Sauce,3.49,25.11,Standard,Nonsan,,South Korea,UPI,CUS0582,Returned
+539,2024-11-14,Small Business,Female,Food - Sauces,Pasta Sauces,2,Tomato Basil Pasta Sauce,3.99,24.31,Standard,Kubangkondang,,Indonesia,EMI,CUS0106,Completed
+540,2025-08-26,Consumer,Female,Outdoor,Outdoor Accessories,3,Hiking Water Bottle with Filter,29.99,15.29,Same Day,Laiponda,,Indonesia,Wallet,CUS0326,Completed
+541,2025-01-06,Enterprise,Male,Health,Oral Care & Hygiene,25,Rechargeable Electric Toothbrush,49.99,19.09,Standard,Kedawung,,Indonesia,Debit Card,CUS0897,Returned
+542,2024-08-30,Small Business,Male,Garden,Garden Supplies,21,Garden Hose,32.99,10.89,Same Day,Maranura,,Peru,EMI,CUS0478,Completed
+543,2024-12-22,Corporate,Non-binary,Accessories,Power Accessories,18,Wireless Charger,24.99,11.74,Express,Zielonka,,Poland,Wallet,CUS0929,Completed
+544,2023-07-22,Corporate,Genderfluid,Food - Sauces,Herb-Based Sauces,28,Fresh Basil Pesto,4.79,2.21,Standard,Tymbark,,Poland,Debit Card,CUS0765,Canceled
+545,2023-10-07,Consumer,Non-binary,Clothing - Footwear,Athletic Footwear,8,Trainers with Mesh Inserts,69.99,28.11,Standard,Growong Lor,,Indonesia,Credit Card,CUS0707,Completed
+546,2024-04-07,Small Business,Male,Books,Journals,1,Field Journal,14.99,23.2,Express,Penticton,British Columbia,Canada,Credit Card,CUS0346,Completed
+547,2023-10-29,Enterprise,Male,Fitness,Strength Training Equipment,16,Bodyweight Resistance Bands,22.99,6.09,Same Day,Nangakeo,,Indonesia,Wallet,CUS0825,Canceled
+548,2024-07-30,Corporate,Male,Food - Pasta,Specialty Pasta,21,Black Bean Spaghetti,3.99,22.89,Express,Lindong,,China,EMI,CUS0836,Completed
+549,2025-03-01,Enterprise,Male,Food - Frozen Foods,Frozen Vegetables,12,Frozen Spinach,1.99,5.14,Standard,Thorpe,England,United Kingdom,Credit Card,CUS0768,Completed
+550,2022-06-04,Consumer,Female,Home,Home Organization,8,Photo Album,24.99,27.02,Same Day,Baharly,,Turkmenistan,Credit Card,CUS0690   CUS0691,Completed
+551,2022-05-18,Enterprise,Male,Food - Household,Household Supplies,19,Laundry Detergent,12.99,29.33,Express,Eskilstuna,Södermanland,Sweden,Debit Card,CUS0647,Completed
+552,2022-03-15,Corporate,Female,Kitchen,Kitchen Accessories,5,Stainless Steel Straws,12.99,5.36,Express,Staraya Stanitsa,,Russia,COD,CUS0985,Canceled
+553,2023-12-27,Corporate,Male,Photography,Camera Accessories,24,Camera Lens Cleaning Kit,14.99,23.47,Express,Les Cèdres,Québec,Canada,Credit Card,CUS0664,Completed
+554,2022-07-02,Small Business,Male,Home,Bedding & Linens,7,Reversible Comforter Set,89.99,20.2,Express,Entradas,Beja,Portugal,UPI,CUS0837,Canceled
+555,2023-07-08,Corporate,Male,Outdoor,Grilling Accessories,18,Stainless Steel BBQ Grill Set,49.99,16.41,Same Day,São Miguel dos Campos,,Brazil,Wallet,CUS0844,Completed
+556,2022-01-03,Enterprise,Male,Food - Prepared Meals,Kits - Sushi,14,Spicy Tuna Sushi Kit,8.99,29.26,Express,Javānrūd,,Iran,Credit Card,CUS0152,Completed
+557,2025-07-13,Corporate,Female,Kitchen,Drinkware,15,Magic Color-Changing Mug,14.99,22.58,Express,Teknāf,,Bangladesh,COD,CUS0129,Completed
+558,2022-07-24,Consumer,Female,Kitchen,Food Storage Solutions,21,Reusable Food Storage Bags,19.99,22.68,Standard,Karachi,,Pakistan,EMI,CUS0847,Completed
+559,2022-06-10,Small Business,Female,Food - Salads,Healthy Salads,8,Quinoa & Black Bean Salad,7.49,12.67,Standard,Montepuez,,Mozambique,UPI,CUS0197,Completed
+560,2023-11-07,Corporate,Male,Food - Snacks,Nut-Based Snacks,23,Peanut Butter Pretzel Bites,4.19,9.27,Same Day,Gonghe,,China,EMI,CUS0005,Completed
+561,2022-05-30,Small Business,Male,Food - Bakery,Muffins,20,Banana Nut Muffins,4.49,2.62,Standard,Shitang,,China,Credit Card,CUS0993,Completed
+562,2023-03-08,Enterprise,Male,Food - Vegetables,Pasta Alternatives,5,Zucchini Noodles,3.99,2.37,Same Day,Sandaogou,,China,COD,CUS0949,Completed
+563,2023-03-12,Small Business,Female,Food - Confectionery,Chewy Candies,25,Caramel Apple Taffy,1.99,25.2,Standard,Shakhun’ya,,Russia,COD,CUS0479,Canceled
+564,2024-10-27,Corporate,Female,Fitness,Hydration Gear,18,Stainless Steel Water Bottle,25.99,5.89,Same Day,Údlice,,Czech Republic,Wallet,CUS0808,Completed
+565,2024-01-15,Enterprise,Male,Food - Frozen Food,Frozen Meals,17,Vegetable Potstickers,5.99,22.85,Same Day,Jambean,,Indonesia,COD,CUS0449,Completed
+566,2023-11-19,Small Business,Male,Home Appliances,Floor Care Appliances,9,Robot Vacuum Cleaner,299.99,12.93,Express,Albergaria,Coimbra,Portugal,Wallet,CUS0886,Returned
+567,2023-03-03,Enterprise,Male,Art Supplies,Markers & Pens,12,Watercolor Brush Pens,19.99,9.79,Express,Huquan,,China,UPI,CUS0727,Canceled
+568,2023-01-03,Corporate,Female,Kitchen,Small Appliances,5,Mini Waffle Maker,24.99,8.07,Same Day,Cukalat,,Albania,COD,CUS0857,Completed
+569,2024-05-14,Consumer,Male,Food - Dairy,Yogurt,8,Peach Yogurt,1.29,11.31,Standard,Toyohama,,Japan,EMI,CUS0659,Canceled
+570,2024-04-13,Corporate,Female,Food - Prepared Foods,International Cuisine,14,Stuffed Grape Leaves,5.79,21.94,Express,Feicheng,,China,UPI,CUS0530   CUS0531,Completed
+571,2022-12-17,Small Business,Female,Kitchen,Small Appliances,24,Microwave Popcorn Maker,19.99,10.91,Same Day,Lukunor,,Micronesia,COD,CUS0730   CUS0731,Completed
+572,2025-03-17,Small Business,Female,Home,Decorative Wall Art & Accessories,24,Self-Adhesive Wallpaper,34.99,10.86,Same Day,Abaetetuba,,Brazil,EMI,CUS0523,Completed
+573,2022-10-11,Small Business,Male,Home,Home Organization,9,Suction Cup Hooks,9.99,26.41,Same Day,Mursaba,,Indonesia,EMI,CUS0147,Canceled
+574,2023-12-21,Enterprise,Female,Food - Condiments,Dips & Spreads,2,Avocado Oil Mayo,5.29,5.49,Same Day,Maromitsa,,Russia,Debit Card,CUS0702,Completed
+575,2024-06-14,Enterprise,Female,Food - Grocery,Meat Alternatives,17,Smoky BBQ Jackfruit,4.99,29.49,Standard,Tejen,,Turkmenistan,Wallet,CUS0457,Completed
+576,2025-01-30,Enterprise,Male,Food - Prepared Foods,Salads,11,Pesto Pasta Salad,4.99,16.05,Same Day,Mizi,,China,EMI,CUS0234,Completed
+577,2024-03-06,Consumer,Male,Food - Snacks,Gourmet Snacks,5,Truffle Parmesan Fries,4.99,13.59,Same Day,Khong Chai,,Thailand,EMI,CUS0259,Completed
+578,2024-03-27,Consumer,Male,Food - Snacks,Chocolate Snacks,17,Dark Chocolate Covered Raisins,3.99,2.76,Express,Nantes,Pays de la Loire,France,COD,CUS0720   CUS0721,Completed
+579,2025-02-17,Consumer,Male,Accessories,Kids' Bags,23,Kids' Dinosaur-Themed Lunchbox,19.99,16.11,Same Day,Kozhevnikovo,,Russia,COD,CUS0977,Completed
+580,2023-11-08,Enterprise,Female,Food - Frozen Foods,Frozen Vegetables,8,Oven-Baked Sweet Potato Fries,3.99,5.85,Express,Muramvya,,Burundi,Credit Card,CUS0459,Completed
+581,2023-01-06,Consumer,Female,Electronics,Home Entertainment Equipment,5,Smartphone Projector Kit,24.99,13.81,Same Day,Chaltyr,,Russia,Credit Card,CUS0779,Completed
+582,2023-02-28,Corporate,Female,Food - Meat,Jerky,18,Maple Bacon Jerky,6.99,29.83,Express,Montelíbano,,Colombia,Credit Card,CUS0163,Completed
+583,2022-09-27,Consumer,Male,Food - Sides,Grains,22,Coconut Lime Rice,2.99,8.19,Standard,Gunan,,China,Debit Card,CUS0545,Completed
+584,2022-11-28,Enterprise,Female,Kitchen,Small Appliances,8,Electric Pressure Cooker,89.99,11.38,Express,Guajiasi,,China,Credit Card,CUS0850   CUS0851,Returned
+585,2023-12-28,Enterprise,Male,Home,Home Appliances,11,Electric Stool Heater,29.99,5.74,Standard,Abovyan,,Armenia,EMI,CUS0550   CUS0551,Completed
+586,2023-07-02,Small Business,Female,Kitchen,Small Appliances,21,Electric Butter Churn,49.99,4.35,Standard,Dengteke,,China,Credit Card,CUS0186,Completed
+587,2025-02-24,Small Business,Male,Food - Meat,Marinated Poultry,19,Lemon Herb Grilled Chicken,9.99,2.58,Same Day,Tumpukrenteng,,Indonesia,Wallet,CUS0349,Completed
+588,2023-08-12,Corporate,Non-binary,Food - Seafood,Canned Seafood,6,Canned Sardines,3.29,15.18,Express,Rydułtowy,,Poland,Wallet,CUS0852,Completed
+589,2024-07-26,Corporate,Female,Food - Frozen Food,Frozen Meals,23,Teriyaki Chicken Wings,10.99,5.28,Express,Domašinec,,Croatia,Wallet,CUS0454,Completed
+590,2024-06-05,Enterprise,Female,Home,Decorative Wall Art & Accessories,14,Rustic Wooden Picture Frame,19.99,21.05,Express,Stockholm,Stockholm,Sweden,EMI,CUS0827,Completed
+591,2024-12-03,Consumer,Female,Food - Snacks,Sweet Snacks,3,Caramel Apple Chips,3.49,17.05,Same Day,Kuleqi,,China,COD,CUS0327,Canceled
+592,2024-10-16,Enterprise,Polygender,Garden,Gardening Kits,11,Herbal Garden Starter Kit,24.99,4.11,Express,Bayombong,,Philippines,EMI,CUS0692,Returned
+593,2023-11-15,Enterprise,Female,Toys,Educational Toys,17,Magnetic Puzzle Board,24.99,27.91,Standard,Pedro Sánchez,,Dominican Republic,Debit Card,CUS0402,Returned
+594,2022-07-07,Enterprise,Male,Gaming,Gaming Accessories,28,Gaming Mousepad,19.99,16.43,Same Day,Ţayyibat al Imām,,Syria,COD,CUS0460 CUS0461,Completed
+595,2023-12-27,Small Business,Male,Kitchen,Food Storage Solutions,2,Reusable Food Storage Bags,19.99,13.56,Same Day,Kawungsari,,Indonesia,UPI,CUS0839,Completed
+596,2024-07-04,Consumer,Male,Wearable Tech,Fitness Monitors,16,Fitness Smartwatch,99.99,18.57,Standard,Jarigue,,Philippines,UPI,CUS0174,Canceled
+597,2023-04-12,Corporate,Male,Food - Breakfast,Instant Breakfast,13,Cranberry Orange Oatmeal,2.49,13.31,Standard,Mengzhai,,China,Debit Card,CUS0218,Returned
+598,2024-09-13,Enterprise,Female,Food - Condiments,Sauces,26,Teriyaki Stir-Fry Sauce,3.49,25.12,Standard,Shihuajian,,China,Wallet,CUS0755,Canceled
+599,2024-01-30,Small Business,Male,Food - Condiments,Sauces,30,BBQ Sauce,3.49,1.58,Same Day,Araçatuba,,Brazil,UPI,CUS0736,Completed
+600,2024-05-08,Consumer,Male,Clothing - Bottoms,Trousers,27,Linen Trousers,44.99,11.24,Express,San Miguel Ixtahuacán,,Guatemala,COD,CUS0285,Completed
+601,2022-11-15,Corporate,Female,Home,Home Fragrance & Accessories,7,Scented Candle Set,24.99,11.43,Same Day,Anserma,,Colombia,EMI,CUS0803,Completed
+602,2022-07-08,Enterprise,Female,Food - Frozen Meals,Frozen Appetizers,4,Mini Meatballs,5.99,10.54,Standard,Kalatongke,,China,EMI,CUS0088,Completed
+603,2023-06-22,Small Business,Female,Audio,Portable Speakers,1,Bluetooth Shower Speaker,24.99,24.02,Same Day,Punat,,Croatia,EMI,CUS0746,Completed
+604,2023-07-12,Small Business,Male,Food - Meat Substitutes,Plant-Based Proteins,13,Veggie Burger Patties,5.99,14.89,Same Day,San Vicente de Bique,,Panama,UPI,CUS0445,Completed
+605,2023-04-14,Enterprise,Female,Audio,Headphones,1,Noise-Canceling Headphones,119.99,10.15,Same Day,Huazhou,,China,UPI,CUS0055,Completed
+606,2025-05-11,Enterprise,Female,Food - Snacks,Healthy Snacks,22,Almond Joy Snack Bars,2.99,1.76,Same Day,Baishan,,China,EMI,CUS0494,Completed
+607,2024-03-29,Enterprise,Male,Kitchen,Kitchen Accessories,3,Stainless Steel Straws,12.99,22.76,Express,Pittsburgh,Pennsylvania,United States,Debit Card,CUS0720   CUS0721,Canceled
+608,2025-06-26,Consumer,Female,Food - Condiments,Sauces,7,Maple Chipotle Glaze,3.49,13.39,Standard,Amaraji,,Brazil,Debit Card,CUS0994,Canceled
+609,2023-09-04,Corporate,Male,Garden,Garden Tools,20,Watering Can with Nozzle,19.99,28.27,Express,Luxi,,China,Credit Card,CUS0438,Completed
+610,2023-01-02,Enterprise,Male,Fitness,Cardio Equipment,1,Weighted Jump Rope with Counter,14.99,7.53,Express,Kuzhu,,China,EMI,CUS0938,Canceled
+611,2022-03-28,Corporate,Female,Kitchen,Food Storage Solutions,14,Reusable Food Storage Bags,19.99,4.01,Same Day,Aygeshat,,Armenia,COD,CUS0712,Completed
+612,2022-10-18,Small Business,Female,Bathroom,Shower Fixtures,21,Thermostatic Shower Valve Kit,39.99,21.36,Express,Hongqi,,China,UPI,CUS0808,Returned
+613,2024-02-24,Small Business,Female,Food - Frozen Foods,Frozen Appetizers,19,Buffalo Cauliflower Wings,6.99,10.99,Express,Dongba,,China,COD,CUS0766,Returned
+614,2023-11-20,Consumer,Male,Gaming,Gaming Accessories,3,Gaming Headset,69.99,29.89,Same Day,Oliveirinha,Aveiro,Portugal,Wallet,CUS0127,Completed
+615,2023-08-19,Corporate,Female,Food - Snacks,Healthy Snacks,14,Chewy Granola Bars,3.49,20.82,Same Day,Berëzovyy,,Russia,Wallet,CUS0460 CUS0461,Completed
+616,2022-09-08,Enterprise,Male,Pets,Pet Technology,24,Pet Camera with Treat Dispenser,149.99,9.51,Same Day,Tsagaanchuluut,,Mongolia,EMI,CUS0210 CUS0211,Canceled
+617,2025-04-01,Small Business,Female,Food - Frozen Foods,Frozen Appetizers,10,Vegetable Spring Rolls,6.49,15.54,Same Day,Palmasola,,Venezuela,Wallet,CUS0507,Canceled
+618,2022-11-19,Small Business,Female,Travel,Travel Accessories,6,Travel Document Organizer,15.99,19.13,Standard,Nanhu,,China,UPI,CUS0144,Canceled
+619,2022-10-06,Corporate,Female,Food - Condiments,Dips & Spreads,21,French Onion Dip,2.99,6.45,Same Day,Trancas,,Argentina,Credit Card,CUS0159,Completed
+620,2024-07-29,Small Business,Male,Food - Sides,Potatoes,24,Creamy Garlic Mashed Potatoes,3.99,24.53,Same Day,Jerada,,Morocco,Wallet,CUS0417,Canceled
+621,2023-10-30,Corporate,Male,Food - Frozen Foods,Frozen Vegetables,23,Peas (frozen),1.89,12.01,Express,Cerinza,,Colombia,COD,CUS0626,Completed
+622,2023-04-07,Small Business,Male,Gaming,Arcade Machines & Cabinets,11,Arcade Game Machine,299.99,28.53,Same Day,Dazhangzhuang,,China,EMI,CUS0210 CUS0211,Canceled
+623,2022-04-24,Enterprise,Male,Clothing - Footwear,Boots,28,Suede Ankle Booties,79.99,22.33,Express,Nafada,,Nigeria,EMI,CUS0864,Canceled
+624,2023-10-19,Consumer,Male,Food - Produce,Fresh Fruits,14,Honeycrisp Apples,1.89,19.9,Standard,Boca do Acre,,Brazil,Wallet,CUS0426,Completed
+625,2024-07-10,Corporate,Female,Fitness,Hydration Gear,21,Stainless Steel Water Bottle,25.99,14.38,Same Day,Nayak,,Afghanistan,UPI,CUS1000,Completed
+626,2022-10-22,Small Business,Male,Pets,Grooming Supplies,28,Pet Grooming Brush,19.99,7.44,Same Day,Yuanda,,China,Credit Card,CUS0856,Completed
+627,2024-08-26,Small Business,Female,Food - Sides,Vegetable Sides,23,Mashed Sweet Potatoes,3.99,19.45,Standard,Sigu,,China,Credit Card,CUS0012,Completed
+628,2023-08-15,Corporate,Female,Fitness,Strength Training Equipment,25,Adjustable Dumbbells,249.99,20.59,Standard,Santa María Ixhuatán,,Guatemala,Credit Card,CUS0842,Completed
+629,2022-02-09,Small Business,Male,Garden,Garden Tools,18,Garden Kneeler and Seat,39.99,21.19,Express,Tapayan,,Philippines,Debit Card,CUS0009,Completed
+630,2025-03-23,Consumer,Male,Food - Spices,Salt & Seasoning,18,Himalayan Salt Grinder,4.99,20.25,Express,Banjar Anyar,,Indonesia,Credit Card,CUS0572,Canceled
+631,2023-10-14,Small Business,Female,Clothing - Activewear,Leggings,3,Legging Pants,34.99,14.82,Same Day,Xuanhua,,China,COD,CUS0442,Canceled
+632,2024-06-15,Small Business,Female,Kitchen,Coffee Accessories,7,Coffee Capsule Dispenser,24.99,2.0,Standard,Thio,,New Caledonia,UPI,CUS0748,Canceled
+633,2022-03-07,Corporate,Female,Food - Frozen Foods,Frozen Fruit Smoothies,13,Nordic Berry Smoothie,3.99,7.15,Standard,Montalvão,Portalegre,Portugal,Wallet,CUS0866,Completed
+634,2022-08-01,Small Business,Male,Food - Frozen Foods,Frozen Snacks,9,Sweet Potato Fries,3.99,15.82,Standard,Nehe,,China,Debit Card,CUS0378,Completed
+635,2024-12-11,Consumer,Male,Kitchen,Eco-Friendly Kitchen Products,25,Reusable Produce Bags Set,14.99,14.46,Same Day,Sergio Osmeña Sr,,Philippines,EMI,CUS0930   CUS0931,Completed
+636,2023-02-07,Small Business,Female,Clothing - Accessories,Bags,23,Canvas Tote Bag,19.99,12.92,Standard,Tuwiri Wetan,,Indonesia,UPI,CUS0633,Returned
+637,2023-07-08,Small Business,Female,Fitness,Wearable Technology,20,Fitness Tracker,49.99,7.68,Same Day,Puerto Madryn,,Argentina,Credit Card,CUS0134,Canceled
+638,2024-05-20,Consumer,Female,Food - Bakery,Bagels,14,Classic Bagels,2.99,4.77,Express,Caucaia,,Brazil,UPI,CUS0567,Canceled
+639,2022-11-04,Corporate,Female,Home,Decorative Wall Art & Accessories,17,Cushion Covers,35.0,6.76,Standard,Najrān,,Saudi Arabia,UPI,CUS0585,Completed
+640,2022-03-13,Small Business,Female,Pets,Pet Accessories,22,LED Flashing Pet Collar,14.99,10.52,Same Day,Tanjay,,Philippines,Credit Card,CUS0578,Completed
+641,2022-01-13,Small Business,Female,Food - Meat,Poultry,6,Whole Chicken,12.99,1.99,Express,Kauswagan,,Philippines,Credit Card,CUS0288,Completed
+642,2024-01-23,Small Business,Female,Food - Beverages,Drink Mixes,2,Raspberry Lemonade Mix,3.99,3.96,Same Day,Hrádek,,Czech Republic,EMI,CUS0735,Canceled
+643,2023-07-23,Corporate,Male,Food - Bakery,Gluten-Free Treats,26,Almond Flour Cookies,4.99,9.84,Same Day,Rio Largo,,Brazil,UPI,CUS0955,Completed
+644,2022-04-10,Small Business,Male,Food - Cereals,Granola,26,Raisin Cinnamon Granola,3.79,2.31,Express,Bromma,Stockholm,Sweden,UPI,CUS0745,Canceled
+645,2022-12-30,Small Business,Male,Food - Snacks,Healthy Snacks,6,Organic Brown Rice Cakes,3.99,12.92,Standard,Young,,Uruguay,Debit Card,CUS0856,Completed
+646,2024-06-21,Small Business,Female,Kitchen,Cooking Tools & Utensils,8,Instant Read Meat Thermometer,24.99,3.69,Same Day,Baini,,China,UPI,CUS0349,Canceled
+647,2023-01-31,Small Business,Female,Home,Air Quality & Purification,10,Smart Air Purifier,199.99,11.91,Express,Brvenica,,Macedonia,Debit Card,CUS0926,Returned
+648,2025-07-07,Corporate,Female,Food - Snacks,Sweet Snacks,29,Peach Fruit Cups,1.99,21.28,Standard,Lalagsan,,Philippines,Debit Card,CUS0395,Returned
+649,2025-07-11,Small Business,Male,Food - Soups,Vegetarian Soups,9,Leek and Potato Soup,3.29,17.89,Express,Mosina,,Poland,COD,CUS0360 CUS0361,Completed
+650,2023-01-20,Small Business,Male,Food - Beverages,Coffee,11,Cold Brew Coffee Concentrate,7.99,2.46,Express,Laiyuan,,China,Debit Card,CUS0242,Returned
+651,2024-04-07,Corporate,Female,Food - Dried Fruits,Dried Fruits,12,Californian Raisins,3.19,22.24,Standard,Al Bayḑā’,,Libya,Wallet,CUS0885,Completed
+652,2024-03-20,Consumer,Female,Art Supplies,Painting Kits,19,Paint By Numbers Kit,24.99,10.26,Same Day,Linshi,,China,Credit Card,CUS0349,Returned
+653,2024-02-10,Enterprise,Male,Food - Frozen,Frozen Vegetables,9,Frozen Broccoli,2.49,12.84,Express,Novoselë,,Albania,Wallet,CUS0556,Completed
+654,2024-03-12,Corporate,Female,Kitchen,Small Appliances,9,Electric Fondue Pot,39.99,16.6,Same Day,Novoaltaysk,,Russia,COD,CUS0999,Completed
+655,2022-09-01,Enterprise,Female,Travel,Luggage and Bags,5,Overnight Duffle Bag,34.99,22.97,Express,Carepa,,Colombia,UPI,CUS0027,Returned
+656,2022-07-08,Corporate,Female,Food - Snacks,Savory Snacks,25,Honey Mustard Pretzel Bites,3.99,16.43,Express,Obesi,,Indonesia,Wallet,CUS0017,Canceled
+657,2023-02-05,Corporate,Male,Food - Baking,Baking Ingredients,29,Cocoa Powder,3.99,20.04,Same Day,Cabinteely,,Ireland,Credit Card,CUS0357,Canceled
+658,2022-02-07,Enterprise,Male,Toys,Creative Arts & Crafts,6,Kids' Art Supplies Kit,29.99,19.44,Express,Serra,,Brazil,Wallet,CUS0918,Completed
+659,2022-12-26,Corporate,Agender,Food - Snacks,Savory Snacks,24,Savory Snack Mix,4.49,22.13,Express,Sviblovo,,Russia,UPI,CUS0135,Canceled
+660,2024-06-07,Enterprise,Female,Accessories,Tech Accessories,20,Wireless Earbud Silicone Covers,9.99,4.98,Same Day,Dul’durga,,Russia,UPI,CUS0955,Completed
+661,2024-08-01,Corporate,Female,Electronics,Computer Accessories,11,Wireless Keyboard and Mouse Combo,34.99,3.5,Standard,Pākpattan,,Pakistan,Wallet,CUS0025,Completed
+662,2024-02-03,Consumer,Male,Office,Lighting,6,LED Desk Lamp with USB Charging Port,29.99,1.84,Same Day,Setúbal,Setúbal,Portugal,COD,CUS0674,Returned
+663,2024-06-24,Corporate,Male,Food - Frozen Foods,Frozen Desserts,12,Ice Cream,5.99,2.76,Standard,Krajenka,,Poland,EMI,CUS0136,Completed
+664,2024-02-26,Corporate,Female,Food - Spices & Seasonings,Seasoning Mixes,20,Chili Con Carne Mix,2.99,6.21,Same Day,Mercedes,,Costa Rica,Credit Card,CUS0444,Completed
+665,2024-07-29,Consumer,Female,Fitness,Hydration Gear,16,Self-Cleaning Water Bottle,49.99,26.92,Express,Sidi Yahia el Gharb,,Morocco,Credit Card,CUS0075,Returned
+666,2023-05-11,Small Business,Female,Home,Decorative Wall Art & Accessories,30,Self-Adhesive Wallpaper,34.99,25.42,Standard,Ginatilan,,Philippines,Credit Card,CUS0460 CUS0461,Canceled
+667,2025-02-18,Consumer,Female,Food - Snacks,Sweet Snacks,18,Honey Graham Crackers,3.29,26.55,Standard,Lengkong,,Indonesia,EMI,CUS0457,Returned
+668,2025-08-28,Corporate,Female,Kitchen,Food Storage Solutions,24,Silicone Stretch Lids,14.99,3.25,Same Day,Barbosa,,Colombia,Debit Card,CUS0320 CUS0321,Completed
+669,2023-10-24,Small Business,Female,Food - Sauces,Asian Sauces,11,Vegetable Stir-Fry Sauce,3.49,2.26,Same Day,Erdao,,China,Debit Card,CUS0105,Canceled
+670,2023-05-11,Enterprise,Male,Food - Salads,Gourmet Salads,4,Pear and Gorgonzola Salad,5.49,16.79,Same Day,Jieshan,,China,Credit Card,CUS0289,Completed
+671,2023-07-08,Consumer,Male,Home,Lighting & Lamps,24,Decorative LED Neon Sign,45.99,22.26,Express,Quisao,,Philippines,EMI,CUS0219,Completed
+672,2022-04-20,Consumer,Female,Food - Condiments,Nut Butters,22,Peanut Butter,3.79,8.17,Same Day,Delareyville,,South Africa,UPI,CUS0036,Completed
+673,2022-12-22,Small Business,Agender,Clothing - Shirts,Dress Shirts,30,Classic Slim Fit Shirt,49.99,9.63,Same Day,Moravský Krumlov,,Czech Republic,Wallet,CUS0396,Completed
+674,2022-05-19,Enterprise,Non-binary,Clothing - Loungewear,Sleepwear,11,Cotton Pajama Set,49.99,29.81,Same Day,Nova Olímpia,,Brazil,Debit Card,CUS0953,Completed
+675,2024-10-15,Consumer,Female,Kitchen,Barware,19,Electric Wine Opener,29.99,2.91,Same Day,Oum Hadjer,,Chad,Debit Card,CUS0178,Completed
+676,2023-01-29,Corporate,Female,Food - Marinades,Marinades,18,Caribbean Jerk Marinade,3.79,12.03,Standard,Cúa,,Venezuela,Debit Card,CUS0550   CUS0551,Completed
+677,2025-06-09,Enterprise,Female,Kitchen,Cooking Appliances,5,Electric Stir Fry Pan,49.99,14.16,Same Day,Insua,Viana do Castelo,Portugal,Credit Card,CUS0163,Completed
+678,2025-06-12,Consumer,Female,Kitchen,Small Appliances,15,Compact Electric Kettle,29.99,24.92,Standard,Pesqueira,,Brazil,Wallet,CUS0986,Completed
+679,2025-08-13,Corporate,Polygender,Food - Snacks,Savory Snacks,18,Pepperoni Pizza Rolls,6.99,28.94,Same Day,Cintawana,,Indonesia,EMI,CUS0560   CUS0561,Canceled
+680,2022-02-25,Small Business,Male,Clothing - Dresses,Casual Dresses,15,Maxi Wrap Dress,49.99,22.46,Same Day,Sukonolo Krajan,,Indonesia,COD,CUS0535,Completed
+681,2023-07-29,Enterprise,Male,Kitchen,Kitchen Accessories,14,Stainless Steel Straws,12.99,25.82,Express,Kostakioí,,Greece,Credit Card,CUS0277,Returned
+682,2023-02-07,Enterprise,Female,Food - Vegetables,Vegetables,3,Marinated Artichokes,3.79,17.8,Express,Arraial do Cabo,,Brazil,COD,CUS0044,Completed
+683,2022-01-27,Small Business,Male,Home,Decorative Wall Art & Accessories,9,3D Night Light,19.99,28.65,Same Day,Dimitrovgrad,,Serbia,Wallet,CUS0078,Completed
+684,2022-10-04,Corporate,Male,Food - Salads,Noodle Salads,15,Asian Noodle Salad Kit,4.99,17.24,Express,Kibondo,,Tanzania,Debit Card,CUS0828,Returned
+685,2023-02-02,Corporate,Male,Clothing - Bottoms,Bottoms,2,Cotton Sweatpants,29.99,26.96,Express,Muleng,,China,Debit Card,CUS0643,Completed
+686,2023-05-15,Corporate,Female,Kitchen,Cookware,18,Electric Hot Pot,49.99,2.91,Standard,Czarna Dąbrówka,,Poland,Wallet,CUS0353,Canceled
+687,2024-08-15,Consumer,Male,Audio,Sleep Aids,11,Bluetooth Sleep Headphones,29.99,23.52,Express,Mników,,Poland,Wallet,CUS0445,Completed
+688,2022-09-09,Consumer,Male,Kitchen,Coffee Accessories,23,Tea Infuser,12.99,6.74,Same Day,Anna Regina,,Guyana,UPI,CUS0639,Canceled
+689,2024-06-27,Small Business,Female,Food - Frozen Foods,Frozen Fruit Smoothies,21,Nordic Berry Smoothie,3.99,28.03,Same Day,Akhfennir,,Morocco,Wallet,CUS0837,Canceled
+690,2025-05-11,Corporate,Male,Accessories,Wine Accessories,13,Insulated Wine Tote,24.99,21.92,Express,Laon,Picardie,France,Wallet,CUS0976,Returned
+691,2023-09-21,Corporate,Female,Food - Condiments,Flavored Butters,2,Roasted Garlic Butter,3.29,5.44,Express,Bollnäs,Gävleborg,Sweden,UPI,CUS0403,Canceled
+692,2022-04-03,Consumer,Male,Outdoor,Outdoor Accessories,8,Outdoor Portable Fire Pit,149.99,8.82,Standard,Daming,,China,Wallet,CUS0270 CUS0271,Completed
+693,2025-02-11,Corporate,Polygender,Food - Baking & Cooking,Seasonings & Mixes,7,Falafel Mix,2.79,14.04,Same Day,Bang Sai,,Thailand,COD,CUS0832,Completed
+694,2023-12-15,Consumer,Male,Outdoor,Outdoor Accessories,2,Magnetic Screen Door,24.99,18.86,Standard,Hane,,Indonesia,UPI,CUS0858,Completed
+695,2024-10-17,Small Business,Male,Food - Deli,Wraps/Rolls,27,Spinach Feta Wraps,4.29,8.98,Same Day,Concepción de Ataco,,El Salvador,EMI,CUS0300 CUS0301,Completed
+696,2024-09-17,Enterprise,Male,Clothing - Coats,Outerwear - Faux Fur,15,Faux Fur Coat,129.99,8.81,Same Day,Loma Bonita,Mexico,Mexico,Debit Card,CUS0353,Completed
+697,2022-04-20,Small Business,Female,Automotive,Automotive Tools,6,Car Diagnostic Scanner,49.99,24.0,Express,Copa,,Peru,Wallet,CUS0696,Completed
+698,2025-05-30,Enterprise,Female,Food - Meat,Processed Meats,11,Andouille Sausage,5.49,4.91,Express,Sinarwangi,,Indonesia,EMI,CUS0153,Completed
+699,2023-10-09,Consumer,Male,Home,Decorative Wall Art & Accessories,29,Cushion Covers,35.0,26.98,Express,Lachowice,,Poland,Debit Card,CUS0782,Completed
+700,2022-04-20,Consumer,Male,Food - Condiments,Hot Sauces,4,Sriracha Chili Sauce,2.79,10.98,Express,Wailiang,,Indonesia,EMI,CUS0570   CUS0571,Completed
+701,2025-08-19,Corporate,Male,Food - Condiments,Hot Sauces,15,Sriracha Hot Chili Sauce,2.99,3.56,Same Day,Xuling,,China,Debit Card,CUS0299,Completed
+702,2025-04-03,Small Business,Female,Food - Snacks,Savory Snacks,26,Oven-Baked Cheese Crisps,3.99,2.8,Same Day,Saint-Quentin-en-Yvelines,Île-de-France,France,UPI,CUS0880   CUS0881,Returned
+703,2022-10-14,Consumer,Female,Kitchen,Small Appliances,28,Electric Kettle,39.99,18.73,Same Day,Niort,Poitou-Charentes,France,EMI,CUS0678,Canceled
+704,2024-12-08,Consumer,Female,Food - Baking,Baking Ingredients,16,Coconut Flakes,3.29,7.82,Express,Vohibinany,,Madagascar,Credit Card,CUS0495,Completed
+705,2024-03-23,Enterprise,Female,Kitchen,Small Appliances,4,Personal Blender,39.99,5.58,Standard,Vigo,,Philippines,EMI,CUS0142,Completed
+706,2025-04-25,Enterprise,Male,Smart Home,Home Accessories,26,Wireless Smart Plug,19.99,22.78,Same Day,Poshnje,,Albania,Debit Card,CUS0454,Completed
+707,2023-07-20,Enterprise,Male,Food - Condiments,Herbal Butters,15,Herb Garlic Butter,3.99,24.03,Same Day,Ayabaca,,Peru,UPI,CUS0942,Canceled
+708,2023-10-31,Consumer,Female,Electronics,Drones & Accessories,22,Drone,249.99,14.25,Standard,Olofström,Blekinge,Sweden,Debit Card,CUS0498,Completed
+709,2023-03-01,Small Business,Male,Food - Frozen Meals,Frozen Appetizers,14,Mini Meatballs,5.99,14.9,Express,Teykovo,,Russia,Wallet,CUS0650   CUS0651,Completed
+710,2022-07-04,Enterprise,Male,Outdoor,Camping Equipment,17,Outdoor Picnic Blanket,34.99,24.74,Express,Suizhong,,China,COD,CUS0705,Returned
+711,2024-03-27,Small Business,Genderfluid,Food - Freezer,Frozen Snacks,9,Buffalo Cauliflower Bites,6.29,10.39,Standard,Mathba,,Bangladesh,EMI,CUS0183,Completed
+712,2023-08-15,Small Business,Male,Pets,Pet Waste Management,1,Dog Waste Bag Dispenser,6.99,7.84,Same Day,Kortowo,,Poland,EMI,CUS0414,Completed
+713,2025-05-09,Corporate,Male,Kitchen,Small Appliances,28,Electric Knife,39.99,4.75,Same Day,Arcos,Viseu,Portugal,Debit Card,CUS0103,Completed
+714,2024-12-23,Consumer,Female,Food - Beverages,Juice,6,Fruit Medley Juice,3.49,8.38,Express,Bergen,Hordaland,Norway,Debit Card,CUS0648,Returned
+715,2023-06-03,Enterprise,Female,Home,Wine Storage Solutions,1,Wall-Mounted Wine Rack,39.99,21.02,Same Day,Santa Maria Oliveira,Braga,Portugal,Credit Card,CUS0484,Canceled
+716,2023-07-31,Consumer,Polygender,Health,Wellness & Relaxation,7,Foot Massager,79.99,8.51,Same Day,Dniprovka,,Ukraine,COD,CUS0066,Completed
+717,2023-03-26,Small Business,Female,Accessories,Watches,22,Classic Watch,99.99,28.83,Standard,Magaria,,Niger,Debit Card,CUS0207,Completed
+718,2023-07-14,Consumer,Female,Food - Cereal,Granola,27,Granola Clusters,4.99,10.44,Express,Namyangju,,South Korea,UPI,CUS0932,Completed
+719,2024-10-28,Corporate,Female,Food - Dips,Spicy Dips,10,Buffalo Chicken Dip,5.99,14.56,Standard,Hamburg,Hamburg,Germany,Debit Card,CUS0517,Completed
+720,2022-02-19,Consumer,Female,Food - Snacks,Tortilla Chips,19,Blue Corn Tortilla Chips,3.49,12.62,Express,Buniaga,,Indonesia,Wallet,CUS0785,Canceled
+721,2023-11-30,Enterprise,Female,Outdoor,Camping Equipment,10,Overnight Hiking Backpack,79.99,8.19,Same Day,Companhia de Baixo,Ilha do Pico,Portugal,Credit Card,CUS0726,Completed
+722,2024-11-22,Small Business,Female,Home,Air Quality & Purification,24,Bamboo Charcoal Air Purifier Bags,12.99,20.25,Same Day,Starý Bohumín,,Czech Republic,Debit Card,CUS0858,Completed
+723,2022-06-13,Enterprise,Female,Food - Condiments,Fruit Spreads,28,Blackberry Compote,5.29,7.74,Same Day,Rassvet,,Russia,EMI,CUS0750   CUS0751,Completed
+724,2024-07-13,Small Business,Male,Gaming,Gaming Accessories,3,Wireless Gaming Mouse,39.99,13.08,Same Day,Solomenskoye,,Russia,Credit Card,CUS0163,Completed
+725,2022-03-20,Enterprise,Male,Food - Frozen Foods,Frozen Vegan Meals,10,Organic Black Bean Burger,4.49,24.17,Standard,Zinder,,Niger,COD,CUS0116,Canceled
+726,2023-05-19,Consumer,Female,Food - Breakfast,Granola/Cereal,16,Maple Pecan Granola,4.49,17.89,Standard,Samut Prakan,,Thailand,EMI,CUS0343,Canceled
+727,2022-07-31,Small Business,Female,Pets,Grooming Supplies,2,Pet Hair Vacuum Attachment,14.99,4.55,Standard,Fanzhen,,China,Wallet,CUS0039,Completed
+728,2022-05-21,Small Business,Female,Kitchen,Small Appliances,23,Ice Cream Maker,79.99,23.52,Express,Zelenokumsk,,Russia,EMI,CUS0154,Returned
+729,2024-12-15,Enterprise,Female,Pets,Pet Supplies,7,Pet Water Fountain,39.99,6.24,Same Day,Taverny,Île-de-France,France,UPI,CUS0333,Completed
+730,2023-01-09,Enterprise,Female,Pets,Pet Hydration Supplies,9,Pet Water Bottle,18.99,22.91,Standard,Catujal,Lisboa,Portugal,Wallet,CUS0300 CUS0301,Completed
+731,2025-07-11,Enterprise,Male,Food - Snacks,Healthy Snacks,18,Fruit and Nut Bars,1.99,6.85,Same Day,Santo Tomas,,Philippines,EMI,CUS0308,Completed
+732,2022-01-24,Corporate,Male,Food - Meal Kits,Italian Cuisine Meal Kits,17,Spaghetti and Meatball Dinner Kit,7.99,19.83,Express,Huyuan,,China,Debit Card,CUS0517,Canceled
+733,2023-11-20,Consumer,Male,Food - Frozen Desserts,Asian Desserts,5,Mango Sticky Rice Dessert,4.5,4.45,Express,Catriel,,Argentina,Debit Card,CUS0309,Completed
+734,2024-04-03,Corporate,Female,Health,Pain Relief & Therapy,7,Electric Heating Pad,20.99,5.59,Standard,Brusque,,Brazil,COD,CUS0378,Canceled
+735,2025-05-15,Consumer,Male,Food - Condiments,Mustards,28,Craft Beer Mustard,3.99,10.48,Same Day,Živinice,,Bosnia and Herzegovina,COD,CUS0185,Completed
+736,2025-04-01,Enterprise,Female,Food - Snacks,Dips and Spreads,28,Creamy Avocado Dip,3.49,22.55,Express,Batang,,Indonesia,Wallet,CUS0439,Completed
+737,2024-03-07,Consumer,Male,Food - Vegetable,Vegetable Snacks,20,Chilli Lime Corn on the Cob,1.99,15.3,Same Day,Shpola,,Ukraine,Debit Card,CUS0925,Returned
+738,2022-07-27,Small Business,Male,Food - Baking,Mixes,7,Almond Flour Brownies,5.99,29.47,Express,Cândido Mota,,Brazil,Debit Card,CUS0101,Returned
+739,2025-06-28,Small Business,Male,Kitchen,Cooking Appliances,5,Pasta Maker Machine,59.99,20.91,Express,San Miguel,,Philippines,Wallet,CUS0279,Completed
+740,2022-06-30,Consumer,Female,Kitchen,Cooking Tools & Utensils,10,Digital Meat Thermometer,24.99,3.57,Standard,Tallahassee,Florida,United States,EMI,CUS0888,Completed
+741,2023-11-27,Corporate,Male,Food - Baking,Baking Ingredients,19,Sooji (Semolina),1.99,22.46,Same Day,Gandusari,,Indonesia,Debit Card,CUS0375,Completed
+742,2022-08-17,Corporate,Female,Food - Cooking Oils,Cooking Oils,14,Coconut Oil Spray,4.99,28.05,Express,Kolambugan,,Philippines,COD,CUS0600   CUS0601,Completed
+743,2022-07-10,Consumer,Female,Clothing - Footwear,Women's Footwear,8,Slingback Sandals,29.99,3.83,Standard,Independencia,Mexico,Mexico,EMI,CUS0015,Canceled
+744,2022-01-08,Consumer,Male,Travel,Travel Accessories,21,Travel Shoe Bags Set,15.99,6.73,Express,Arfará,,Greece,EMI,CUS0956,Completed
+745,2022-08-22,Corporate,Female,Baby,Feeding Accessories,22,Multifunctional Baby Bottle Warmer,39.99,29.59,Same Day,Chernomorets,,Bulgaria,Credit Card,CUS0295,Completed
+746,2022-03-02,Consumer,Bigender,Home,Home Fragrance & Accessories,16,Scented Candle Set,24.99,14.73,Express,Kuafeu,,Indonesia,Credit Card,CUS0702,Canceled
+747,2022-08-07,Corporate,Male,Food - Condiments,Plant-Based Condiments,11,Vegan Mayonnaise,4.49,11.01,Same Day,Petrokamenskoye,,Russia,COD,CUS0836,Completed
+748,2025-06-21,Small Business,Male,Food - Oils & Vinegars,Oils,21,Lemon Zest Olive Oil,8.99,16.69,Same Day,Hetian,,China,Credit Card,CUS0424,Returned
+749,2023-01-29,Consumer,Male,Food - Condiments,Marinades and Sauces,21,Italian Herb Balsamic Marinade,3.99,19.89,Express,Ust’-Abakan,,Russia,Debit Card,CUS0752,Canceled
+750,2022-04-12,Small Business,Male,Food - Condiments,Marinades and Sauces,20,Zesty Garlic Marinade,4.49,22.44,Same Day,Nzérékoré,,Guinea,UPI,CUS0605,Completed
+751,2025-08-13,Consumer,Polygender,Food - Prepared Foods,Salads,15,Chicken Salad Kit,5.99,23.64,Standard,Kebonan,,Indonesia,EMI,CUS0126,Returned
+752,2025-08-29,Small Business,Male,Food - Bakery,Savory Snacks,12,Italian Breadsticks,2.49,28.2,Standard,Krasnokamsk,,Russia,UPI,CUS0046,Completed
+753,2024-03-22,Small Business,Male,Food - Snacks,Chocolate Snacks,19,Dark Chocolate Covered Raisins,3.99,10.67,Standard,Podhum,,Croatia,Debit Card,CUS0406,Completed
+754,2022-10-20,Corporate,Female,Food - Bakery,Bagels,21,Classic Bagels,2.99,6.36,Same Day,North Vancouver,British Columbia,Canada,COD,CUS0206,Canceled
+755,2023-04-09,Consumer,Male,Clothing - Activewear,Sports Apparel,20,Athletic Compression Tights,39.99,8.72,Standard,Miguelópolis,,Brazil,EMI,CUS0254,Completed
+756,2023-02-14,Enterprise,Genderqueer,Food - Frozen Foods,Frozen Entrees,1,Fried Rice,4.29,5.22,Express,Oslomej,,Macedonia,UPI,CUS0476,Returned
+757,2024-11-19,Small Business,Non-binary,Food - Produce,Root Vegetables,17,Sweet Potatoes,0.89,22.64,Express,San Agustin,Jalisco,Mexico,Debit Card,CUS0953,Completed
+758,2023-05-19,Enterprise,Female,Electronics,Cleaning Supplies,22,Screen Cleaning Kit,15.99,3.65,Express,General Alvear,,Argentina,Debit Card,CUS0200,Completed
+759,2022-05-20,Enterprise,Male,Food - Grains,Flavored Quinoa,11,Lemon Herb Quinoa,3.49,15.82,Same Day,Ekibastuz,,Kazakhstan,Debit Card,CUS0265,Canceled
+760,2022-08-28,Enterprise,Female,Art Supplies,Markers & Pens,27,Watercolor Brush Pens,19.99,22.92,Same Day,Narbonne,Languedoc-Roussillon,France,COD,CUS0962,Completed
+761,2025-03-10,Consumer,Male,Photography,Tripods & Accessories,2,Smartphone Tripod,29.99,24.64,Express,Rizal,,Philippines,COD,CUS0067,Completed
+762,2025-04-03,Enterprise,Female,Crafts,Candle & Soap Making Supplies,6,DIY Candle Making Kit,22.99,19.03,Standard,Kalianget,,Indonesia,Credit Card,CUS0019,Completed
+763,2022-09-09,Small Business,Male,Pets,Travel Accessories,13,Pet Travel Backpack Carrier,49.99,17.19,Express,Choco,,Peru,COD,CUS0829,Completed
+764,2023-10-26,Corporate,Female,Food - Vegetables,Salads,4,Cabbage Slaw Mix,2.29,24.45,Same Day,Paripiranga,,Brazil,COD,CUS0846,Returned
+765,2025-03-29,Enterprise,Agender,Kitchen,Kitchen Accessories,16,Stainless Steel Straws,12.99,25.74,Standard,Eskilstuna,Södermanland,Sweden,Wallet,CUS0550   CUS0551,Canceled
+766,2024-02-21,Enterprise,Male,Health,Medical Devices,25,Infrared Thermometer,39.99,2.15,Express,Ljusdal,Gävleborg,Sweden,COD,CUS0840   CUS0841,Completed
+767,2024-09-07,Enterprise,Female,Food - Frozen Foods,Frozen Appetizers,1,Vegetable Spring Rolls,6.49,1.99,Standard,Gocoton,,Philippines,UPI,CUS0032,Returned
+768,2025-05-14,Corporate,Male,Kitchen,Baking Accessories,7,Non-Stick Baking Sheet,18.99,25.42,Express,Al Jamālīyah,,Egypt,Wallet,CUS0550   CUS0551,Returned
+769,2025-01-15,Enterprise,Male,Food - Snacks,Healthy Snacks,23,BBQ Lentil Chips,3.49,7.63,Same Day,Malakhovka,,Russia,UPI,CUS0572,Completed
+770,2022-09-09,Enterprise,Female,Food - Snacks,Healthy Snacks,25,Veggie Chips Variety Pack,3.79,28.62,Express,Calilegua,,Argentina,Credit Card,CUS0118,Canceled
+771,2024-08-15,Consumer,Female,Kitchen,Small Appliances,23,Electric Pressure Cooker,89.99,13.73,Standard,Moycullen,,Ireland,EMI,CUS0430 CUS0431,Completed
+772,2023-04-02,Consumer,Female,Food - Condiments,Salsas & Dips,14,Salsa,3.49,26.17,Standard,Batubantar,,Indonesia,EMI,CUS0447,Returned
+773,2023-05-02,Consumer,Non-binary,Food - Breakfast Foods,Granola and Muesli,4,Almond Coconut Granola,3.99,26.6,Same Day,Lecherías,,Venezuela,Debit Card,CUS0570   CUS0571,Completed
+774,2022-04-27,Enterprise,Male,Food - Frozen Foods,Frozen Vegan Meals,28,Vegan Tacos,7.49,27.4,Express,Chengji,,China,EMI,CUS0279,Completed
+775,2023-12-20,Corporate,Male,Food - Cheese,Specialty Cheeses,18,Buffalo Stilton Cheese,8.99,24.5,Same Day,Gävle,Gävleborg,Sweden,COD,CUS0423,Completed
+776,2023-08-20,Consumer,Male,Music,Accessories,25,Guitar Tuner,19.99,14.86,Same Day,Enschede,Provincie Overijssel,Netherlands,UPI,CUS0478,Completed
+777,2025-07-11,Consumer,Female,Food - Salads,Grain Salads,10,Mediterranean Couscous Salad,5.49,20.17,Same Day,Emnambithi-Ladysmith,,South Africa,Debit Card,CUS0773,Completed
+778,2024-10-31,Small Business,Non-binary,Health,Oral Care & Hygiene,23,Cordless Water Flosser,49.99,26.36,Same Day,Nelipyno,,Ukraine,EMI,CUS0837,Completed
+779,2025-08-27,Consumer,Female,Food - Frozen,Frozen Snacks,4,Popcorn Chicken,6.49,6.79,Express,Oslo,Oslo,Norway,Debit Card,CUS0923,Completed
+780,2023-03-13,Consumer,Female,Home,Home Organization,22,Mesh Laundry Bags Set,12.99,9.25,Standard,Bardo,,Poland,UPI,CUS0504,Returned
+781,2024-05-27,Consumer,Female,Food - Frozen,Frozen Snacks,11,Strawberry Banana Smoothie Pack,4.99,3.4,Express,Wukou,,China,Credit Card,CUS0474,Returned
+782,2023-03-05,Consumer,Female,Food - Grains,Whole Grains,27,Oats,3.29,10.51,Express,Hongshanzui,,China,COD,CUS0354,Completed
+783,2025-07-17,Consumer,Male,Food - Salads,Gourmet Salads,24,Pear and Gorgonzola Salad,5.49,16.2,Same Day,Baishi,,China,Wallet,CUS0053,Returned
+784,2025-07-16,Enterprise,Female,Outdoor,Garden Supplies,30,Outdoor Mosquito Repellent Lantern,34.99,19.63,Standard,Chillia,,Peru,EMI,CUS0053,Completed
+785,2023-07-17,Consumer,Male,Food - Snacks,Sweet Snacks,24,Dried Fruit Medley,5.49,24.44,Same Day,Citalahab,,Indonesia,EMI,CUS0523,Completed
+786,2022-10-05,Small Business,Male,Electronics,Portable Power Solutions,12,Solar Power Bank,39.99,26.49,Same Day,Pingshui,,China,Credit Card,CUS0143,Completed
+787,2025-08-14,Consumer,Bigender,Office,Organizational Tools,13,Wall Planner,19.99,21.78,Express,Habo,Jönköping,Sweden,Debit Card,CUS0176,Canceled
+788,2022-03-09,Enterprise,Male,Outdoor,Outdoor Accessories,7,Telescope,159.99,27.03,Standard,Kempele,,Finland,Debit Card,CUS0598,Canceled
+789,2023-12-08,Consumer,Male,Garden,Garden Decor,17,Set of Herb Garden Markers,8.99,29.4,Same Day,Wilfrido Loor Moreira,,Ecuador,Wallet,CUS0835,Returned
+790,2023-10-09,Enterprise,Genderqueer,Gaming,Gaming Accessories,17,Wireless Game Controller,39.99,20.11,Same Day,Jabłoń,,Poland,EMI,CUS0796,Canceled
+791,2022-04-11,Small Business,Male,Outdoor,Outdoor Furniture,22,Portable Hammock Swing,59.99,6.53,Express,Oni,,Indonesia,Debit Card,CUS0502,Completed
+792,2024-10-06,Consumer,Non-binary,Food - Confectionery,Chewy Candies,13,Caramel Apple Taffy,1.99,15.72,Express,Jieshou,,China,Debit Card,CUS0470 CUS0471,Completed
+793,2024-02-14,Small Business,Female,Food - Condiments,Plant-Based Condiments,15,Vegan Mayonnaise,4.49,8.07,Same Day,Sekondi-Takoradi,,Ghana,Credit Card,CUS0085,Completed
+794,2025-01-04,Enterprise,Female,Food - Breakfast,Granola/Cereal,18,Maple Pecan Granola,4.49,3.69,Standard,Guixi,,China,UPI,CUS0135,Completed
+795,2025-08-12,Corporate,Female,Food - Snacks,Nut-Based Snacks,6,Peanut Butter Pretzel Bites,4.19,11.35,Same Day,Kuidou,,China,Debit Card,CUS0782,Completed
+796,2024-05-22,Enterprise,Female,Health,Wellness & Relaxation,13,Foot Massager,79.99,22.82,Same Day,Thới Bình,,Vietnam,Debit Card,CUS0617,Canceled
+797,2024-11-12,Consumer,Female,Food - Produce,Vegetable Snacks,5,Carrot Sticks,2.49,22.72,Standard,Balud,,Philippines,Wallet,CUS0292,Returned
+798,2022-08-30,Corporate,Female,Food - Condiments,Pickles,30,Cucumber Relish,3.39,7.24,Standard,Zwierzyniec,,Poland,COD,CUS0604,Completed
+799,2024-01-13,Corporate,Male,Food - Spices,Herb Blends,20,Savory Italian Herbs,2.99,20.22,Same Day,Vangaindrano,,Madagascar,Debit Card,CUS0897,Completed
+800,2024-10-26,Consumer,Male,Food - Produce,Vegetables,4,Zucchini,0.79,27.18,Same Day,Belozërsk,,Russia,COD,CUS0189,Completed
+801,2024-12-16,Enterprise,Male,Storage,Storage Devices,18,Memory Card,15.99,9.41,Same Day,Longtang,,China,Credit Card,CUS0133,Completed
+802,2024-04-20,Corporate,Male,Food - Cheese,Specialty Cheeses,12,Buffalo Stilton Cheese,8.99,28.66,Same Day,Guayabal de Síquima,,Colombia,EMI,CUS0968,Completed
+803,2025-06-17,Small Business,Genderqueer,Kitchen,Kitchen Storage & Organization,26,Wall-Mounted Spice Rack,39.99,12.85,Same Day,Port Sudan,,Sudan,UPI,CUS0556,Canceled
+804,2024-04-14,Corporate,Female,Food - Frozen Foods,Frozen Pizza,5,Margherita Pizza,7.99,21.99,Same Day,Palatine,Illinois,United States,Debit Card,CUS0403,Completed
+805,2022-12-07,Small Business,Female,Food - Sides,Vegetable Sides,26,Mashed Sweet Potatoes,3.99,19.72,Same Day,Baqiao,,China,COD,CUS0550   CUS0551,Completed
+806,2024-12-20,Corporate,Male,Food - Snacks,Healthy Snacks,21,BBQ Lentil Chips,3.49,16.01,Standard,Gempol,,Indonesia,Credit Card,CUS0138,Canceled
+807,2024-08-04,Consumer,Male,Kitchen,Kitchen Gadgets,26,Stainless Steel Grater,14.99,17.88,Same Day,Malešići,,Bosnia and Herzegovina,Wallet,CUS0210 CUS0211,Completed
+808,2024-12-30,Small Business,Male,Clothing - Accessories,Scarves,21,Ethical Wool Scarf,29.99,7.06,Standard,Aţ Ţawīlah,,Yemen,Wallet,CUS0023,Completed
+809,2025-05-01,Corporate,Female,Food - Beverages,Herbal Tea,29,Hibiscus Tea Bags,3.79,16.47,Same Day,Fengyuan,,Taiwan,Credit Card,CUS0558,Completed
+810,2022-04-23,Consumer,Male,Kitchen,Food Storage Solutions,1,Glass Food Containers,34.99,17.79,Express,Rosmaninhal,Castelo Branco,Portugal,UPI,CUS0585,Completed
+811,2024-02-24,Enterprise,Female,Audio,Audio Accessories,7,Portable Speaker Stand,39.99,3.86,Same Day,Wewoloe,,Indonesia,EMI,CUS0118,Completed
+812,2022-07-09,Small Business,Female,Kitchen,Small Appliances,24,Electric Rice Cooker with Steamer,49.99,8.28,Standard,Iqaluit,Nunavut,Canada,UPI,CUS0685,Completed
+813,2024-05-31,Consumer,Male,Accessories,Mobile Accessories,3,Wireless Earbuds Case,12.99,19.76,Same Day,Kapshagay,,Kazakhstan,Debit Card,CUS0526,Returned
+814,2023-08-17,Small Business,Female,Food - Bakery,Muffins,1,Apple Cinnamon Breakfast Muffins,3.49,6.72,Express,Alagoinhas,,Brazil,EMI,CUS0324,Canceled
+815,2023-10-10,Consumer,Female,Food - Snacks,Tortilla Chips,8,Blue Corn Tortilla Chips,3.49,16.06,Same Day,Ladoang,,Indonesia,Wallet,CUS0134,Completed
+816,2023-07-23,Enterprise,Female,Food - Frozen Foods,Frozen Pizza Crusts,19,Cauliflower Pizza Crust,5.99,1.28,Same Day,Kostinbrod,,Bulgaria,COD,CUS0333,Canceled
+817,2025-05-25,Enterprise,Male,Outdoor,Camping Equipment,18,Reclining Camping Chair,49.99,21.83,Same Day,Penglai,,China,Debit Card,CUS0129,Canceled
+818,2023-04-26,Enterprise,Male,Smart Home,Smart Lighting,3,Smart Wi-Fi Light Bulbs,19.99,17.34,Same Day,Kalunan,,Indonesia,Credit Card,CUS0555,Completed
+819,2022-04-28,Enterprise,Male,Food - Snacks,Savory Snacks,28,Chocolate Covered Pretzels,3.29,8.74,Same Day,Chixi,,China,Wallet,CUS0074,Canceled
+820,2022-06-24,Small Business,Male,Kitchen,Coffee Equipment,8,Manual Coffee Grinder,22.99,23.18,Express,Paris 07,Île-de-France,France,COD,CUS0149,Returned
+821,2024-12-04,Small Business,Male,Food - Condiments,Fruit Spreads,7,Strawberry Rhubarb Jam,4.29,18.52,Standard,Gobernador Ingeniero Valentín Virasoro,,Argentina,Wallet,CUS0927,Completed
+822,2023-04-24,Small Business,Female,Clothing - Bags,Handbags,5,Leather Crossbody Bag,89.99,19.8,Same Day,Berkovitsa,,Bulgaria,EMI,CUS0038,Completed
+823,2023-07-10,Consumer,Female,Clothing - Activewear,Tanks & Sleeveless Tops,3,Lightweight Workout Tank,29.99,4.28,Standard,Bassar,,Togo,EMI,CUS0277,Canceled
+824,2023-03-05,Enterprise,Female,Home,Kitchen Accessories,17,Wine Glasses,29.99,14.44,Standard,Saint-Rémi,Québec,Canada,EMI,CUS0109,Returned
+825,2022-01-31,Consumer,Male,Accessories,Bags,16,Heavy-Duty Utility Tote,34.99,3.09,Express,Quchi,,China,EMI,CUS0363,Completed
+826,2022-12-11,Consumer,Female,Food - Baking,Baking Ingredients,4,Granulated Sugar,2.49,19.1,Same Day,Novi Vinodolski,,Croatia,EMI,CUS0690   CUS0691,Completed
+827,2022-11-07,Corporate,Male,Food - Beverages,Herbal Beverages,16,Basil Lemonade,2.99,6.37,Same Day,Sakassou,,Ivory Coast,Credit Card,CUS0763,Completed
+828,2023-05-17,Corporate,Male,Food - Canned Goods,Soups & Broths,8,Lentil Soup,2.49,29.93,Standard,Saskylakh,,Russia,Wallet,CUS0566,Returned
+829,2023-11-17,Small Business,Male,Kitchen,Small Appliances,1,Mini Waffle Maker,24.99,19.61,Standard,Luleå,Norrbotten,Sweden,Wallet,CUS0107,Canceled
+830,2022-01-05,Small Business,Female,Food - Prepared Foods,Frozen Meals,7,Herbed Mushroom Risotto,5.49,1.32,Same Day,Dearborn,Michigan,United States,Credit Card,CUS0775,Completed
+831,2025-07-27,Consumer,Genderqueer,Food - Dried Fruits,Dried Fruits,16,Californian Raisins,3.19,9.21,Same Day,Yongning,,China,COD,CUS0143,Completed
+832,2023-12-02,Enterprise,Non-binary,Food - Grains,Whole Grains,3,Quinoa,4.49,13.42,Same Day,Ndibène Dahra,,Senegal,COD,CUS0754,Completed
+833,2025-08-26,Consumer,Male,Food - Prepared Foods,Salads,20,Chicken Salad Kit,5.99,18.23,Standard,Merdeka,,Indonesia,COD,CUS0313,Completed
+834,2025-08-01,Consumer,Genderqueer,Crafts,DIY Crafts,25,DIY Lip Balm Making Kit,22.99,29.7,Express,Žemaičių Naumiestis,,Lithuania,Debit Card,CUS0718,Completed
+835,2022-12-08,Enterprise,Female,Food - Condiments,Vinegars,22,Balsamic Vinegar,4.99,27.7,Standard,Không,,Laos,COD,CUS0984,Completed
+836,2023-02-14,Corporate,Male,Home,Kitchen Accessories,2,Wine Decanter,34.99,21.02,Same Day,Pokrovskoye,,Russia,Wallet,CUS0312,Completed
+837,2023-09-21,Enterprise,Male,Fitness,Strength Training Equipment,20,Fitness Jump Box,69.99,11.57,Express,Nice,Provence-Alpes-Côte d'Azur,France,UPI,CUS0038,Completed
+838,2024-03-24,Enterprise,Female,Food - Sauces,Asian Sauces,11,Sesame Garlic Stir-Fry Sauce,2.79,28.92,Standard,Muranovo,,Russia,UPI,CUS0918,Completed
+839,2022-03-10,Corporate,Female,Outdoor,Camping Equipment,8,Collapsible Camping Cup,9.99,4.86,Standard,Cavaillon,Provence-Alpes-Côte d'Azur,France,Wallet,CUS0292,Completed
+840,2022-09-01,Consumer,Male,Food - Snacks,Nuts and Pretzels,1,Mini Pretzels,2.99,21.64,Express,Xiabao,,China,Debit Card,CUS0193,Returned
+841,2025-07-28,Corporate,Male,Health,Health Devices,15,Ultraviolet Phone Sanitizer,39.99,11.91,Express,Qulaybīyah,,Tunisia,UPI,CUS0325,Completed
+842,2022-04-05,Small Business,Female,Accessories,Eyewear,19,Sunglasses Case,15.99,28.84,Same Day,Mandaluyong City,,Philippines,Wallet,CUS0147,Returned
+843,2023-03-07,Small Business,Female,Toys,Outdoor Play Toys,17,Kids' Gardening Tools Set,22.99,9.33,Express,Clarines,,Venezuela,UPI,CUS0362,Completed
+844,2024-10-19,Small Business,Female,Food - Prepared Meals,Healthy Snacks,20,Vegetable Sushi Rolls,5.99,10.35,Standard,Unión,,Paraguay,COD,CUS0238,Completed
+845,2023-04-13,Enterprise,Female,Electronics,Computer Accessories,24,Wireless Mouse,25.99,15.01,Express,Titiakar,,Indonesia,EMI,CUS0930   CUS0931,Completed
+846,2022-02-27,Consumer,Female,Food - Spices,Regional Seasoning Blends,9,Garam Masala Spice Blend,2.79,3.64,Standard,Madingou,,Republic of the Congo,COD,CUS0337,Returned
+847,2022-04-07,Small Business,Genderqueer,Food - Condiments,Plant-Based Condiments,7,Vegan Mayonnaise,4.49,27.7,Express,Baojia,,China,Debit Card,CUS0766,Canceled
+848,2022-11-19,Enterprise,Female,Accessories,Bags,16,Backpack,49.99,6.21,Standard,Yigo Village,,Guam,Wallet,CUS0400 CUS0401,Completed
+849,2025-02-13,Small Business,Female,Food - Condiments,Dressing,7,Sesame Ginger Dressing,4.09,28.12,Same Day,Gandekan,,Indonesia,Wallet,CUS0925,Completed
+850,2022-08-05,Corporate,Female,Fitness,Wearable Technology,10,Fitbit Activity Tracker,99.99,29.41,Express,Ezeiza,,Argentina,EMI,CUS0384,Canceled
+851,2023-10-20,Small Business,Female,Food - Beverages,Herbal Tea,3,Herbal Tea Variety Pack,4.99,9.44,Same Day,Beiyuan,,China,COD,CUS0980   CUS0981,Completed
+852,2023-05-03,Small Business,Male,Food - Confectionery,Chewy Candies,30,Caramel Apple Taffy,1.99,4.23,Express,Youlongchuan,,China,COD,CUS0822,Canceled
+853,2023-03-23,Corporate,Male,Clothing - Footwear,Women's Footwear,26,Slingback Sandals,29.99,25.7,Same Day,Mutā Khān,,Afghanistan,Wallet,CUS0256,Completed
+854,2022-12-22,Corporate,Male,Outdoor,Camping Equipment,23,Self-Inflating Camping Mattress,49.99,15.45,Same Day,Jrashen,,Armenia,UPI,CUS0310 CUS0311,Completed
+855,2025-01-05,Consumer,Female,Food - Sauces,Dry Sauces,16,Pasta Sauce Mix,1.29,1.9,Same Day,Niebocko,,Poland,Credit Card,CUS0867,Returned
+856,2024-08-30,Small Business,Male,Food - Condiments,Fruit Spreads,30,Blackberry Jam,4.29,29.35,Same Day,Zhangjiafang,,China,Credit Card,CUS0439,Completed
+857,2024-05-28,Corporate,Female,Accessories,Jewelry Storage,3,Travel Jewelry Case,24.99,4.62,Standard,Derzhavīnsk,,Kazakhstan,COD,CUS0909,Returned
+858,2022-07-15,Corporate,Male,Food - Snacks,Healthy Snacks,8,Almond Butter Granola Bars,4.99,21.72,Express,Bolderaja,,Latvia,EMI,CUS0549,Completed
+859,2023-06-07,Consumer,Female,Kitchen,Drinkware,21,Travel Mug,18.99,3.13,Standard,Amherst,Nova Scotia,Canada,Debit Card,CUS0136,Completed
+860,2022-01-16,Small Business,Female,Clothing - Tops,Sustainable Fashion,24,Bamboo Cotton Tank Top,22.99,28.69,Standard,Tajimi,,Japan,EMI,CUS0187,Completed
+861,2022-01-21,Consumer,Female,Food - Condiments,Salsas & Dips,9,Pineapple Salsa,4.29,27.21,Same Day,Little Rock,Arkansas,United States,Wallet,CUS0707,Completed
+862,2024-09-21,Enterprise,Female,Food - Canned Goods,Canned Legumes,9,Canned Black Beans,1.29,29.57,Express,Opařany,,Czech Republic,UPI,CUS0909,Canceled
+863,2024-06-14,Small Business,Female,Food - Beverages,Sparkling Beverages,27,Sparkling Blood Orange Soda,1.99,6.77,Standard,Xin’an,,China,Credit Card,CUS0898,Completed
+864,2022-12-27,Corporate,Male,Clothing - Shirts,Casual Shirts,23,Oversized Denim Shirt,49.99,18.38,Same Day,Karlstad,Värmland,Sweden,Debit Card,CUS0833,Canceled
+865,2025-06-22,Consumer,Female,Pets,Pet Waste Management,28,Portable Pet Pooper Scooper,12.99,20.84,Standard,Gulariyā,,Nepal,UPI,CUS0768,Returned
+866,2025-08-23,Small Business,Male,Food - Frozen,Frozen Snacks,5,Strawberry Banana Smoothie Pack,4.99,19.73,Same Day,Novozavidovskiy,,Russia,Debit Card,CUS0790   CUS0791,Completed
+867,2023-09-13,Enterprise,Female,Health,Oral Care & Hygiene,25,Bamboo Toothbrush,5.99,10.64,Express,Flora,,Philippines,Credit Card,CUS0520   CUS0521,Canceled
+868,2022-12-12,Consumer,Male,Food - Beverages,Sparkling Beverages,8,Sparkling Blood Orange Soda,1.99,11.17,Standard,Wuma,,China,COD,CUS0118,Completed
+869,2024-08-13,Corporate,Male,Accessories,Jewelry Storage,22,Travel Jewelry Case,24.99,28.75,Express,Uzhhorod,,Ukraine,COD,CUS0116,Returned
+870,2023-11-23,Corporate,Female,Food - Desserts,Baking Mixes,9,Classic Cheesecake Mix,4.99,28.74,Standard,Toktogul,,Kyrgyzstan,COD,CUS0925,Completed
+871,2023-12-08,Small Business,Female,Home,Bedding & Linens,30,Electric Blanket,59.99,10.88,Express,Damiku,,China,Wallet,CUS0785,Returned
+872,2023-10-21,Corporate,Male,Food - Seafood,Smoked Seafood,15,Smoked Salmon,14.99,1.07,Express,Seredka,,Russia,COD,CUS0938,Completed
+873,2022-09-22,Small Business,Male,Food - Condiments,Syrups,15,Maple Syrup,6.99,1.89,Express,Arzakan,,Armenia,Wallet,CUS0550   CUS0551,Completed
+874,2022-11-12,Enterprise,Bigender,Electronics,Solar Power Accessories,1,Portable Solar Charger,29.99,19.27,Same Day,Zhangwan,,China,COD,CUS0223,Canceled
+875,2025-06-03,Small Business,Male,Accessories,Bags,30,Laptop Backpack,69.99,9.65,Standard,Gunungsari,,Indonesia,EMI,CUS0828,Canceled
+876,2023-03-17,Small Business,Polygender,Kitchen,Coffee Accessories,7,Tea Infuser,12.99,18.54,Standard,Kaya,,Burkina Faso,Credit Card,CUS0300 CUS0301,Completed
+877,2022-10-01,Consumer,Male,Kitchen,Kitchen Storage & Organization,18,Spice Rack,39.99,21.84,Same Day,Zbrosławice,,Poland,Credit Card,CUS0977,Completed
+878,2025-04-18,Corporate,Male,Kitchen,Small Appliances,27,Personal Blender with Travel Cup,39.99,15.6,Standard,Bailingnao,,China,COD,CUS0277,Completed
+879,2022-04-21,Corporate,Genderqueer,Food - Baking,Mixes,2,Vegan Chocolate Cake Mix,4.29,24.8,Express,Xinjiezhen,,China,Debit Card,CUS0650   CUS0651,Canceled
+880,2025-05-14,Consumer,Agender,Garden,Gardening Accessories,9,Gardening Tool Belt,22.99,7.35,Express,Parawan,,Indonesia,Wallet,CUS0529,Canceled
+881,2023-08-21,Consumer,Female,Food - Frozen Foods,Frozen Meal Kits,4,Teriyaki Chicken Stir-Fry,6.99,2.8,Standard,Taiping,,China,EMI,CUS0011,Completed
+882,2023-08-16,Small Business,Female,Food - Grocery,Legumes,17,Organic Green Lentils,3.99,11.46,Express,Calibishie,,Dominica,Wallet,CUS0325,Completed
+883,2024-08-12,Consumer,Female,Food - Produce,Fruits,30,Organic Green Apples,1.49,6.74,Standard,Rongai,,Kenya,EMI,CUS0918,Completed
+884,2023-01-06,Corporate,Male,Food - Seafood,Frozen Seafood,28,Frozen Salmon Filets,12.99,12.2,Same Day,Albuquerque,New Mexico,United States,UPI,CUS0327,Completed
+885,2024-10-01,Small Business,Female,Food - Condiments,Sauces,18,Maple Chipotle Glaze,3.49,25.28,Same Day,Lucban,,Philippines,EMI,CUS0926,Returned
+886,2023-10-04,Small Business,Male,Clothing - Tops,Shirts,12,Plaid Flannel Shirt,29.99,8.27,Express,Grzechynia,,Poland,Credit Card,CUS0006,Canceled
+887,2023-03-26,Small Business,Female,Fitness,Recovery Tools,13,Fitness Foam Roller,29.99,22.25,Standard,Arenal,,Peru,UPI,CUS0080,Completed
+888,2025-02-22,Corporate,Female,Kitchen,Barware,18,Electric Wine Opener,29.99,5.88,Express,Belém,,Brazil,COD,CUS0867,Completed
+889,2024-11-20,Corporate,Male,Food - Spices,Herb Blends,21,Garlic Herb Seasoning,1.99,23.73,Same Day,Jangheung,,South Korea,EMI,CUS0148,Canceled
+890,2023-01-19,Consumer,Female,Food - Spreads,Nut Butters,8,Natural Peanut Butter,4.29,2.79,Same Day,Lyubertsy,,Russia,Debit Card,CUS0604,Completed
+891,2025-02-11,Small Business,Female,Accessories,Weather Accessories,10,Compact Umbrella,12.99,19.32,Express,Macaé,,Brazil,UPI,CUS0167,Completed
+892,2024-01-16,Enterprise,Female,Home,Home Organization,13,Suction Cup Hooks,9.99,9.37,Standard,Shangshuai,,China,Wallet,CUS0424,Completed
+893,2024-03-27,Corporate,Male,Toys,Creative Arts & Crafts,22,Kids' Craft Supplies Set,24.99,27.58,Same Day,Tulsīpur,,Nepal,UPI,CUS0556,Canceled
+894,2023-09-10,Corporate,Male,Food - Bakery,Desserts,29,Cinnamon Sugar Donuts,4.99,16.54,Express,Nailung,,China,Debit Card,CUS0713,Canceled
+895,2023-11-29,Enterprise,Male,Food - Frozen Food,Frozen Meals,26,Vegetable Potstickers,5.99,21.14,Express,Konibodom,,Tajikistan,COD,CUS0576,Completed
+896,2023-11-28,Small Business,Female,Food - Household,Household Supplies,7,Laundry Detergent,12.99,7.94,Standard,Yacuíba,,Bolivia,Debit Card,CUS0286,Completed
+897,2023-08-30,Consumer,Male,Outdoor,Camping Equipment,24,Outdoor Camping Hammock,29.99,26.25,Express,Palaiomonástiron,,Greece,COD,CUS0187,Completed
+898,2023-03-16,Consumer,Male,Food - Snacks,Dips and Spreads,4,Caramelized Onion Dip Mix,2.29,15.44,Same Day,Xihe,,China,Debit Card,CUS0770   CUS0771,Returned
+899,2023-03-22,Consumer,Male,Food - Frozen Food,Frozen Meals,10,Vegetable Potstickers,5.99,13.26,Express,Kalá Déndra,,Greece,EMI,CUS0157,Completed
+900,2023-12-23,Enterprise,Female,Outdoor,Garden Supplies,11,Bird Feeder,24.99,10.45,Standard,Tapado,Porto,Portugal,Credit Card,CUS0397,Completed
+901,2024-04-09,Consumer,Male,Electronics,Computer Accessories,1,Multi-Port USB Hub,19.99,21.12,Express,Póvoa do Valado,Aveiro,Portugal,Debit Card,CUS0488,Completed
+902,2022-06-08,Enterprise,Female,Kitchen,Coffee Accessories,17,Tea Infuser,12.99,18.12,Express,Farap,,Turkmenistan,EMI,CUS0085,Completed
+903,2022-12-16,Consumer,Bigender,Kitchen,Cookware,9,Electric Hot Pot,49.99,27.25,Express,Örnsköldsvik,Västernorrland,Sweden,Wallet,CUS0453,Canceled
+904,2023-04-17,Small Business,Female,Food - Breakfast,Savory Breakfast Options,19,Savory Oatmeal,2.49,5.98,Standard,Ollachea,,Peru,Debit Card,CUS0139,Completed
+905,2022-07-29,Corporate,Male,Travel,Comfort Accessories,10,Travel Pillow with Memory Foam,29.99,13.52,Express,Ibirama,,Brazil,EMI,CUS0558,Canceled
+906,2025-07-28,Small Business,Male,Food - Condiments,Dressing,27,Mango Chilli Sauce,3.99,16.31,Same Day,Bunut,,Indonesia,UPI,CUS0501,Returned
+907,2024-09-29,Consumer,Female,Books,Journals,3,Handmade Leather Journal,39.99,27.64,Same Day,Netvořice,,Czech Republic,Credit Card,CUS0339,Canceled
+908,2025-06-04,Corporate,Female,Food - Sauces,Asian Sauces,21,Vegetable Stir-Fry Sauce,3.49,10.36,Express,Francova Lhota,,Czech Republic,EMI,CUS0170,Completed
+909,2024-11-06,Consumer,Non-binary,Food - Sauces,Italian Sauces,26,Classic Pesto Sauce,4.29,12.58,Same Day,Richmond,Virginia,United States,COD,CUS0802,Canceled
+910,2025-03-21,Enterprise,Male,Food - Prepared Foods,Salads,17,Chickpea Salad,5.49,24.44,Express,Taldykorgan,,Kazakhstan,EMI,CUS0394,Completed
+911,2023-03-08,Consumer,Female,Fitness,Cardio Equipment,3,Adjustable Skipping Rope,12.99,9.14,Express,Lazaro Cardenas,Guerrero,Mexico,COD,CUS0726,Completed
+912,2022-03-28,Corporate,Female,Food - Produce,Vegetables,30,Zucchini,0.79,10.38,Standard,Jugezhuang,,China,UPI,CUS0209,Canceled
+913,2022-06-14,Consumer,Female,Apps,Productivity,20,Digital Bullet Journal,24.99,27.31,Express,Bezons,Île-de-France,France,COD,CUS0666,Completed
+914,2025-06-11,Corporate,Male,Home,Lighting & Lamps,12,Multicolored LED Strip Lights,29.99,24.79,Same Day,Baishan,,China,Wallet,CUS0255,Completed
+915,2025-06-20,Small Business,Female,Outdoor,Outdoor Furniture,23,Camping Chair,29.99,19.89,Express,Saguday,,Philippines,COD,CUS0493,Canceled
+916,2022-11-02,Corporate,Genderqueer,Food - Condiments,Marinades and Sauces,30,Zesty Garlic Marinade,4.49,16.87,Same Day,Wenquan,,China,UPI,CUS0263,Returned
+917,2023-12-20,Enterprise,Male,Fitness,Hydration Gear,13,Insulated Sport Tumbler,22.99,19.49,Same Day,Mistrató,,Colombia,COD,CUS0244,Completed
+918,2025-04-12,Consumer,Female,Food - Spices,Regional Seasoning Blends,18,Chipotle Seasoning Blend,2.49,13.33,Express,Xiaomian,,China,Wallet,CUS0747,Completed
+919,2022-02-20,Consumer,Agender,Toys,Board Games,9,Puzzle Game Set,34.99,4.77,Express,António Enes,,Mozambique,Wallet,CUS0995,Completed
+920,2023-09-30,Small Business,Male,Kitchen,Small Appliances,24,Electric Food Steamer,59.99,2.34,Standard,San Miguel Ixtahuacán,,Guatemala,EMI,CUS0720   CUS0721,Completed
+921,2023-01-31,Corporate,Male,Kitchen,Coffee Equipment,13,Glass Tea Pot,34.99,1.29,Same Day,Sumberan,,Indonesia,Debit Card,CUS0779,Completed
+922,2023-04-27,Enterprise,Female,Food - Cereals,Granola,19,Chocolate Coconut Granola,3.79,10.39,Standard,Thionville,Lorraine,France,EMI,CUS0583,Canceled
+923,2022-09-02,Small Business,Male,Clothing - Shirts,Dress Shirts,24,Classic Slim Fit Shirt,49.99,16.19,Same Day,Bañga,,Philippines,COD,CUS0417,Completed
+924,2024-07-26,Consumer,Bigender,Kitchen,Coffee Equipment,16,Aeropress Coffee Maker,29.99,18.33,Standard,Qŭrghonteppa,,Tajikistan,Debit Card,CUS0837,Canceled
+925,2022-10-12,Consumer,Female,Food - Prepared Foods,Salads,22,Pesto Pasta Salad,4.99,19.59,Express,Grosuplje,,Slovenia,Credit Card,CUS0053,Canceled
+926,2023-01-16,Consumer,Male,Food - Nut Butters,Nut Butters,4,Maple Almond Butter,5.49,11.15,Express,Kapotnya,,Russia,Debit Card,CUS0875,Canceled
+927,2025-06-23,Enterprise,Male,Health,Aromatherapy & Wellness,23,Essential Oil Diffuser,34.99,17.16,Express,Semiluki,,Russia,COD,CUS0248,Completed
+928,2024-10-10,Consumer,Female,Food - Canned Goods,Canned Legumes,20,Canned Black Beans,1.29,29.96,Same Day,Udachny,,Russia,Credit Card,CUS0847,Canceled
+929,2024-07-05,Consumer,Polygender,Kitchen,Kitchen Storage & Organization,4,Dish Rack,24.99,19.94,Express,Zhongling,,China,Debit Card,CUS0279,Completed
+930,2022-07-27,Enterprise,Female,Audio,Wireless Speakers,4,Portable Bluetooth Speaker,49.99,18.14,Express,Melchor Ocampo,Michoacan De Ocampo,Mexico,UPI,CUS0597,Completed
+931,2024-06-07,Consumer,Male,Photography,Tripods & Accessories,5,Smartphone Tripod,29.99,21.0,Same Day,Babice,,Poland,Credit Card,CUS0497,Completed
+932,2025-06-30,Enterprise,Agender,Food - Produce,Fresh Vegetables,19,Organic Baby Spinach,2.99,25.67,Standard,Solok Timur,,Indonesia,COD,CUS0632,Completed
+933,2023-04-22,Corporate,Female,Food - Prepared Foods,Dips and Spreads,17,Creamy Spinach Dip,5.99,6.55,Standard,Loučovice,,Czech Republic,UPI,CUS0875,Completed
+934,2025-06-08,Consumer,Female,Food - Condiments,Fruit Spreads,24,Strawberry Rhubarb Jam,4.29,6.35,Express,Shuangbaiyang,,China,Wallet,CUS0883,Returned
+935,2022-09-06,Small Business,Female,Garden,Garden Tools,25,Gardening Kneeler and Seat,39.99,24.72,Express,Zhangdian,,China,Credit Card,CUS0983,Returned
+936,2023-05-16,Corporate,Female,Fitness,Cardio Equipment,17,Jump Rope with Counter,12.99,29.75,Express,Gislaved,Jönköping,Sweden,Credit Card,CUS0844,Completed
+937,2025-03-29,Small Business,Female,Food - Produce,Prepared Salads,20,Chickpea Salad Deluxe,4.29,28.77,Same Day,Kuantan,Pahang,Malaysia,COD,CUS0536,Returned
+938,2024-07-16,Consumer,Male,Outdoor,Camping Equipment,6,Reclining Camping Chair,49.99,24.21,Express,Pedinó,,Greece,UPI,CUS0170,Returned
+939,2024-08-03,Small Business,Male,Food - Cereal,Oatmeal,9,Apple Cinnamon Instant Oatmeal,3.49,24.09,Standard,Zbarazh,,Ukraine,Debit Card,CUS0048,Returned
+940,2024-07-15,Small Business,Male,Food - Bakery,Artisan Bread,22,Rustic Italian Breads,3.99,17.72,Same Day,Ranambeling,,Indonesia,Debit Card,CUS0366,Returned
+941,2025-08-20,Consumer,Female,Outdoor,Camping Equipment,6,Premium Flashlight,19.99,16.87,Standard,Türkmenabat,,Turkmenistan,Wallet,CUS0649,Canceled
+942,2024-07-30,Consumer,Female,Food - Canned Goods,Sauces & Condiments,24,Tomato Paste,1.29,16.7,Same Day,Três Coroas,,Brazil,COD,CUS0026,Completed
+943,2024-02-01,Corporate,Female,Food - Confectionery,Chocolate Bars,18,Almond Joy Bars,1.29,7.1,Standard,Trenton,New Jersey,United States,UPI,CUS0852,Returned
+944,2025-04-09,Small Business,Male,Food - Meat,Poultry,28,Spicy Chicken Wings,9.99,15.38,Express,Tiegai,,China,Wallet,CUS0914,Completed
+945,2022-10-06,Consumer,Female,Outdoor,Camping Equipment,28,Collapsible Folding Chair,29.99,22.15,Same Day,Ford,England,United Kingdom,Credit Card,CUS0880   CUS0881,Completed
+946,2023-01-26,Consumer,Male,Food - Frozen Foods,Frozen Snacks,1,Pepperoni Pizza Roll-Ups,5.99,2.06,Express,Liuduzhai,,China,EMI,CUS0435,Completed
+947,2024-12-19,Enterprise,Female,Pets,Grooming Supplies,5,Pet Caress Brush,12.99,16.24,Standard,Ol’gino,,Russia,COD,CUS0363,Completed
+948,2023-03-19,Consumer,Female,Art Supplies,Drawing Supplies,30,Sketchbook,14.99,19.87,Express,Hammam-Lif,,Tunisia,EMI,CUS0524,Completed
+949,2023-06-18,Small Business,Male,Food - Fresh Produce,Vegetables,16,Thyme,2.49,20.43,Express,Bibis,,Indonesia,Debit Card,CUS0267,Completed
+950,2024-07-12,Small Business,Female,Outdoor,Camping Equipment,24,Multi-Tool,39.99,25.39,Same Day,Watoona,,Indonesia,EMI,CUS0828,Completed
+951,2023-04-13,Consumer,Male,Automotive,Automotive Tools,15,Car Diagnostic Scanner,49.99,13.74,Same Day,Muarapinang,,Indonesia,EMI,CUS0253,Completed
+952,2023-05-01,Consumer,Male,Food - Snacks,Vegetable Snacks,12,Kale Chips,3.99,22.71,Standard,Tampere,,Finland,Wallet,CUS0045,Canceled
+953,2022-10-06,Consumer,Female,Food - Condiments,Hot Sauces,11,Sriracha Chili Sauce,2.79,4.88,Express,Calapan,,Philippines,Wallet,CUS0021,Canceled
+954,2023-10-31,Consumer,Male,Clothing - Activewear,Leggings,4,Mesh Sports Leggings,39.99,22.77,Same Day,Hongqiao,,China,Debit Card,CUS0573,Canceled
+955,2022-08-08,Enterprise,Male,Food - Soups,Specialty Soups,22,Miso Soup Starter,2.99,8.27,Standard,Kallithéa,,Greece,Credit Card,CUS0918,Canceled
+956,2022-02-12,Small Business,Female,Food - Canned Goods,Soups & Broths,18,Chicken Broth,2.49,8.15,Express,Ticrapo,,Peru,Wallet,CUS0609,Completed
+957,2022-02-09,Enterprise,Female,Kitchen,Cooking Appliances,18,Instant Pot,89.99,21.72,Standard,Jiekeng,,China,Wallet,CUS0704,Completed
+958,2024-07-28,Small Business,Male,Home,Decorative Wall Art & Accessories,2,Handcrafted Wooden Coasters,19.99,17.59,Same Day,Moste,,Slovenia,UPI,CUS0487,Completed
+959,2025-07-12,Corporate,Female,Fitness,Recovery Tools,11,Foam Muscle Roller,24.99,6.71,Standard,Tohautu,,French Polynesia,Wallet,CUS0346,Returned
+960,2025-04-28,Corporate,Female,Clothing - Outerwear,Activewear Jackets,18,Athletic Jogging Jacket,49.99,3.29,Express,Loum,,Cameroon,Wallet,CUS0473,Returned
+961,2023-11-18,Small Business,Female,Kitchen,Cooking Tools & Utensils,3,Salt and Pepper Grinder Set,19.99,14.26,Standard,Néa Palátia,,Greece,Debit Card,CUS0415,Completed
+962,2022-08-20,Consumer,Female,Food - Prepared Foods,Ready-to-Eat Meals,11,Quinoa Salad,5.99,13.62,Same Day,Grybów,,Poland,Debit Card,CUS0777,Canceled
+963,2025-04-23,Consumer,Female,Food - Vegetable,Vegetable Snacks,22,Chilli Lime Corn on the Cob,1.99,6.27,Express,Cielądz,,Poland,Credit Card,CUS0874,Returned
+964,2024-06-12,Consumer,Female,Food - Prepared Foods,Salads,12,Chicken Salad Kit,5.99,9.51,Express,Enskededalen,Stockholm,Sweden,Debit Card,CUS0402,Completed
+965,2024-06-30,Consumer,Female,Food - Spices & Seasonings,Seasoning Mixes,20,Chili Con Carne Mix,2.99,16.74,Standard,Linxi,,China,Debit Card,CUS0818,Returned
+966,2025-06-21,Small Business,Male,Food - Prepared Meals,Kits - Sushi,18,Spicy Tuna Sushi Kit,8.99,23.33,Express,Shimoda,,Japan,Credit Card,CUS0104,Completed
+967,2022-03-21,Enterprise,Female,Food - Dairy,Cottage Cheese,16,Low-Fat Cottage Cheese,2.99,14.86,Express,Staryy Togul,,Russia,UPI,CUS0878,Completed
+968,2025-03-28,Small Business,Female,Food - Snacks,Healthy Snacks,13,Coconut Chia Seed Pudding,2.99,26.4,Standard,Torzhok,,Russia,EMI,CUS0737,Completed
+969,2023-03-21,Consumer,Male,Kitchen,Drinkware,9,Stainless Steel Water Pitcher,39.99,11.54,Standard,Tayginka,,Russia,Wallet,CUS0480 CUS0481,Returned
+970,2023-11-17,Enterprise,Male,Garden,Indoor Gardening Supplies,10,Mini Indoor Hydroponic Garden,59.99,7.2,Standard,Bayuin,,Philippines,Debit Card,CUS0659,Completed
+971,2025-03-21,Corporate,Male,Toys,Pretend Play Toys,17,Wooden Children's Play Kitchen,129.99,8.01,Express,København,Region Hovedstaden,Denmark,Credit Card,CUS0097,Canceled
+972,2024-05-08,Consumer,Male,Food - Meats,Poultry,8,Whole Roasted Chicken,9.99,7.42,Standard,Aimorés,,Brazil,UPI,CUS0174,Canceled
+973,2023-08-12,Enterprise,Female,Clothing - Bottoms,Bottoms,9,Blue Denim Jeans,49.99,6.58,Same Day,Lagoa Seca,,Brazil,UPI,CUS0220 CUS0221,Completed
+974,2025-03-18,Consumer,Female,Kitchen,Small Appliances,30,Hand Crank Blender,18.99,15.78,Standard,Middleton,England,United Kingdom,Credit Card,CUS0675,Completed
+975,2025-05-21,Enterprise,Male,Food - Meat,Marinated Poultry,8,Lemon Herb Chicken,7.49,1.44,Standard,Salt Lake City,Utah,United States,Credit Card,CUS0714,Completed
+976,2024-11-02,Consumer,Polygender,Toys,Educational Toys,6,Children's Educational Puzzle,19.99,2.75,Standard,Tawun,,Indonesia,Wallet,CUS0904,Completed
+977,2023-07-09,Enterprise,Female,Toys,Board Games,26,Puzzle Game Set,34.99,7.65,Standard,Muro,Porto,Portugal,EMI,CUS0702,Completed
+978,2024-05-30,Enterprise,Genderfluid,Food - Snacks,Nut-Based Snacks,8,Nut Butter Cups,3.99,27.22,Express,San Ricardo,,Philippines,Wallet,CUS0117,Canceled
+979,2022-01-22,Enterprise,Female,Travel,Luggage and Bags,5,Overnight Duffle Bag,34.99,3.07,Standard,Kolwezi,,Democratic Republic of the Congo,UPI,CUS0347,Canceled
+980,2024-12-05,Enterprise,Male,Home,Bedding & Linens,7,Memory Foam Mattress Topper,109.99,21.06,Standard,Destrnik,,Slovenia,COD,CUS0478,Completed
+981,2023-05-31,Corporate,Male,Health,Personal Care & Grooming,27,Face Mask Set,19.99,25.85,Standard,Santa Rosa de Lima,,El Salvador,Wallet,CUS0629,Canceled
+982,2022-03-14,Consumer,Male,Toys,Educational Toys,16,Creative Puzzle Game,19.99,15.21,Standard,Camagüey,,Cuba,COD,CUS0047,Canceled
+983,2024-11-21,Enterprise,Agender,Clothing - Bottoms,Trousers,2,Tailored Dress Pants,79.99,22.91,Same Day,Shuanghe,,China,Wallet,CUS0184,Completed
+984,2024-09-12,Corporate,Female,Baby,Safety Equipment,2,Baby Monitor,79.99,4.47,Same Day,Kolno,,Poland,Wallet,CUS0072,Completed
+985,2022-11-22,Corporate,Female,Clothing - Bottoms,Trousers,14,Tailored Dress Pants,79.99,20.57,Same Day,Bordeaux,Aquitaine,France,UPI,CUS0069,Completed
+986,2022-05-18,Consumer,Male,Food - Grains,Rice,7,Basmati Rice,5.79,18.25,Same Day,Dawangzhuang,,China,UPI,CUS0397,Canceled
+987,2023-01-04,Corporate,Male,Garden,Garden Tools,16,Heavy Duty Gardening Tool Set,49.99,7.99,Standard,Semampirbarat,,Indonesia,Wallet,CUS0964,Returned
+988,2023-04-19,Consumer,Male,Home,Seasonal Home Decor,9,LED Christmas Tree Lights,34.99,3.65,Express,Tungguwaneng,,Indonesia,Wallet,CUS0764,Completed
+989,2023-01-21,Small Business,Male,Outdoor,Outdoor Recreation,10,Reversible Swimming Pool Lounger,34.99,21.92,Same Day,Gérakas,,Greece,UPI,CUS0070,Completed
+990,2023-02-06,Small Business,Male,Gaming,Gaming Accessories,15,Gaming Headset,69.99,1.07,Standard,Marignane,Provence-Alpes-Côte d'Azur,France,Debit Card,CUS0679,Completed
+991,2024-11-05,Enterprise,Male,Beauty,Nail Care,28,Nail Polish Set,25.0,27.71,Same Day,Kalino,,Russia,UPI,CUS0752,Canceled
+992,2023-06-15,Enterprise,Female,Outdoor,Camping Equipment,11,Air Mattress,49.99,4.16,Same Day,Grande Prairie,Alberta,Canada,EMI,CUS0704,Returned
+993,2024-12-03,Small Business,Genderfluid,Food - Frozen Meals,Frozen Asian Meals,30,Spicy Thai Noodles,1.99,7.87,Standard,São Pedro do Estoril,Lisboa,Portugal,COD,CUS0486,Returned
+994,2023-11-22,Corporate,Female,Food - Supplements,Supplements,25,Chocolate Protein Powder,24.99,20.46,Express,Rutana,,Burundi,UPI,CUS0308,Canceled
+995,2022-05-11,Small Business,Male,Audio,Karaoke Equipment,21,Home Karaoke System,129.99,28.16,Express,Herrljunga,Västra Götaland,Sweden,EMI,CUS0735,Returned
+996,2024-12-03,Corporate,Female,Food - Salads,Healthy Salads,15,Mediterranean Chickpea Salad,5.99,11.07,Same Day,Yangying,,China,COD,CUS0410 CUS0411,Completed
+997,2023-11-23,Enterprise,Male,Pets,Grooming Supplies,5,Pet Hair Removal Roller,10.99,5.32,Standard,Utrecht (stad),Provincie Utrecht,Netherlands,UPI,CUS0473,Canceled
+998,2025-03-02,Consumer,Female,Garden,Garden Tools,29,Gardening Gloves with Claws,24.99,15.45,Same Day,Sijihong,,China,EMI,CUS0286,Completed
+999,2023-01-31,Small Business,Female,Pets,Pet Safety Gear,14,Pet Safety Harness,24.99,9.46,Same Day,Mucllo,,Peru,UPI,CUS0994,Completed
+1000,2024-01-02,Small Business,Male,Food - Snacks,Candy,14,Peanut Butter Pretzel Nuggets,3.29,21.18,Same Day,Białobrzegi,,Poland,COD,CUS0473,Canceled

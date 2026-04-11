@@ -1,6 +1,5 @@
 # 📊 Elevexa – Business Insights Dashboard
 
-**Tableau Public Link**: [View Interactive Dashboard](https://public.tableau.com/app/profile/tanu.patil/viz/Book1_17228741170020/Overview)
 
 ## 🧠 Project Overview
 
